@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "125th Emperor of Japan (reign 1989-2019)",
+          "id": "1109143548853551105",
+          "name": "Akihito (明仁)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "1836620065791262813",
+    "created_at": "2024-09-19T04:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T05:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836620065791262813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MisterYang8813…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/MisterYang88137/status/1836244490148786187",
+          "start": 12,
+          "url": "https://t.co/5xgwaIJxFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836620065791262813",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836244490148786187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种人和砍小孩的坐一桌 https://t.co/5xgwaIJxFR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "1836620065791262813",
+        "created_at": "2024-09-19T04:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T05:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836620065791262813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MisterYang8813…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/MisterYang88137/status/1836244490148786187",
+              "start": 12,
+              "url": "https://t.co/5xgwaIJxFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836620065791262813",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836244490148786187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种人和砍小孩的坐一桌 https://t.co/5xgwaIJxFR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836244486000885760"
+          ]
+        },
+        "author_id": "1634559545975664640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "1836234246094217650",
+        "created_at": "2024-09-18T03:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T04:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836244490148786187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l77vqbms4f",
+              "end": 39,
+              "expanded_url": "https://twitter.com/MisterYang88137/status/1836244490148786187/photo/1",
+              "media_key": "3_1836244486000885760",
+              "start": 16,
+              "url": "https://t.co/L77vQBmS4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836244490148786187",
+        "in_reply_to_user_id": "1634559545975664640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10854,
+          "like_count": 166,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836234246094217650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天皇陛下万岁！大日本帝国万岁！ https://t.co/L77vQBmS4F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24.01.05/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 978,
+          "like_count": 7351,
+          "listed_count": 2,
+          "tweet_count": 1286
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T14:19:14.000Z",
+        "description": "I'm an artist, I'm a performance artist.",
+        "id": "1634559545975664640",
+        "name": "大种马🕯",
+        "pinned_tweet_id": "1836588022072250632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836591595187245058/yL8-brWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10781,
+          "following_count": 549,
+          "like_count": 62982,
+          "listed_count": 32,
+          "tweet_count": 19604
+        },
+        "username": "MisterYang88137",
+        "verified": false
+      }
+    ]
+  }
+}

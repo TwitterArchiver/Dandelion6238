@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1862843020670071045",
+    "created_at": "2024-11-30T12:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T13:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862843020670071045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TXTYYDZ/status…",
+          "end": 198,
+          "expanded_url": "https://twitter.com/TXTYYDZ/status/1862498709034213398",
+          "start": 175,
+          "url": "https://t.co/nRyshsacyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862843020670071045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862498709034213398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你对这些国家的感受怎么样？\n🇹🇼:三民主义、窝囊兵\n🇺🇸:military\n🇲🇽:艺术、食物\n🇮🇱:恩德培行动时期的荣光呢？\n🇵🇸:Not a country.\n🇸🇦:最该图的\n🇨🇳:评论违规，您的评论被移除。理由：涉政谣言\n🇰🇵:恩情\n🇰🇷:三星、整容、女权\n🇯🇵:武士、二次元、电子游戏\n🇬🇧🇪🇺:乌克兰就靠你们了🙏\n🇭🇰:时代革命、金融、歧视 https://t.co/nRyshsacyl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1862843020670071045",
+        "created_at": "2024-11-30T12:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T13:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862843020670071045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TXTYYDZ/status…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/TXTYYDZ/status/1862498709034213398",
+              "start": 175,
+              "url": "https://t.co/nRyshsacyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862843020670071045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862498709034213398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你对这些国家的感受怎么样？\n🇹🇼:三民主义、窝囊兵\n🇺🇸:military\n🇲🇽:艺术、食物\n🇮🇱:恩德培行动时期的荣光呢？\n🇵🇸:Not a country.\n🇸🇦:最该图的\n🇨🇳:评论违规，您的评论被移除。理由：涉政谣言\n🇰🇵:恩情\n🇰🇷:三星、整容、女权\n🇯🇵:武士、二次元、电子游戏\n🇬🇧🇪🇺:乌克兰就靠你们了🙏\n🇭🇰:时代革命、金融、歧视 https://t.co/nRyshsacyl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "1862498709034213398",
+        "created_at": "2024-11-29T14:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862498709034213398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liuying_021464…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/liuying_021464/status/1862475833727668316",
+              "start": 166,
+              "url": "https://t.co/oujliX47FD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862498709034213398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15594,
+          "like_count": 73,
+          "quote_count": 13,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862475833727668316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你对这些国家的感受怎么样？\n🇹🇼:怕死，不说了\n🇺🇸:怕死，不说了\n🇨🇦:怕死，不说了\n🇲🇽:塔可好吃\n🇷🇺:怕死，不说了\n🇺🇦:怕死，不说了\n🇮🇱:怕死，不说了\n🇵🇸:怕死，不说了\n🇸🇦:油便宜\n🇨🇳:最伟大的祖国妈妈，我永远是中国人！\n🇰🇵:怕死，不说了\n🇰🇷:现代车，三星手机👍🏻\n🇯🇵:🥰\n🇬🇧🇪🇺:6\n🇭🇰:怕死，不说了 https://t.co/oujliX47FD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1861973650880229609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 981,
+          "like_count": 7604,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1298
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "抽象与生活，梗图即为艺术！\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "铁西区是沈阳的不是鞍山也不是四平铁西区",
+        "name": "田小唐",
+        "pinned_tweet_id": "1861387934043381936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859925167511867392/8aZE_D2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 838,
+          "like_count": 32102,
+          "listed_count": 6,
+          "media_count": 1215,
+          "tweet_count": 7080
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

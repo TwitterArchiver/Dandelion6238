@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1866064863916879989",
+    "created_at": "2024-12-09T10:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T11:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866068459043643803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 0,
+          "username": "bakajinping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866068459043643803",
+    "in_reply_to_user_id": "1699298317392580608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866067969325125736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakajinping 感谢您的评价，祝您生活愉快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1866064863916879989",
+        "created_at": "2024-12-09T10:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T11:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866068459043643803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 0,
+              "username": "bakajinping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866068459043643803",
+        "in_reply_to_user_id": "1699298317392580608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866067969325125736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakajinping 感谢您的评价，祝您生活愉快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699298317392580608",
+        "conversation_id": "1866064863916879989",
+        "created_at": "2024-12-09T10:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T11:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866067969325125736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866067969325125736",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866064863916879989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 C比较满意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1864465117498511560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 976,
+          "like_count": 7613,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1342
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "我最ㄞ的主席@xi_jinping_2952",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "xi_jinping_2952"
+              }
+            ]
+          }
+        },
+        "id": "1699298317392580608",
+        "name": "任秉慧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864482873438556165/_DbV0Ren_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 647,
+          "like_count": 53816,
+          "listed_count": 3,
+          "media_count": 2912,
+          "tweet_count": 17081
+        },
+        "username": "bakajinping",
+        "verified": false
+      }
+    ]
+  }
+}

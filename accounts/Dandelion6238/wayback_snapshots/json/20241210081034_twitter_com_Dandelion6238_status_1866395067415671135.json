@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1866387795650167123",
+    "created_at": "2024-12-10T08:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T09:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866395067415671135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1866154099001155584",
+          "start": 0,
+          "username": "mtfaIIhuakbar"
+        },
+        {
+          "end": 28,
+          "id": "1792101664117161984",
+          "start": 15,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866395067415671135",
+    "in_reply_to_user_id": "1866154099001155584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866387795650167123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtfaIIhuakbar @Amberlona_LK 硬串只会让别人觉得你是个小丑🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1866387795650167123",
+        "created_at": "2024-12-10T08:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T09:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866395067415671135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1866154099001155584",
+              "start": 0,
+              "username": "mtfaIIhuakbar"
+            },
+            {
+              "end": 28,
+              "id": "1792101664117161984",
+              "start": 15,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866395067415671135",
+        "in_reply_to_user_id": "1866154099001155584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866387795650167123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtfaIIhuakbar @Amberlona_LK 硬串只会让别人觉得你是个小丑🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866154099001155584",
+        "conversation_id": "1866387795650167123",
+        "created_at": "2024-12-10T07:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T08:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866387795650167123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1792101664117161984",
+              "start": 4,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866387795650167123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是 @Amberlona_LK 本人，我其实是个反跨性别的人，请大家随意攻击我的时候注意要谴责我的错误观点。\n但是请大家不要因为我有一些错误观点，还经常在推上批判跨性别，就去攻击我帮助的其他跨性别。大家来一起攻击我Amberlona吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "Dandelion",
+        "pinned_tweet_id": "1866064863916879989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 979,
+          "like_count": 7618,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1332
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T16:13:15.000Z",
+        "description": "简中药圈相关Q事与段子收集\n\n| 就要评价，胡乱核实，到处谏言，不负责任\n| 目光长远，奶子扁平，思维正常，仇恨增加\n\n主账号：@Amberlona_LK\n老公：@YuedongQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Amberlona_LK"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "YuedongQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1866154099001155584",
+        "name": "爱跨清蒸协会🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866154535204655104/Kn-42nXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "mtfaIIhuakbar",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "she/her\n不要讨厌我😭\n极深柜的底层穷人 但是永远爱大家\n本体是直言不讳的玫瑰剑客\n心中的大姐姐：Diana Spencer\n星空合众国居民\nLGBTQ+友好\n以清水+牢骚+学术为主 清水牢骚占大头\n现实与理想混合的进步派左翼\n@bayer04fussball 球迷\n独立生活派\n道教正一派/佛教禅宗/祆教/景教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "bayer04fussball"
+              }
+            ]
+          }
+        },
+        "id": "1792101664117161984",
+        "location": "Sonder rede dra hulle dieblaam",
+        "name": "Tuệ Quều",
+        "pinned_tweet_id": "1858043172703682561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792112053118791680/8zI0c-Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 504,
+          "like_count": 24700,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 9734
+        },
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

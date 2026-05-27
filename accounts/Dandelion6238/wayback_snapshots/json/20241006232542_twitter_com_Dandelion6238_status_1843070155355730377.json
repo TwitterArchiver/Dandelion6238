@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1842928953008529724",
+    "created_at": "2024-10-06T23:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T00:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843070155355730377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1074448466",
+          "start": 0,
+          "username": "PAYDAYGame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843070155355730377",
+    "in_reply_to_user_id": "1074448466",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842928953008529724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PAYDAYGame 蒸蒸日上啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1842928953008529724",
+        "created_at": "2024-10-06T23:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T00:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843070155355730377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1074448466",
+              "start": 0,
+              "username": "PAYDAYGame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843070155355730377",
+        "in_reply_to_user_id": "1074448466",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842928953008529724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PAYDAYGame 蒸蒸日上啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842928949468229632"
+          ]
+        },
+        "author_id": "1074448466",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1842928953008529724",
+        "created_at": "2024-10-06T14:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T15:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842928953008529724"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "NewProfilePic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vn71Z6ZjVI",
+              "end": 38,
+              "expanded_url": "https://x.com/PAYDAYGame/status/1842928953008529724/photo/1",
+              "media_key": "3_1842928949468229632",
+              "start": 15,
+              "url": "https://t.co/vn71Z6ZjVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842928953008529724",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 23040,
+          "like_count": 1457,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "#NewProfilePic https://t.co/vn71Z6ZjVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 990,
+          "like_count": 7583,
+          "listed_count": 2,
+          "tweet_count": 1326
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-09T17:55:13.000Z",
+        "description": "It’s PAYDAY! Buy #PAYDAY3🗽#PAYDAY2 by @starbreezeAB Rob banks on PC/VR/PS/Xbox 💰 ESRB: Mature, Blood and Gore, Drugs, Intense Violence.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 17,
+                "tag": "PAYDAY3"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "tag": "PAYDAY2"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "starbreezeAB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pd3.link/tree",
+                "end": 23,
+                "expanded_url": "http://pd3.link/tree",
+                "start": 0,
+                "url": "https://t.co/g2CXq7kWcJ"
+              }
+            ]
+          }
+        },
+        "id": "1074448466",
+        "location": "Crimenet",
+        "name": "PAYDAY 3",
+        "pinned_tweet_id": "1841775312939405622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842928937107640320/snGtCwlw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346723,
+          "following_count": 9336,
+          "like_count": 29106,
+          "listed_count": 358,
+          "tweet_count": 33059
+        },
+        "url": "https://t.co/g2CXq7kWcJ",
+        "username": "PAYDAYGame",
+        "verified": true
+      }
+    ]
+  }
+}

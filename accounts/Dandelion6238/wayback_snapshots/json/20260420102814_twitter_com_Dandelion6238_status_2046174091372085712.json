@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2045927367861010668",
+    "created_at": "2026-04-20T10:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046174091372085712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600148543125090305",
+          "start": 0,
+          "username": "NakaharaBulbel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046174091372085712",
+    "in_reply_to_user_id": "1600148543125090305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045927367861010668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakaharaBulbel 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045927358209941504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSYF65bYAA-EOj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2045927367861010668",
+        "created_at": "2026-04-20T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046174091372085712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600148543125090305",
+              "start": 0,
+              "username": "NakaharaBulbel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046174091372085712",
+        "in_reply_to_user_id": "1600148543125090305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045927367861010668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakaharaBulbel 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045927358209941504"
+          ]
+        },
+        "author_id": "1600148543125090305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045927367861010668",
+        "created_at": "2026-04-19T18:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045927367861010668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKbj39ebTI",
+              "end": 49,
+              "expanded_url": "https://x.com/NakaharaBulbel/status/2045927367861010668/photo/1",
+              "media_key": "3_2045927358209941504",
+              "start": 26,
+              "url": "https://t.co/NKbj39ebTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045927367861010668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的真恶心切割了！（切自己的睾丸真的会有流量吗？） https://t.co/NKbj39ebTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1001,
+          "like_count": 7150,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 914
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "正在向崩溃发展，急需要爱，坐标安徽蚌埠。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nakaharabulbel",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nakaharabulbel",
+                "start": 0,
+                "url": "https://t.co/KC6nMpv3E2"
+              }
+            ]
+          }
+        },
+        "id": "1600148543125090305",
+        "location": "🚪38u，但是我很废",
+        "name": "珠芽（想涨fo中）",
+        "pinned_tweet_id": "2043957185634595025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041074958781272064/hww1YOFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 410,
+          "like_count": 10043,
+          "listed_count": 5,
+          "media_count": 174,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/KC6nMpv3E2",
+        "username": "NakaharaBulbel",
+        "verified": false
+      }
+    ]
+  }
+}

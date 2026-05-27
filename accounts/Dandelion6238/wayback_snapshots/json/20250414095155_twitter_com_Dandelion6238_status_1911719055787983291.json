@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1911668611841671206",
+    "created_at": "2025-04-14T09:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T10:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911719055787983291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "khdrd4"
+        },
+        {
+          "end": 23,
+          "id": "1511185667274907652",
+          "start": 8,
+          "username": "RevolutionTide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911719055787983291",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911718876574061018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khdrd4 @RevolutionTide 🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1911668611841671206",
+        "created_at": "2025-04-14T09:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911719055787983291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "khdrd4"
+            },
+            {
+              "end": 23,
+              "id": "1511185667274907652",
+              "start": 8,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911719055787983291",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911718876574061018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khdrd4 @RevolutionTide 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "1911668611841671206",
+        "created_at": "2025-04-14T09:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911718876574061018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            },
+            {
+              "end": 30,
+              "id": "1511185667274907652",
+              "start": 15,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911718876574061018",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911698664721887236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 @RevolutionTide 忠诚！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1083,
+          "like_count": 7767,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 764
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19",
+        "id": "1605245047590780928",
+        "location": "距离您439m",
+        "name": "khdrd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784751371708944384/zJKEhXae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 463,
+          "like_count": 53921,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 713
+        },
+        "username": "khdrd4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "这里是罗陀斯，就在这里跳跃吧！ 这里有玫瑰花，就在这里跳舞吧！ /自治主义马克思主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/index.…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/index.html",
+                "start": 0,
+                "url": "https://t.co/rdnePFlzkn"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "爱丽丝电台",
+        "name": "La Vague Révolutionnaire",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908156351907262464/tziMUK24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 3120,
+          "like_count": 89423,
+          "listed_count": 28,
+          "media_count": 378,
+          "tweet_count": 4570
+        },
+        "url": "https://t.co/rdnePFlzkn",
+        "username": "RevolutionTide",
+        "verified": false
+      }
+    ]
+  }
+}

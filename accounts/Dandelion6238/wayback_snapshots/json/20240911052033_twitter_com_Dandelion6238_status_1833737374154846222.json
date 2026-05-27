@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833345698248478961",
+    "created_at": "2024-09-11T05:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T06:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833737374154846222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676084697489874946",
+          "start": 0,
+          "username": "yueguazhitou"
+        },
+        {
+          "end": 28,
+          "id": "1566815552777383936",
+          "start": 14,
+          "username": "TianqiChen666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833737374154846222",
+    "in_reply_to_user_id": "1676084697489874946",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833479218124230707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueguazhitou @TianqiChen666 可这是初三🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833345698248478961",
+        "created_at": "2024-09-11T05:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T06:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833737374154846222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676084697489874946",
+              "start": 0,
+              "username": "yueguazhitou"
+            },
+            {
+              "end": 28,
+              "id": "1566815552777383936",
+              "start": 14,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833737374154846222",
+        "in_reply_to_user_id": "1676084697489874946",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833479218124230707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueguazhitou @TianqiChen666 可这是初三🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676084697489874946",
+        "conversation_id": "1833345698248478961",
+        "created_at": "2024-09-10T12:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T13:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833479218124230707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833479218124230707",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833345698248478961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 其实真的需要..  好多高二的孩子性经验比我都丰富"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "怀旧版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833483328504098818/M_5K0sFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 973,
+          "like_count": 7201,
+          "listed_count": 2,
+          "tweet_count": 1312
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T04:25:40.000Z",
+        "description": "想成为像狗一样忠诚的人",
+        "id": "1676084697489874946",
+        "name": "松衣",
+        "pinned_tweet_id": "1831202787713270086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817518765191614464/LnoxKeXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 39,
+          "like_count": 7585,
+          "listed_count": 0,
+          "tweet_count": 1654
+        },
+        "username": "yueguazhitou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、06、🚹、中国人です🇨🇳、いま成都に住んでいる、自国を愛する。もちろん、みんなと仲良くしたい\n|日常|絡み重視|変な垢以外フォロバ💯|アニメ|ゲーム|kig初心者|里：@menma_sub|\n興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ\n｜私は日本語を自分で勉強しています｜\n匿名質問↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "原神"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "menma_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/TianqiChen6665…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/TianqiChen66655157",
+                "start": 0,
+                "url": "https://t.co/fCSPq9Gws0"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1674739627121606656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651955050032533504/SPAFB7jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3314,
+          "following_count": 3213,
+          "like_count": 34930,
+          "listed_count": 11,
+          "tweet_count": 8004
+        },
+        "url": "https://t.co/fCSPq9Gws0",
+        "username": "TianqiChen666",
+        "verified": true
+      }
+    ]
+  }
+}

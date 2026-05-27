@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1840340496134090786",
+    "created_at": "2024-09-30T01:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T02:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840563338973180211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705953693336756224",
+          "start": 0,
+          "username": "shensheng657867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840563338973180211",
+    "in_reply_to_user_id": "1705953693336756224",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840562315978006998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shensheng657867 ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1840340496134090786",
+        "created_at": "2024-09-30T01:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T02:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840563338973180211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705953693336756224",
+              "start": 0,
+              "username": "shensheng657867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840563338973180211",
+        "in_reply_to_user_id": "1705953693336756224",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840562315978006998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shensheng657867 ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705953693336756224",
+        "conversation_id": "1840340496134090786",
+        "created_at": "2024-09-30T01:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T02:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840562315978006998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840562315978006998",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840340496134090786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 建议加上我（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 990,
+          "like_count": 7557,
+          "listed_count": 2,
+          "tweet_count": 1367
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T14:34:19.000Z",
+        "description": "男生嘛︱友跨🏳️‍⚧️︱想交朋友！︱是一只只会看轻小说折磨自己的小书虫︱是只猫猫︱07︱🚪20(？)︱正常会发点小说什么的︱猫猫@eve_city︱妈妈@catbai_0catbai0︱女儿@DZXleimu︱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "eve_city"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "catbai_0catbai0"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "DZXleimu"
+              }
+            ]
+          }
+        },
+        "id": "1705953693336756224",
+        "name": "墨白铃铛(叮当叮当)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769388848034062336/Y8iDoXPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 451,
+          "like_count": 802,
+          "listed_count": 1,
+          "tweet_count": 277
+        },
+        "username": "shensheng657867",
+        "verified": false
+      }
+    ]
+  }
+}

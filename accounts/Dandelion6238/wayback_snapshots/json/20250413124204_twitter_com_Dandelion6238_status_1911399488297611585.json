@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1911397276527767964",
+    "created_at": "2025-04-13T12:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T13:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911399488297611585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684788748582883328",
+          "start": 0,
+          "username": "Martim036145"
+        },
+        {
+          "end": 24,
+          "id": "1897976047779360768",
+          "start": 14,
+          "username": "Wuying333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911399488297611585",
+    "in_reply_to_user_id": "1684788748582883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911398426660540651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martim036145 @Wuying333 京东只有半夜会涨，天气什么的都不涨（至少客户端看到的是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1911397276527767964",
+        "created_at": "2025-04-13T12:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T13:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911399488297611585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            },
+            {
+              "end": 24,
+              "id": "1897976047779360768",
+              "start": 14,
+              "username": "Wuying333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911399488297611585",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911398426660540651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 @Wuying333 京东只有半夜会涨，天气什么的都不涨（至少客户端看到的是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788748582883328",
+        "conversation_id": "1911397276527767964",
+        "created_at": "2025-04-13T12:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T13:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911398426660540651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897976047779360768",
+              "start": 0,
+              "username": "Wuying333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911398426660540651",
+        "in_reply_to_user_id": "1897976047779360768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911398128500043846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuying333 恶劣天气单价会涨很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1083,
+          "like_count": 7764,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 756
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆下水道粪蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/启动困难/间歇性想死",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892816510894092288/wAtxave-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 809,
+          "like_count": 7860,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 2983
+        },
+        "username": "Martim036145",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T11:42:23.000Z",
+        "description": "MTF｜碎碎念推｜自我介绍请看置顶",
+        "id": "1897976047779360768",
+        "name": "吴Y",
+        "pinned_tweet_id": "1907314595267477908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908010815141380096/Xu2sGXEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 216,
+          "like_count": 2516,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 845
+        },
+        "username": "Wuying333",
+        "verified": false
+      }
+    ]
+  }
+}

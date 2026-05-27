@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2048937887656223059",
+    "created_at": "2026-04-28T01:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048937887656223059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944862516976472064",
+          "start": 3,
+          "username": "Mickey06101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048937887656223059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048762469913706873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mickey06101: 我好喜欢在do的很激烈的时候被男生掐着脖子。。。我的内心好满足好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2048937887656223059",
+        "created_at": "2026-04-28T01:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048937887656223059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944862516976472064",
+              "start": 3,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048937887656223059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048762469913706873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mickey06101: 我好喜欢在do的很激烈的时候被男生掐着脖子。。。我的内心好满足好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944862516976472064",
+        "conversation_id": "2048762469913706873",
+        "created_at": "2026-04-27T13:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048762469913706873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048762469913706873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21201,
+          "like_count": 229,
+          "quote_count": 1,
+          "reply_count": 204,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢在do的很激烈的时候被男生掐着脖子。。。我的内心好满足好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1005,
+          "like_count": 7164,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 960
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T20:52:22.000Z",
+        "description": "玩推只是分享生活",
+        "id": "1944862516976472064",
+        "location": "🚪188",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77481,
+          "following_count": 17,
+          "like_count": 1220,
+          "listed_count": 106,
+          "media_count": 278,
+          "tweet_count": 1096
+        },
+        "username": "Mickey06101",
+        "verified": false
+      }
+    ]
+  }
+}

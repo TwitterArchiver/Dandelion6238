@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1842896181879324815",
+    "created_at": "2024-10-06T13:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T14:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842925761386463727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Susiethegamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842925761386463727",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842896181879324815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Susiethegamer 不是很好吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1842896181879324815].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1842896181879324815",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1842896181879324815"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1842896181879324815",
+        "created_at": "2024-10-06T13:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T14:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842925761386463727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Susiethegamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842925761386463727",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842896181879324815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Susiethegamer 不是很好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 989,
+          "like_count": 7582,
+          "listed_count": 2,
+          "tweet_count": 1323
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "ヨルシカ◂Ⓘ▸/ゲーム🎮/カルピス🥛/ユニクロ👒/小孩@acenanami/可爱姐姐@lum1neko/🏳️‍⚧️🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "acenanami"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "lum1neko"
+              }
+            ]
+          }
+        },
+        "id": "1688233455363219456",
+        "name": "𝓒𝓻𝔂𝓼𝓽𝓪𝓵𝓵𝓲𝓷𝓮 𝓢𝓱𝓲𝓷𝓮",
+        "pinned_tweet_id": "1837849254397977009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842483893506887680/QuvrUH1r_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 901,
+          "like_count": 121634,
+          "listed_count": 4,
+          "tweet_count": 23020
+        },
+        "username": "Susiethegamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1839225150581125327",
+    "created_at": "2024-09-26T08:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T09:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839225150581125327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BillboardChris…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/BillboardChris/status/1838625726125531292",
+          "start": 14,
+          "url": "https://t.co/QFhVyrdvs2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839225150581125327",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838625726125531292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下直接性别肯定激素治疗了 https://t.co/QFhVyrdvs2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1839225150581125327",
+        "created_at": "2024-09-26T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839225150581125327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BillboardChris…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/BillboardChris/status/1838625726125531292",
+              "start": 14,
+              "url": "https://t.co/QFhVyrdvs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839225150581125327",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838625726125531292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下直接性别肯定激素治疗了 https://t.co/QFhVyrdvs2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "191167764",
+        "conversation_id": "1838625726125531292",
+        "created_at": "2024-09-24T17:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T18:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838625726125531292"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "American Academy of Pediatrics",
+              "probability": 0.5195,
+              "start": 56,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rogerseverino_…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/rogerseverino_/status/1838607152912703614",
+              "start": 281,
+              "url": "https://t.co/qS4NoJWRk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838625726125531292",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1628,
+          "impression_count": 32658276,
+          "like_count": 31395,
+          "quote_count": 456,
+          "reply_count": 818,
+          "retweet_count": 9254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838607152912703614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Massive news!\n\n22 Attorneys General are threatening the American Academy of Pediatrics with fraud enforcement due to their continued promotion of puberty blockers!\n\n\"It is abusive to treat a child with biologically altering drugs that have an unknown physiological trajectory and… https://t.co/qS4NoJWRk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 989,
+          "like_count": 7540,
+          "listed_count": 2,
+          "tweet_count": 1349
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-15T19:30:15.000Z",
+        "description": "Dad: A human male who protects his kids from gender ideology. Traveling the world to stop child transition one conversation at a time. https://t.co/DN4D6NANIM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "billboardchris.com/donate",
+                "end": 158,
+                "expanded_url": "http://billboardchris.com/donate",
+                "start": 135,
+                "url": "https://t.co/DN4D6NANIM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "billboardchris.com",
+                "end": 23,
+                "expanded_url": "http://billboardchris.com",
+                "start": 0,
+                "url": "https://t.co/JfTsn5SfRJ"
+              }
+            ]
+          }
+        },
+        "id": "191167764",
+        "location": "South Surrey, British Columbia",
+        "name": "Billboard Chris 🇨🇦🇺🇸",
+        "pinned_tweet_id": "1727200514360950937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824332955516284928/17qcF5kj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454158,
+          "following_count": 847,
+          "like_count": 119161,
+          "listed_count": 1210,
+          "tweet_count": 57722
+        },
+        "url": "https://t.co/JfTsn5SfRJ",
+        "username": "BillboardChris",
+        "verified": true
+      }
+    ]
+  }
+}

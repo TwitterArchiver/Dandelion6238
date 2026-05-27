@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1912444772947484968",
+    "created_at": "2025-04-16T10:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912455499024396740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688819263606575105",
+          "start": 0,
+          "username": "kangkkk777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912455499024396740",
+    "in_reply_to_user_id": "1688819263606575105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912454924748877844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kangkkk777 医院开的，有处方的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1912444772947484968",
+        "created_at": "2025-04-16T10:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912455499024396740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688819263606575105",
+              "start": 0,
+              "username": "kangkkk777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912455499024396740",
+        "in_reply_to_user_id": "1688819263606575105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912454924748877844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kangkkk777 医院开的，有处方的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688819263606575105",
+        "conversation_id": "1912444772947484968",
+        "created_at": "2025-04-16T10:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912454924748877844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912454924748877844",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912444772947484968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 问一下哪买的兴奋剂啊，想买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/ISFP也可能是ISTP/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 37,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 1087,
+          "like_count": 7778,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 774
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T07:47:50.000Z",
+        "description": "～",
+        "id": "1688819263606575105",
+        "name": "噜啦啦啦啦啦",
+        "pinned_tweet_id": "1775530847975956597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690441875075784706/fF61U_u2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 189,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 38
+        },
+        "username": "kangkkk777",
+        "verified": false
+      }
+    ]
+  }
+}

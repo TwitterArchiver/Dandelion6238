@@ -1,0 +1,930 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856515708181676032",
+        "3_1856515710102753280"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026784917",
+          "name": "Activision"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1425921713150201858",
+          "name": "Xbox Game Pass"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Call of Duty: Black Ops 4",
+          "id": "997093174341337088",
+          "name": "Call of Duty: Black Ops 4"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1828473756735414272",
+          "name": "Call of Duty: Black Ops 6"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026784917",
+          "name": "Activision"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026784917",
+          "name": "Activision"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219785936931672064",
+          "name": "Call of Duty League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491568747261292546",
+          "name": "Gaming services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "1856515713193914534",
+    "created_at": "2024-11-13T01:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T02:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856515713193914534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 89,
+          "id": "24742040",
+          "start": 84,
+          "username": "Xbox"
+        },
+        {
+          "end": 103,
+          "id": "956692683661107201",
+          "start": 90,
+          "username": "XboxGamePass"
+        },
+        {
+          "end": 115,
+          "id": "290097288",
+          "start": 104,
+          "username": "CallofDuty"
+        },
+        {
+          "end": 127,
+          "id": "612782611",
+          "start": 116,
+          "username": "Activision"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mmIeJVg1BW",
+          "end": 151,
+          "expanded_url": "https://x.com/Dandelion6238/status/1856515713193914534/photo/1",
+          "media_key": "3_1856515708181676032",
+          "start": 128,
+          "url": "https://t.co/mmIeJVg1BW"
+        },
+        {
+          "display_url": "pic.x.com/mmIeJVg1BW",
+          "end": 151,
+          "expanded_url": "https://x.com/Dandelion6238/status/1856515713193914534/photo/1",
+          "media_key": "3_1856515710102753280",
+          "start": 128,
+          "url": "https://t.co/mmIeJVg1BW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856515713193914534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Game pass订阅期间内，为什么我不能玩BO6？\nWhy can't I play BO6 during my Game pass subscription?\n@Xbox @XboxGamePass @CallofDuty @Activision https://t.co/mmIeJVg1BW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_1856515708181676032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcOrM0oaAAA5wMg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1856515710102753280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcOrM7ybUAAtEZi.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856515708181676032",
+            "3_1856515710102753280"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026784917",
+              "name": "Activision"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1425921713150201858",
+              "name": "Xbox Game Pass"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Call of Duty: Black Ops 4",
+              "id": "997093174341337088",
+              "name": "Call of Duty: Black Ops 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1828473756735414272",
+              "name": "Call of Duty: Black Ops 6"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026784917",
+              "name": "Activision"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026784917",
+              "name": "Activision"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219785936931672064",
+              "name": "Call of Duty League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568747261292546",
+              "name": "Gaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1856515713193914534",
+        "created_at": "2024-11-13T01:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T02:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856515713193914534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "24742040",
+              "start": 84,
+              "username": "Xbox"
+            },
+            {
+              "end": 103,
+              "id": "956692683661107201",
+              "start": 90,
+              "username": "XboxGamePass"
+            },
+            {
+              "end": 115,
+              "id": "290097288",
+              "start": 104,
+              "username": "CallofDuty"
+            },
+            {
+              "end": 127,
+              "id": "612782611",
+              "start": 116,
+              "username": "Activision"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmIeJVg1BW",
+              "end": 151,
+              "expanded_url": "https://x.com/Dandelion6238/status/1856515713193914534/photo/1",
+              "media_key": "3_1856515708181676032",
+              "start": 128,
+              "url": "https://t.co/mmIeJVg1BW"
+            },
+            {
+              "display_url": "pic.x.com/mmIeJVg1BW",
+              "end": 151,
+              "expanded_url": "https://x.com/Dandelion6238/status/1856515713193914534/photo/1",
+              "media_key": "3_1856515710102753280",
+              "start": 128,
+              "url": "https://t.co/mmIeJVg1BW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856515713193914534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Game pass订阅期间内，为什么我不能玩BO6？\nWhy can't I play BO6 during my Game pass subscription?\n@Xbox @XboxGamePass @CallofDuty @Activision https://t.co/mmIeJVg1BW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 984,
+          "like_count": 7557,
+          "listed_count": 1,
+          "tweet_count": 1275
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-16T18:30:52.000Z",
+        "description": "Someone get us a Ray Gun",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Xbox.com",
+                "end": 23,
+                "expanded_url": "http://Xbox.com",
+                "start": 0,
+                "url": "https://t.co/C1bIH5PDZK"
+              }
+            ]
+          }
+        },
+        "id": "24742040",
+        "location": "Terminus Island Complex",
+        "name": "Xbox",
+        "pinned_tweet_id": "1852380152405131446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847306682558283776/NhbmnsZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24301835,
+          "following_count": 15214,
+          "like_count": 6784,
+          "listed_count": 22079,
+          "tweet_count": 314854
+        },
+        "url": "https://t.co/C1bIH5PDZK",
+        "username": "Xbox",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-26T00:58:05.000Z",
+        "description": "Anyone want to split a wall buy",
+        "id": "956692683661107201",
+        "location": "Liberty Falls, West Virginia",
+        "name": "Xbox Game Pass",
+        "pinned_tweet_id": "1849843410154209316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849524318809808896/GGwtFx5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836966,
+          "following_count": 32,
+          "like_count": 773,
+          "listed_count": 3559,
+          "tweet_count": 34673
+        },
+        "username": "XboxGamePass",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-29T18:40:55.000Z",
+        "description": "Currently on the camo grind. Play Call of Duty #Warzone and #BlackOps6 now.\n\nFor live status updates 👉 @CODUpdates.\nFor player stats 👉 @CODCombatRecord.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "Warzone"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "tag": "BlackOps6"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "CODUpdates"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "CODCombatRecord"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "a.atvi.com/PlayBlackOps6",
+                "end": 23,
+                "expanded_url": "https://a.atvi.com/PlayBlackOps6",
+                "start": 0,
+                "url": "https://t.co/cWXoOuXWzm"
+              }
+            ]
+          }
+        },
+        "id": "290097288",
+        "name": "Call of Duty",
+        "pinned_tweet_id": "1854916902230901090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848497495644512256/V_uqZI3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5185768,
+          "following_count": 20,
+          "like_count": 23388,
+          "listed_count": 7685,
+          "tweet_count": 239600
+        },
+        "url": "https://t.co/cWXoOuXWzm",
+        "username": "CallofDuty",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-19T19:02:10.000Z",
+        "description": "",
+        "id": "612782611",
+        "location": "Santa Monica, CA",
+        "name": "Activision",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645445554258735104/A2geO7qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2944373,
+          "following_count": 39,
+          "like_count": 463,
+          "listed_count": 4420,
+          "tweet_count": 3941
+        },
+        "username": "Activision",
+        "verified": true
+      }
+    ]
+  }
+}

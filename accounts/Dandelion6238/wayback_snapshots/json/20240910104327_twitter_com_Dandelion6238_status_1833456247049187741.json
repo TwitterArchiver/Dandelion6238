@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833456247049187741",
+    "created_at": "2024-09-10T10:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T11:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833456247049187741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IDF/status/183…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/IDF/status/1833410510428971199",
+          "start": 24,
+          "url": "https://t.co/fi96nk5YmN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833456247049187741",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833410510428971199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈马斯空中部队负责人  ？？？，哈马斯有空军吗 https://t.co/fi96nk5YmN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833456247049187741",
+        "created_at": "2024-09-10T10:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T11:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833456247049187741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IDF/status/183…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/IDF/status/1833410510428971199",
+              "start": 24,
+              "url": "https://t.co/fi96nk5YmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833456247049187741",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833410510428971199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈马斯空中部队负责人  ？？？，哈马斯有空军吗 https://t.co/fi96nk5YmN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833410504267608064"
+          ]
+        },
+        "author_id": "18576537",
+        "conversation_id": "1833410510428971199",
+        "created_at": "2024-09-10T07:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T08:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833410510428971199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtu28ysmns",
+              "end": 297,
+              "expanded_url": "https://twitter.com/IDF/status/1833410510428971199/photo/1",
+              "media_key": "3_1833410504267608064",
+              "start": 274,
+              "url": "https://t.co/wTU28YsMNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833410510428971199",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 67822,
+          "like_count": 2074,
+          "quote_count": 68,
+          "reply_count": 243,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "Several terrorists who were operating within a command and control center embedded inside the Humanitarian Area in Khan Yunis were struck overnight in a precise, intelligence-based strike. \n\nAmong the terrorists struck were:\n•⁠ Samer Ismail Khadr Abu Daqqa: Head of Hamas’… https://t.co/wTU28YsMNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "你我相遇\n是一场奇遇 一次延续 一份大爱\n你以爱的名义呼唤\n我必以爱的声音作答\n爱出者爱返\n福往者福来\n生命接力 · 大爱传递",
+        "id": "1739437517772926976",
+        "name": "中国人体器官捐献管理中心",
+        "pinned_tweet_id": "1828799762784772391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833323592920272899/NW0Uqomi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 977,
+          "like_count": 7175,
+          "listed_count": 2,
+          "tweet_count": 1294
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-03T08:53:43.000Z",
+        "description": "Official IDF X account. We post real-time information and updates from the field.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/IDFofficial",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/IDFofficial",
+                "start": 0,
+                "url": "https://t.co/x2ungADGKs"
+              }
+            ]
+          }
+        },
+        "id": "18576537",
+        "location": "Israel",
+        "name": "Israel Defense Forces",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460244034706935808/lBBT0_jC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765579,
+          "following_count": 38,
+          "like_count": 187,
+          "listed_count": 12255,
+          "tweet_count": 23488
+        },
+        "url": "https://t.co/x2ungADGKs",
+        "username": "IDF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047063901548761089"
+      ],
+      "media_source_tweet_id": [
+        "2047063904388280389"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "2047104266926526899",
+    "created_at": "2026-04-23T00:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047104266926526899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1340356429341995008",
+          "start": 3,
+          "username": "mangaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qaGkRzkGld",
+          "end": 35,
+          "expanded_url": "https://x.com/mangaa/status/2047063904388280389/photo/1",
+          "media_key": "3_2047063901548761089",
+          "start": 12,
+          "url": "https://t.co/qaGkRzkGld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047104266926526899",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047063904388280389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mangaa: https://t.co/qaGkRzkGld"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_2047063901548761089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGihxcxW0AEOPlX.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047063901548761089"
+          ],
+          "media_source_tweet_id": [
+            "2047063904388280389"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "2047104266926526899",
+        "created_at": "2026-04-23T00:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047104266926526899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1340356429341995008",
+              "start": 3,
+              "username": "mangaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qaGkRzkGld",
+              "end": 35,
+              "expanded_url": "https://x.com/mangaa/status/2047063904388280389/photo/1",
+              "media_key": "3_2047063901548761089",
+              "start": 12,
+              "url": "https://t.co/qaGkRzkGld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047104266926526899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047063904388280389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mangaa: https://t.co/qaGkRzkGld"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047063901548761089"
+          ]
+        },
+        "author_id": "1340356429341995008",
+        "conversation_id": "2047063904388280389",
+        "created_at": "2026-04-22T21:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T22:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047063904388280389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qaGkRzkGld",
+              "end": 23,
+              "expanded_url": "https://x.com/mangaa/status/2047063904388280389/photo/1",
+              "media_key": "3_2047063901548761089",
+              "start": 0,
+              "url": "https://t.co/qaGkRzkGld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047063904388280389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 14117,
+          "like_count": 685,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qaGkRzkGld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1001,
+          "like_count": 7156,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 937
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T18:01:32.000Z",
+        "description": "manga panels & fan art",
+        "id": "1340356429341995008",
+        "name": "Out Of Context Manga",
+        "pinned_tweet_id": "2045267064537952540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342035744991358977/dLMOLLtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325642,
+          "following_count": 46,
+          "like_count": 2300,
+          "listed_count": 1659,
+          "media_count": 15413,
+          "tweet_count": 15717
+        },
+        "username": "mangaa",
+        "verified": true
+      }
+    ]
+  }
+}

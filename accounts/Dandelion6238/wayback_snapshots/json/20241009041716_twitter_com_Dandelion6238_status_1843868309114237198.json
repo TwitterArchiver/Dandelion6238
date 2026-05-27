@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1843276587707601281",
+    "created_at": "2024-10-09T04:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T05:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843868309114237198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1405198311175430145",
+          "start": 0,
+          "username": "Rochell11489263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843868309114237198",
+    "in_reply_to_user_id": "1405198311175430145",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843276587707601281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rochell11489263 米饭，有馒头绝不吃米饭。你们为什么都选馒头？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1843276587707601281",
+        "created_at": "2024-10-09T04:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T05:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843868309114237198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1405198311175430145",
+              "start": 0,
+              "username": "Rochell11489263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843868309114237198",
+        "in_reply_to_user_id": "1405198311175430145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843276587707601281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rochell11489263 米饭，有馒头绝不吃米饭。你们为什么都选馒头？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843276584809308160"
+          ]
+        },
+        "author_id": "1405198311175430145",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1843276587707601281",
+        "created_at": "2024-10-07T13:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T14:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843276587707601281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJCJNXXDJR",
+              "end": 36,
+              "expanded_url": "https://x.com/Rochell11489263/status/1843276587707601281/photo/1",
+              "media_key": "3_1843276584809308160",
+              "start": 13,
+              "url": "https://t.co/hJCJNXXDJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843276587707601281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 140303,
+          "like_count": 1457,
+          "quote_count": 22,
+          "reply_count": 59,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "不是，现在都不给钱了吗？ https://t.co/hJCJNXXDJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 990,
+          "like_count": 7637,
+          "listed_count": 2,
+          "tweet_count": 1325
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T16:19:33.000Z",
+        "description": "狂野系. 搞笑看黄男.抽象是我的态度\n没有下限\n你的态度决定我对你的上限",
+        "id": "1405198311175430145",
+        "location": "曹县二环",
+        "name": "正义色批人",
+        "pinned_tweet_id": "1839247458582528353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408294760473763849/QsqLzty2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 554,
+          "like_count": 987,
+          "listed_count": 3,
+          "tweet_count": 680
+        },
+        "username": "Rochell11489263",
+        "verified": false
+      }
+    ]
+  }
+}

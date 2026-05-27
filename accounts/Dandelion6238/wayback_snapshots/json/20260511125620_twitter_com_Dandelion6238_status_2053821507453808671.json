@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2053821507453808671",
+    "created_at": "2026-05-11T12:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053821507453808671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HanQWQ457437/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/HanQWQ457437/status/2053603426949271802",
+          "start": 5,
+          "url": "https://t.co/ZIkcrC9sZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053821507453808671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053603426949271802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/ZIkcrC9sZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2053603413955379200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_dbK5XAAAA1UK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2053821507453808671",
+        "created_at": "2026-05-11T12:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053821507453808671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HanQWQ457437/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/HanQWQ457437/status/2053603426949271802",
+              "start": 5,
+              "url": "https://t.co/ZIkcrC9sZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053821507453808671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053603426949271802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/ZIkcrC9sZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053603413955379200"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053603426949271802",
+        "created_at": "2026-05-10T22:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053603426949271802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JR27MGg3ba",
+              "end": 142,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2053603426949271802/photo/1",
+              "media_key": "3_2053603413955379200",
+              "start": 119,
+              "url": "https://t.co/JR27MGg3ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053603426949271802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1491,
+          "like_count": 45,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "早上打开手机一条消息都没有 也没有人找我 我每天都好懵逼啊 出门不知道该干什么 也没什么想玩的 出去吃饭也是自己一个人 还又不喜欢人多的地方 每天在学校想着下课回家 到家了也不知道该干什么 每天都是自己一个人 浑浑噩噩的就这样又过了一天 https://t.co/JR27MGg3ba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 1001,
+          "like_count": 7162,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 971
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1421,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 682
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

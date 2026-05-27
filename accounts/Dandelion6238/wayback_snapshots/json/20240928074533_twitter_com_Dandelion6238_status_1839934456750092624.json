@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1839884645082771812",
+    "created_at": "2024-09-28T07:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T08:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839934456750092624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754665643046281216",
+          "start": 0,
+          "username": "qiyigaoxia2635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839934456750092624",
+    "in_reply_to_user_id": "1754665643046281216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839884645082771812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiyigaoxia2635 这不是我们基督徒😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1839884645082771812",
+        "created_at": "2024-09-28T07:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T08:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839934456750092624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754665643046281216",
+              "start": 0,
+              "username": "qiyigaoxia2635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839934456750092624",
+        "in_reply_to_user_id": "1754665643046281216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839884645082771812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiyigaoxia2635 这不是我们基督徒😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839884609871589378",
+            "3_1839884610299416576",
+            "3_1839884610316238848",
+            "3_1839884610303602690"
+          ]
+        },
+        "author_id": "1754665643046281216",
+        "conversation_id": "1839884645082771812",
+        "created_at": "2024-09-28T04:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T05:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839884645082771812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djhqlfueda",
+              "end": 34,
+              "expanded_url": "https://twitter.com/qiyigaoxia2635/status/1839884645082771812/photo/1",
+              "media_key": "3_1839884609871589378",
+              "start": 11,
+              "url": "https://t.co/dJhQLFUEda"
+            },
+            {
+              "display_url": "pic.x.com/djhqlfueda",
+              "end": 34,
+              "expanded_url": "https://twitter.com/qiyigaoxia2635/status/1839884645082771812/photo/1",
+              "media_key": "3_1839884610299416576",
+              "start": 11,
+              "url": "https://t.co/dJhQLFUEda"
+            },
+            {
+              "display_url": "pic.x.com/djhqlfueda",
+              "end": 34,
+              "expanded_url": "https://twitter.com/qiyigaoxia2635/status/1839884645082771812/photo/1",
+              "media_key": "3_1839884610316238848",
+              "start": 11,
+              "url": "https://t.co/dJhQLFUEda"
+            },
+            {
+              "display_url": "pic.x.com/djhqlfueda",
+              "end": 34,
+              "expanded_url": "https://twitter.com/qiyigaoxia2635/status/1839884645082771812/photo/1",
+              "media_key": "3_1839884610303602690",
+              "start": 11,
+              "url": "https://t.co/dJhQLFUEda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839884645082771812",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們基督徒認這個人？ https://t.co/dJhQLFUEda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 992,
+          "like_count": 7549,
+          "listed_count": 2,
+          "tweet_count": 1356
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T00:37:53.000Z",
+        "description": "國語 Mandarin/粵語 Cantonese/英語English         Jewish猶太教徒🕎\nHongKonger香港人🇭🇰\nZionist錫安主義者\nHakka客家\nMarket-liberalism市場自由主義\nElitist精英主義者",
+        "id": "1754665643046281216",
+        "location": "Hong Kong/Vancouver",
+        "name": "Friedrich🇮🇱",
+        "pinned_tweet_id": "1839713603706073096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783093724916170753/QQA5WgdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 2784,
+          "like_count": 5071,
+          "listed_count": 5,
+          "tweet_count": 1595
+        },
+        "username": "qiyigaoxia2635",
+        "verified": true
+      }
+    ]
+  }
+}

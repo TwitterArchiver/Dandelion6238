@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1834149042726551788",
+    "created_at": "2024-09-12T08:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T09:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834149042726551788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SusieBetelgeus…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/SusieBetelgeuse/status/1834147474207871227",
+          "start": 11,
+          "url": "https://t.co/sRd5B2UbOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834149042726551788",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834147474207871227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是什么类型的推主？ https://t.co/sRd5B2UbOG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1834149042726551788",
+        "created_at": "2024-09-12T08:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834149042726551788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SusieBetelgeus…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/SusieBetelgeuse/status/1834147474207871227",
+              "start": 11,
+              "url": "https://t.co/sRd5B2UbOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834149042726551788",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834147474207871227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是什么类型的推主？ https://t.co/sRd5B2UbOG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688233455363219456",
+        "conversation_id": "1834147474207871227",
+        "created_at": "2024-09-12T08:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834147474207871227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834147474207871227",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是什么类型的推主？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 974,
+          "like_count": 7242,
+          "listed_count": 2,
+          "tweet_count": 1229
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "2024.1.4",
+        "id": "1688233455363219456",
+        "location": "◂Ⓘ▸",
+        "name": "スージー・グリッター#ベテルギウス",
+        "pinned_tweet_id": "1831372862344888683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831363375093157888/6mdkzYyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 630,
+          "like_count": 114226,
+          "listed_count": 5,
+          "tweet_count": 21089
+        },
+        "username": "SusieBetelgeuse",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1837640042774515803",
+    "created_at": "2024-09-22T05:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837732688960139324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1776104098112421888",
+          "start": 0,
+          "username": "seaandsky_04"
+        },
+        {
+          "end": 26,
+          "id": "1511950915934187521",
+          "start": 14,
+          "username": "Tofucurd999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837732688960139324",
+    "in_reply_to_user_id": "1776104098112421888",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837716724608913515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaandsky_04 @Tofucurd999 😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1837640042774515803",
+        "created_at": "2024-09-22T05:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837732688960139324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776104098112421888",
+              "start": 0,
+              "username": "seaandsky_04"
+            },
+            {
+              "end": 26,
+              "id": "1511950915934187521",
+              "start": 14,
+              "username": "Tofucurd999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837732688960139324",
+        "in_reply_to_user_id": "1776104098112421888",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837716724608913515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaandsky_04 @Tofucurd999 😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776104098112421888",
+        "conversation_id": "1837640042774515803",
+        "created_at": "2024-09-22T04:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T05:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837716724608913515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511950915934187521",
+              "start": 0,
+              "username": "Tofucurd999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837716724608913515",
+        "in_reply_to_user_id": "1511950915934187521",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837640042774515803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tofucurd999 怎么办，我爸妈同意我化妆还同意我穿女装哦，羡慕吧羡慕吧羡慕吧🥰🥰🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24.01.05/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 989,
+          "like_count": 7435,
+          "listed_count": 2,
+          "tweet_count": 1308
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T04:26:57.000Z",
+        "description": "澄澈的爱，只为中国｜愿意学习先进意识形态、政治理论，为中国特色社会主义制度添砖加瓦｜翻墙只为骂反贼",
+        "id": "1776104098112421888",
+        "location": "刘飞宇先生的心中♡",
+        "name": "FEIYV",
+        "pinned_tweet_id": "1828477057237725216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795802699793084416/9PIEXnUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 248,
+          "like_count": 334,
+          "listed_count": 0,
+          "tweet_count": 778
+        },
+        "username": "seaandsky_04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T06:16:13.000Z",
+        "description": "08上海｜🏳️‍⚧️无证深柜-24.5.14 mtf 同类互fo｜轻度躁郁｜惊恐｜病娇｜INFP｜有喜欢的宝宝｜容貌焦虑｜独居｜GD｜日常｜轻度zcod｜不圆｜无政治立场｜猫娘｜绝望燃尽的一刻，希望就会来临，正如黎明时光会褪尽整夜黑暗♡",
+        "id": "1511950915934187521",
+        "name": "🏳️‍⚧️巧克力豆腐猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814673517780348928/O0ZUCW1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1589,
+          "like_count": 2231,
+          "listed_count": 2,
+          "tweet_count": 302
+        },
+        "username": "Tofucurd999",
+        "verified": false
+      }
+    ]
+  }
+}

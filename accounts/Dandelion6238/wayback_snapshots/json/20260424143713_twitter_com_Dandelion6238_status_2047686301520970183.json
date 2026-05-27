@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2047686301520970183",
+    "created_at": "2026-04-24T14:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047686301520970183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620488421163638789",
+          "start": 3,
+          "username": "ZHSL_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047686301520970183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047421466992369930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZHSL_: 真的好喜欢被羞辱，看到母狗、肉便器、骚货、精盆什么的带羞辱性的词汇就好有感觉好喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2047686301520970183",
+        "created_at": "2026-04-24T14:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047686301520970183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620488421163638789",
+              "start": 3,
+              "username": "ZHSL_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047686301520970183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047421466992369930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZHSL_: 真的好喜欢被羞辱，看到母狗、肉便器、骚货、精盆什么的带羞辱性的词汇就好有感觉好喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620488421163638789",
+        "conversation_id": "2047421466992369930",
+        "created_at": "2026-04-23T21:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047421466992369930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047421466992369930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 33029,
+          "like_count": 306,
+          "quote_count": 2,
+          "reply_count": 130,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "真的好喜欢被羞辱，看到母狗、肉便器、骚货、精盆什么的带羞辱性的词汇就好有感觉好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1004,
+          "like_count": 7155,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 954
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T18:25:34.000Z",
+        "description": "夜猫子社恐碎碎念或者发情−喜欢被羞辱 无主且不找 所述皆为意淫 不发穴再问拉黑",
+        "id": "1620488421163638789",
+        "location": "China",
+        "name": "我困",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990698275109048320/EfPqwqYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 74,
+          "like_count": 4,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 274
+        },
+        "username": "ZHSL_",
+        "verified": false
+      }
+    ]
+  }
+}

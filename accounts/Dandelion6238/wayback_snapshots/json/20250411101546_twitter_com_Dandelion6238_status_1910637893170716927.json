@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1910637043001991197",
+    "created_at": "2025-04-11T10:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T11:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910637893170716927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897976047779360768",
+          "start": 0,
+          "username": "Wuying333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910637893170716927",
+    "in_reply_to_user_id": "1897976047779360768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910637043001991197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuying333 wow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1910637043001991197",
+        "created_at": "2025-04-11T10:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T11:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910637893170716927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897976047779360768",
+              "start": 0,
+              "username": "Wuying333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910637893170716927",
+        "in_reply_to_user_id": "1897976047779360768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910637043001991197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuying333 wow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897976047779360768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1910637043001991197",
+        "created_at": "2025-04-11T10:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T11:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910637043001991197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910637043001991197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前在思考哲学问题🤔️我这么高能不能找到理想型对象\n\n然后想到正太可爱小猫男，发现其实我也接受这类的\n\n想到和可爱男孩x，那我得在上面，除非没体力，也可4i穿戴或者直接\n\n当1，找小女友\n\n甚至当S\n\n我突然发现我都能接受，甚至小兴奋？！\n\n可这都和我属性相反啊，我不会和取向一样发掘到另一面了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg",
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1064,
+          "like_count": 7719,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 703
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T11:42:23.000Z",
+        "description": "MTF｜碎碎念推｜自我介绍请看置顶",
+        "id": "1897976047779360768",
+        "name": "吴Y",
+        "pinned_tweet_id": "1907314595267477908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908010815141380096/Xu2sGXEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 211,
+          "like_count": 2213,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 757
+        },
+        "username": "Wuying333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1836692355212341440",
+    "created_at": "2024-09-20T01:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T02:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836941931127132248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "165407871",
+          "start": 0,
+          "username": "Solitude_Sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836941931127132248",
+    "in_reply_to_user_id": "165407871",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836692355212341440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solitude_Sola 乌克兰怎么你了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1836692355212341440",
+        "created_at": "2024-09-20T01:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T02:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836941931127132248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "165407871",
+              "start": 0,
+              "username": "Solitude_Sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836941931127132248",
+        "in_reply_to_user_id": "165407871",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836692355212341440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solitude_Sola 乌克兰怎么你了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836692336669339648"
+          ]
+        },
+        "author_id": "165407871",
+        "conversation_id": "1836692355212341440",
+        "created_at": "2024-09-19T09:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T10:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836692355212341440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylf6k3vqnx",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Solitude_Sola/status/1836692355212341440/photo/1",
+              "media_key": "3_1836692336669339648",
+              "start": 12,
+              "url": "https://t.co/YlF6k3VQnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836692355212341440",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 29269,
+          "like_count": 386,
+          "quote_count": 9,
+          "reply_count": 44,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "🇵🇸 + 🇺🇦 = 🐷 https://t.co/YlF6k3VQnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24.01.05/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 982,
+          "like_count": 7362,
+          "listed_count": 2,
+          "tweet_count": 1294
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-11T13:41:45.000Z",
+        "description": "守序邪恶 == 真名宿敌\n\n万般皆下品，唯有狞狞高。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Solitude_Sola",
+                "end": 23,
+                "expanded_url": "http://t.me/Solitude_Sola",
+                "start": 0,
+                "url": "https://t.co/bwcOewi77e"
+              }
+            ]
+          }
+        },
+        "id": "165407871",
+        "location": "投身之所",
+        "name": "空空 🌟 狞猫世界第一可爱！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422573861787209730/RJWO2Gsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19435,
+          "following_count": 522,
+          "like_count": 548,
+          "listed_count": 122,
+          "tweet_count": 61261
+        },
+        "url": "https://t.co/bwcOewi77e",
+        "username": "Solitude_Sola",
+        "verified": false
+      }
+    ]
+  }
+}

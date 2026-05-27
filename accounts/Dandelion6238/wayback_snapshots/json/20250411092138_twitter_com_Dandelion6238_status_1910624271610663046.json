@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1909271254189932853",
+    "created_at": "2025-04-11T09:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T10:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910624271610663046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684788748582883328",
+          "start": 0,
+          "username": "Martim036145"
+        },
+        {
+          "end": 24,
+          "id": "1897976047779360768",
+          "start": 14,
+          "username": "Wuying333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910624271610663046",
+    "in_reply_to_user_id": "1684788748582883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910623195318936053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martim036145 @Wuying333 我感觉我符合NPD的症状，但医生说这个不重要就没管了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1909271254189932853",
+        "created_at": "2025-04-11T09:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T10:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910624271610663046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            },
+            {
+              "end": 24,
+              "id": "1897976047779360768",
+              "start": 14,
+              "username": "Wuying333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910624271610663046",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910623195318936053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 @Wuying333 我感觉我符合NPD的症状，但医生说这个不重要就没管了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788748582883328",
+        "conversation_id": "1909271254189932853",
+        "created_at": "2025-04-11T09:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T10:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910623195318936053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            },
+            {
+              "end": 25,
+              "id": "1897976047779360768",
+              "start": 15,
+              "username": "Wuying333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910623195318936053",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910622600293687388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 @Wuying333 npd不可能觉得自己会有人格障碍吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg",
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1063,
+          "like_count": 7718,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 700
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆下水道粪蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/启动困难/间歇性想死",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892816510894092288/wAtxave-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 807,
+          "like_count": 7829,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 2950
+        },
+        "username": "Martim036145",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T11:42:23.000Z",
+        "description": "MTF｜碎碎念推｜自我介绍请看置顶",
+        "id": "1897976047779360768",
+        "name": "吴Y",
+        "pinned_tweet_id": "1907314595267477908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908010815141380096/Xu2sGXEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 211,
+          "like_count": 2208,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 756
+        },
+        "username": "Wuying333",
+        "verified": false
+      }
+    ]
+  }
+}

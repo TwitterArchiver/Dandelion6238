@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833478492802937193",
+    "created_at": "2024-09-10T12:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T13:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833484398081024350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833484398081024350",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833483898246074624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi (⁠・⁠∀⁠・⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833478492802937193",
+        "created_at": "2024-09-10T12:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T13:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833484398081024350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833484398081024350",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833483898246074624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi (⁠・⁠∀⁠・⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1833478492802937193",
+        "created_at": "2024-09-10T12:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T13:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833483898246074624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833483898246074624",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833478492802937193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 极恶尽今天也被PUA(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "怀旧版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833483328504098818/M_5K0sFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 977,
+          "like_count": 7181,
+          "listed_count": 2,
+          "tweet_count": 1297
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "叶底黄鹂一两声，日长飞絮轻。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7473,
+          "following_count": 2242,
+          "like_count": 11203,
+          "listed_count": 29,
+          "tweet_count": 11411
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      }
+    ]
+  }
+}

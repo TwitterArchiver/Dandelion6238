@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833711321751167233",
+    "created_at": "2024-09-11T07:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T08:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833765837271973905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684241711080574976",
+          "start": 0,
+          "username": "KY_SNWAZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833765837271973905",
+    "in_reply_to_user_id": "1684241711080574976",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833765244218605588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KY_SNWAZ 可是30FPS真的很难让人有玩下去的欲望🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833711321751167233",
+        "created_at": "2024-09-11T07:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T08:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833765837271973905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684241711080574976",
+              "start": 0,
+              "username": "KY_SNWAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833765837271973905",
+        "in_reply_to_user_id": "1684241711080574976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833765244218605588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KY_SNWAZ 可是30FPS真的很难让人有玩下去的欲望🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684241711080574976",
+        "conversation_id": "1833711321751167233",
+        "created_at": "2024-09-11T07:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T08:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833765244218605588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833765244218605588",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833760201008095458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 有游戏性还要什么性能（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "怀旧版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833483328504098818/M_5K0sFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 973,
+          "like_count": 7209,
+          "listed_count": 2,
+          "tweet_count": 1316
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T16:38:20.000Z",
+        "description": "09.01.29十五岁小学生🤓/mtx/青春阻断剂使用中/没有天赋的家长党/INFP/精神病患",
+        "id": "1684241711080574976",
+        "location": "1.29km",
+        "name": "KY丶SNWAZ",
+        "pinned_tweet_id": "1723753179148423506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780256438344089600/3ceStlfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 63,
+          "like_count": 1190,
+          "listed_count": 1,
+          "tweet_count": 1887
+        },
+        "username": "KY_SNWAZ",
+        "verified": false
+      }
+    ]
+  }
+}

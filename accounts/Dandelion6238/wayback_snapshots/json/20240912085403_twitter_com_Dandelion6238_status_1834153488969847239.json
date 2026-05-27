@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1834149124662591978",
+    "created_at": "2024-09-12T08:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T09:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834153488969847239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "SusieBetelgeuse"
+        },
+        {
+          "end": 29,
+          "id": "1683441735144439808",
+          "start": 17,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834153488969847239",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834153380479975800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SusieBetelgeuse @Allenium114 难以想象有多么的痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1834149124662591978",
+        "created_at": "2024-09-12T08:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834153488969847239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "SusieBetelgeuse"
+            },
+            {
+              "end": 29,
+              "id": "1683441735144439808",
+              "start": 17,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834153488969847239",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834153380479975800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SusieBetelgeuse @Allenium114 难以想象有多么的痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688233455363219456",
+        "conversation_id": "1834149124662591978",
+        "created_at": "2024-09-12T08:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834153380479975800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            },
+            {
+              "end": 27,
+              "id": "1683441735144439808",
+              "start": 15,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834153380479975800",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834151480523182342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 @Allenium114 是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 974,
+          "like_count": 7246,
+          "listed_count": 2,
+          "tweet_count": 1231
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "2024.1.4",
+        "id": "1688233455363219456",
+        "location": "◂Ⓘ▸",
+        "name": "スージー・グリッター#ベテルギウス",
+        "pinned_tweet_id": "1831372862344888683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831363375093157888/6mdkzYyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 631,
+          "like_count": 114240,
+          "listed_count": 5,
+          "tweet_count": 21096
+        },
+        "username": "SusieBetelgeuse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥HRT2024.4.20|ADHD:专注达ing | 半出柜半家长党| 小证 2024.8.5|178cm 57kg | Apex🎮纯净手柄♿️线性 41bug3.4 使用者♿️| 麻麻@xue_zhi2008 笨蛋@charge_rif|🇵🇸|逃生舱@kagurazaka_Lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "xue_zhi2008"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "charge_rif"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "kagurazaka_Lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "重庆 渝北",
+        "name": ".翎🍥",
+        "pinned_tweet_id": "1832469146862547048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789540383489449984/g9zaDvGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 838,
+          "like_count": 38693,
+          "listed_count": 7,
+          "tweet_count": 9127
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

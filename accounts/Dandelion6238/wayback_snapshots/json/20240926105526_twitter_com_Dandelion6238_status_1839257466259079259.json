@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839257461733408768",
+        "3_1839257462454595584",
+        "3_1839257463125639168",
+        "3_1839257461523623937"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1839257466259079259",
+    "created_at": "2024-09-26T10:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T11:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839257466259079259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uo5bhgs05i",
+          "end": 125,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+          "media_key": "3_1839257461733408768",
+          "start": 102,
+          "url": "https://t.co/uo5bhgS05i"
+        },
+        {
+          "display_url": "pic.x.com/uo5bhgs05i",
+          "end": 125,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+          "media_key": "3_1839257462454595584",
+          "start": 102,
+          "url": "https://t.co/uo5bhgS05i"
+        },
+        {
+          "display_url": "pic.x.com/uo5bhgs05i",
+          "end": 125,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+          "media_key": "3_1839257463125639168",
+          "start": 102,
+          "url": "https://t.co/uo5bhgS05i"
+        },
+        {
+          "display_url": "pic.x.com/uo5bhgs05i",
+          "end": 125,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+          "media_key": "3_1839257461523623937",
+          "start": 102,
+          "url": "https://t.co/uo5bhgS05i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839257466259079259",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Xbox tokyo gameshow 2024 Broadcase看完了，没新主机，没重量级第一方，不过有个国产FPS和合金装备还是挺值得期待的（下面是极期待的游戏，暗喻幻想买不起（足足748港币🫤） https://t.co/uo5bhgS05i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1839257461733408768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYZa6qkbQAA2Lg5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1839257462454595584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYZa6tQXsAAktYH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1839257463125639168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYZa6vwXAAASAtY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1839257461523623937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYZa6pyaMAEIiV1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839257461733408768",
+            "3_1839257462454595584",
+            "3_1839257463125639168",
+            "3_1839257461523623937"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1839257466259079259",
+        "created_at": "2024-09-26T10:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T11:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839257466259079259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uo5bhgs05i",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+              "media_key": "3_1839257461733408768",
+              "start": 102,
+              "url": "https://t.co/uo5bhgS05i"
+            },
+            {
+              "display_url": "pic.x.com/uo5bhgs05i",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+              "media_key": "3_1839257462454595584",
+              "start": 102,
+              "url": "https://t.co/uo5bhgS05i"
+            },
+            {
+              "display_url": "pic.x.com/uo5bhgs05i",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+              "media_key": "3_1839257463125639168",
+              "start": 102,
+              "url": "https://t.co/uo5bhgS05i"
+            },
+            {
+              "display_url": "pic.x.com/uo5bhgs05i",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Dandelion6238/status/1839257466259079259/photo/1",
+              "media_key": "3_1839257461523623937",
+              "start": 102,
+              "url": "https://t.co/uo5bhgS05i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839257466259079259",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Xbox tokyo gameshow 2024 Broadcase看完了，没新主机，没重量级第一方，不过有个国产FPS和合金装备还是挺值得期待的（下面是极期待的游戏，暗喻幻想买不起（足足748港币🫤） https://t.co/uo5bhgS05i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 988,
+          "like_count": 7542,
+          "listed_count": 2,
+          "tweet_count": 1352
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

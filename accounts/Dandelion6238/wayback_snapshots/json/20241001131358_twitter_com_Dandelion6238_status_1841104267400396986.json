@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1841104267400396986",
+    "created_at": "2024-10-01T13:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T14:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841104267400396986"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1841104267400396986",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "威海九龙城新开的游戏厅的舞萌只需要0.5CNY一首！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1841104267400396986",
+        "created_at": "2024-10-01T13:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T14:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841104267400396986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841104267400396986",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "威海九龙城新开的游戏厅的舞萌只需要0.5CNY一首！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 989,
+          "like_count": 7581,
+          "listed_count": 2,
+          "tweet_count": 1370
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

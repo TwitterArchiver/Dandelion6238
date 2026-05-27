@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1849798951467352065"
+      ],
+      "media_source_tweet_id": [
+        "1849798955661767089"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1337176229380726784",
+          "name": "Yakuza"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337176229380726784",
+          "name": "Yakuza"
+        }
+      }
+    ],
+    "conversation_id": "1853219495533510791",
+    "created_at": "2024-11-03T23:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T00:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853219495533510791"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "龍が如く"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1613797721164632067",
+          "start": 3,
+          "username": "mine_reixx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q9HGixYCAs",
+          "end": 104,
+          "expanded_url": "https://x.com/mine_reixx/status/1849798955661767089/photo/1",
+          "media_key": "3_1849798951467352065",
+          "start": 81,
+          "url": "https://t.co/Q9HGixYCAs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853219495533510791",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849798955661767089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mine_reixx: ドラマ版龍が如く、いろんな意見や感想を聞くけど個人的に舞台版龍が如くのキャスト勢が限りなくゲームに近いかもしれない。\n#龍が如く https://t.co/Q9HGixYCAs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1849798951467352065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GavOWIAaAAE8Inl.jpg",
+        "width": 747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849798951467352065"
+          ],
+          "media_source_tweet_id": [
+            "1849798955661767089"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          }
+        ],
+        "conversation_id": "1853219495533510791",
+        "created_at": "2024-11-03T23:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T00:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853219495533510791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "龍が如く"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1613797721164632067",
+              "start": 3,
+              "username": "mine_reixx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9HGixYCAs",
+              "end": 104,
+              "expanded_url": "https://x.com/mine_reixx/status/1849798955661767089/photo/1",
+              "media_key": "3_1849798951467352065",
+              "start": 81,
+              "url": "https://t.co/Q9HGixYCAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853219495533510791",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1160
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849798955661767089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mine_reixx: ドラマ版龍が如く、いろんな意見や感想を聞くけど個人的に舞台版龍が如くのキャスト勢が限りなくゲームに近いかもしれない。\n#龍が如く https://t.co/Q9HGixYCAs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849798951467352065"
+          ]
+        },
+        "author_id": "1613797721164632067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          }
+        ],
+        "conversation_id": "1849798955661767089",
+        "created_at": "2024-10-25T13:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T14:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849798955661767089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "龍が如く"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9HGixYCAs",
+              "end": 88,
+              "expanded_url": "https://x.com/mine_reixx/status/1849798955661767089/photo/1",
+              "media_key": "3_1849798951467352065",
+              "start": 65,
+              "url": "https://t.co/Q9HGixYCAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849798955661767089",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 386440,
+          "like_count": 4914,
+          "quote_count": 265,
+          "reply_count": 34,
+          "retweet_count": 1160
+        },
+        "reply_settings": "everyone",
+        "text": "ドラマ版龍が如く、いろんな意見や感想を聞くけど個人的に舞台版龍が如くのキャスト勢が限りなくゲームに近いかもしれない。\n#龍が如く https://t.co/Q9HGixYCAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 988,
+          "like_count": 7581,
+          "listed_count": 1,
+          "tweet_count": 1374
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T07:19:17.000Z",
+        "description": "FGO、カービィすき❤\n色んなジャンルを呟く雑多垢。\n峯義孝が最推し🥰",
+        "id": "1613797721164632067",
+        "name": "𝙍𝙀𝙄𝘼",
+        "pinned_tweet_id": "1838913522157379953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815331233590820865/qurylFRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 485,
+          "like_count": 60130,
+          "listed_count": 20,
+          "tweet_count": 8593
+        },
+        "username": "mine_reixx",
+        "verified": false
+      }
+    ]
+  }
+}

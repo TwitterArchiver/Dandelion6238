@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "US Central Intelligence Agency",
+          "id": "954105882161307648",
+          "name": "US Central Intelligence Agency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Central Intelligence Agency",
+          "id": "954105882161307648",
+          "name": "US Central Intelligence Agency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1841468925378171381",
+    "created_at": "2024-10-03T14:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T15:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841853453515325607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "48744935",
+          "start": 0,
+          "username": "CMWeeks"
+        },
+        {
+          "end": 13,
+          "id": "2359926157",
+          "start": 9,
+          "username": "CIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841853453515325607",
+    "in_reply_to_user_id": "48744935",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841561436054814845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CMWeeks @CIA Bro thought we couldn't read Chinese.💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1841468925378171381",
+        "created_at": "2024-10-03T14:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T15:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841853453515325607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "48744935",
+              "start": 0,
+              "username": "CMWeeks"
+            },
+            {
+              "end": 13,
+              "id": "2359926157",
+              "start": 9,
+              "username": "CIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841853453515325607",
+        "in_reply_to_user_id": "48744935",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841561436054814845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CMWeeks @CIA Bro thought we couldn't read Chinese.💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "48744935",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          }
+        ],
+        "conversation_id": "1841468925378171381",
+        "created_at": "2024-10-02T19:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T20:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841561436054814845"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Intel",
+              "probability": 0.7437,
+              "start": 61,
+              "type": "Organization"
+            },
+            {
+              "end": 93,
+              "normalized_text": "China",
+              "probability": 0.9764,
+              "start": 89,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 4,
+              "id": "2359926157",
+              "start": 0,
+              "username": "CIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841561436054814845",
+        "in_reply_to_user_id": "2359926157",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8997,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841468925378171381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CIA Nothing to see here, move along! Just your nation’s top Intel agency colluding with China. Not to worry, move along."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 989,
+          "like_count": 7580,
+          "listed_count": 2,
+          "tweet_count": 1377
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-19T16:06:42.000Z",
+        "description": "Stop Communism | Walk Away | 🙏🏻🇺🇸🙏🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thedocuments.info",
+                "end": 23,
+                "expanded_url": "https://thedocuments.info/",
+                "start": 0,
+                "url": "https://t.co/ioayJ9KKsj"
+              }
+            ]
+          }
+        },
+        "id": "48744935",
+        "location": "San Francisco, CA",
+        "name": "Probable Spam",
+        "pinned_tweet_id": "1040982804186558467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702262721960714240/_ABmRbrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9114,
+          "following_count": 8469,
+          "like_count": 419780,
+          "listed_count": 19,
+          "tweet_count": 91962
+        },
+        "url": "https://t.co/ioayJ9KKsj",
+        "username": "CMWeeks",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-24T19:08:11.000Z",
+        "description": "We are the Nation's first line of defense. We accomplish what others cannot accomplish and go where others cannot go.\n\nhttps://t.co/yhjtYvFBiJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/s/securelycont…",
+                "end": 142,
+                "expanded_url": "https://t.me/s/securelycontactingcia",
+                "start": 119,
+                "url": "https://t.co/yhjtYvFBiJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cia.gov",
+                "end": 23,
+                "expanded_url": "http://cia.gov",
+                "start": 0,
+                "url": "https://t.co/tKucZyJmxL"
+              }
+            ]
+          }
+        },
+        "id": "2359926157",
+        "location": "Langley, VA",
+        "name": "CIA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344919364039045120/7gBb2rC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3458569,
+          "following_count": 56,
+          "like_count": 146,
+          "listed_count": 11687,
+          "tweet_count": 5219
+        },
+        "url": "https://t.co/tKucZyJmxL",
+        "username": "CIA",
+        "verified": true
+      }
+    ]
+  }
+}

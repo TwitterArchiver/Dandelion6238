@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10024663350",
+          "name": "Halo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10024663350",
+          "name": "Halo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10024663350",
+          "name": "Halo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1843286650753003679",
+    "created_at": "2024-10-07T13:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T14:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843286650753003679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Halo/status/18…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Halo/status/1843070142344765942",
+          "start": 24,
+          "url": "https://t.co/bo52hfqPUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843286650753003679",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843070142344765942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "slipspace一路走好，同时迎接新的光环！ https://t.co/bo52hfqPUC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10024663350",
+              "name": "Halo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10024663350",
+              "name": "Halo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10024663350",
+              "name": "Halo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1843286650753003679",
+        "created_at": "2024-10-07T13:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T14:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843286650753003679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Halo/status/18…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Halo/status/1843070142344765942",
+              "start": 24,
+              "url": "https://t.co/bo52hfqPUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843286650753003679",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843070142344765942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "slipspace一路走好，同时迎接新的光环！ https://t.co/bo52hfqPUC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843070136866988032"
+          ]
+        },
+        "author_id": "59414975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10024663350",
+              "name": "Halo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10024663350",
+              "name": "Halo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10024663350",
+              "name": "Halo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1843070142344765942",
+        "created_at": "2024-10-06T23:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T00:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843070142344765942"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "Halo",
+              "probability": 0.7507,
+              "start": 102,
+              "type": "Other"
+            },
+            {
+              "end": 154,
+              "normalized_text": "Project Foundry",
+              "probability": 0.8152,
+              "start": 140,
+              "type": "Other"
+            },
+            {
+              "end": 196,
+              "normalized_text": "Halo",
+              "probability": 0.8126,
+              "start": 193,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 214,
+              "id": "164081884",
+              "start": 201,
+              "username": "UnrealEngine"
+            }
+          ],
+          "urls": [
+            {
+              "description": "HaloWaypoint.com is the official site for the Halo universe, featuring the latest information about Halo games and media, news from 343 Industries and the home of the Halo community.",
+              "display_url": "aka.ms/HaloANewDawn",
+              "end": 244,
+              "expanded_url": "http://aka.ms/HaloANewDawn",
+              "start": 221,
+              "status": 200,
+              "title": "Halo - Official Site",
+              "unwound_url": "https://www.halowaypoint.com/",
+              "url": "https://t.co/XR6lPexrse"
+            },
+            {
+              "display_url": "pic.x.com/hgUQvpOwtg",
+              "end": 268,
+              "expanded_url": "https://x.com/Halo/status/1843070142344765942/photo/1",
+              "media_key": "3_1843070136866988032",
+              "start": 245,
+              "url": "https://t.co/hgUQvpOwtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843070142344765942",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1552,
+          "impression_count": 2595283,
+          "like_count": 22426,
+          "quote_count": 1854,
+          "reply_count": 1245,
+          "retweet_count": 3778
+        },
+        "reply_settings": "everyone",
+        "text": "A New Dawn.\n\nWe're entering the next chapter of the franchise and changing the recipe for how we make Halo games. Go behind the scenes with Project Foundry to explore the creative potential of Halo in @UnrealEngine 5.\n\n🎥 https://t.co/XR6lPexrse https://t.co/hgUQvpOwtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 987,
+          "like_count": 7596,
+          "listed_count": 2,
+          "tweet_count": 1320
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-23T09:56:07.000Z",
+        "description": "#halochampions is now live 🏆 ESRB Rating T for Teen: Blood, Mild Language, Violence | @HCS @HaloGear @HaloSupport",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 0,
+                "tag": "halochampions"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 86,
+                "username": "HCS"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "HaloGear"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "HaloSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "halowaypoint.com",
+                "end": 23,
+                "expanded_url": "http://halowaypoint.com",
+                "start": 0,
+                "url": "https://t.co/YxtMzh8qIr"
+              }
+            ]
+          }
+        },
+        "id": "59414975",
+        "location": "Seattle, WA",
+        "name": "Halo",
+        "pinned_tweet_id": "1843070142344765942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841886833489375232/_DQRX271_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935864,
+          "following_count": 252,
+          "like_count": 7540,
+          "listed_count": 4940,
+          "tweet_count": 30373
+        },
+        "url": "https://t.co/YxtMzh8qIr",
+        "username": "Halo",
+        "verified": true
+      }
+    ]
+  }
+}

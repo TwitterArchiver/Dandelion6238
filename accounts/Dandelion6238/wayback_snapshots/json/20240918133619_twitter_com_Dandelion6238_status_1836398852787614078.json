@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1836366419895947364",
+    "created_at": "2024-09-18T13:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T14:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836398852787614078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800723171970281472",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836398852787614078",
+    "in_reply_to_user_id": "1800723171970281472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836366419895947364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 乌克兰欧洲国家会掏钱的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1836366419895947364",
+        "created_at": "2024-09-18T13:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T14:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836398852787614078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800723171970281472",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836398852787614078",
+        "in_reply_to_user_id": "1800723171970281472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836366419895947364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 乌克兰欧洲国家会掏钱的😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1836366418834788353"
+          ]
+        },
+        "author_id": "1800723171970281472",
+        "conversation_id": "1836366419895947364",
+        "created_at": "2024-09-18T11:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T12:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836366419895947364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836366419895947364",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 363,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是美国总统，现在面临必须放弃一头，你会放弃？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 979,
+          "like_count": 7359,
+          "listed_count": 2,
+          "tweet_count": 1281
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T02:54:05.000Z",
+        "description": "万物皆🧼之喵勒教图书管理员，三位一体独一真神福音传播者，职业地狱笑话勒子人，喜欢嘲讽和调戏各种傻子。屏蔽必回",
+        "id": "1800723171970281472",
+        "location": "猫星",
+        "name": "枫糖小猫🧼",
+        "pinned_tweet_id": "1834954216978497884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833417370947461120/OHmECZTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 795,
+          "like_count": 713,
+          "listed_count": 0,
+          "tweet_count": 6419
+        },
+        "username": "Konekoutena",
+        "verified": false
+      }
+    ]
+  }
+}

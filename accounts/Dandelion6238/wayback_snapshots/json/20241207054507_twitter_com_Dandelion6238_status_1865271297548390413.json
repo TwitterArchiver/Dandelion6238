@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1864618584959537207",
+    "created_at": "2024-12-07T05:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T06:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865271297548390413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568083926236958722",
+          "start": 0,
+          "username": "howng83725036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865271297548390413",
+    "in_reply_to_user_id": "1568083926236958722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864618584959537207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@howng83725036 那你就闭嘴😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1864618584959537207",
+        "created_at": "2024-12-07T05:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T06:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865271297548390413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568083926236958722",
+              "start": 0,
+              "username": "howng83725036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865271297548390413",
+        "in_reply_to_user_id": "1568083926236958722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864618584959537207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@howng83725036 那你就闭嘴😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568083926236958722",
+        "conversation_id": "1864618584959537207",
+        "created_at": "2024-12-05T10:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T11:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864618584959537207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864618584959537207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见一个劝一个自杀的 妈的 劝他死他也骂 不劝他死也骂 逼养的 好话歹话都让他说完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1861973650880229609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 974,
+          "like_count": 7609,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1333
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T03:48:48.000Z",
+        "description": "",
+        "id": "1568083926236958722",
+        "name": "koishi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568094221021872129/tMgbjxJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 128,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "howng83725036",
+        "verified": false
+      }
+    ]
+  }
+}

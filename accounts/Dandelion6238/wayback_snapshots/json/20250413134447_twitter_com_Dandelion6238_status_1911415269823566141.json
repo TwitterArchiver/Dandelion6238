@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1911016075828875403",
+    "created_at": "2025-04-13T13:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T14:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911415269823566141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "830042451087806464",
+          "start": 0,
+          "username": "tiwtter2019"
+        },
+        {
+          "end": 26,
+          "id": "25950119",
+          "start": 13,
+          "username": "not_2b_or_2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911415269823566141",
+    "in_reply_to_user_id": "830042451087806464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911081007069216844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiwtter2019 @not_2b_or_2b 救护车其实挺便宜的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1911016075828875403",
+        "created_at": "2025-04-13T13:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T14:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911415269823566141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "830042451087806464",
+              "start": 0,
+              "username": "tiwtter2019"
+            },
+            {
+              "end": 26,
+              "id": "25950119",
+              "start": 13,
+              "username": "not_2b_or_2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911415269823566141",
+        "in_reply_to_user_id": "830042451087806464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911081007069216844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiwtter2019 @not_2b_or_2b 救护车其实挺便宜的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830042451087806464",
+        "conversation_id": "1911016075828875403",
+        "created_at": "2025-04-12T15:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T16:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911081007069216844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "25950119",
+              "start": 0,
+              "username": "not_2b_or_2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911081007069216844",
+        "in_reply_to_user_id": "25950119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 46101,
+          "like_count": 164,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911016075828875403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@not_2b_or_2b 旷工罚多钱？120一趟多少钱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1086,
+          "like_count": 7765,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 760
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T13:15:16.000Z",
+        "description": "错过，别再错过了。\"Don't miss out again.\"",
+        "id": "830042451087806464",
+        "location": "路易斯安那州",
+        "name": "ThrillSeeker 精彩别错过",
+        "pinned_tweet_id": "1888203369778655288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898498230817857536/ptV1jYKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 195,
+          "like_count": 339,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3433
+        },
+        "username": "tiwtter2019",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35721,
+          "following_count": 179,
+          "like_count": 109,
+          "listed_count": 204,
+          "media_count": 7122,
+          "tweet_count": 11760
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

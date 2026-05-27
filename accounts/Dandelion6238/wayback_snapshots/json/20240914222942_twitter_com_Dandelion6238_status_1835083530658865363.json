@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "1835083530658865363",
+    "created_at": "2024-09-14T22:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T23:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835083530658865363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thegameawards/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/thegameawards/status/1834985308691079441",
+          "start": 31,
+          "url": "https://t.co/JUIcWD3YEq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835083530658865363",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834985308691079441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Todd Andrew Howard, of course. https://t.co/JUIcWD3YEq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1835083530658865363",
+        "created_at": "2024-09-14T22:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T23:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835083530658865363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thegameawards/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/thegameawards/status/1834985308691079441",
+              "start": 31,
+              "url": "https://t.co/JUIcWD3YEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835083530658865363",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834985308691079441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Todd Andrew Howard, of course. https://t.co/JUIcWD3YEq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2806914710",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395165581129654273",
+              "name": "The Game Awards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1834985308691079441",
+        "created_at": "2024-09-14T15:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T16:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834985308691079441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834985308691079441",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 229534,
+          "like_count": 1485,
+          "quote_count": 116,
+          "reply_count": 1332,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "Who is your favorite game developer right now?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 976,
+          "like_count": 7272,
+          "listed_count": 2,
+          "tweet_count": 1252
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-13T06:43:26.000Z",
+        "description": "Live Thursday, December 12 - 10th Anniversary. \nStreaming live from @peacock_theater \nPublic tickets on sale November 1 at https://t.co/cxugGjQ9mE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "peacock_theater"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/tga24tickets",
+                "end": 146,
+                "expanded_url": "http://bit.ly/tga24tickets",
+                "start": 123,
+                "url": "https://t.co/cxugGjQ9mE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thegameawards.com",
+                "end": 23,
+                "expanded_url": "http://www.thegameawards.com",
+                "start": 0,
+                "url": "https://t.co/pm5pjE4xCV"
+              }
+            ]
+          }
+        },
+        "id": "2806914710",
+        "location": "Peacock Theater, Los Angeles",
+        "name": "The Game Awards",
+        "pinned_tweet_id": "1835013249227431978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825599703376965633/AFie-kds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337977,
+          "following_count": 902,
+          "like_count": 5203,
+          "listed_count": 3268,
+          "tweet_count": 9457
+        },
+        "url": "https://t.co/pm5pjE4xCV",
+        "username": "thegameawards",
+        "verified": true
+      }
+    ]
+  }
+}

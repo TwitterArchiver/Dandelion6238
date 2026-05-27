@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1972292161908748734",
+    "created_at": "2025-09-29T00:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T01:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972460166919643593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692075579850563584",
+          "start": 0,
+          "username": "10Lystra"
+        },
+        {
+          "end": 20,
+          "id": "1945008484426375168",
+          "start": 10,
+          "username": "Gayporn_K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972460166919643593",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972451384982446262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10Lystra @Gayporn_K ww"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1972451384982446262].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1972451384982446262",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1972451384982446262"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1972292161908748734",
+        "created_at": "2025-09-29T00:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T01:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972460166919643593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 20,
+              "id": "1945008484426375168",
+              "start": 10,
+              "username": "Gayporn_K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972460166919643593",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972451384982446262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @Gayporn_K ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1065,
+          "like_count": 7534,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 693
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 773,
+          "like_count": 2258,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 5449
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T06:32:25.000Z",
+        "description": "Gay porn :3",
+        "id": "1945008484426375168",
+        "name": "Alt",
+        "pinned_tweet_id": "1957991632755912879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948425188133191680/VXfvkxBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9156,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 23,
+          "media_count": 81,
+          "tweet_count": 81
+        },
+        "username": "Gayporn_K",
+        "verified": false
+      }
+    ]
+  }
+}

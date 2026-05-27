@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1834228329609609217"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "1834228352716083627",
+    "created_at": "2024-09-12T13:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T14:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834228352716083627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8enc8xngni",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1834228352716083627/video/1",
+          "media_key": "7_1834228329609609217",
+          "start": 19,
+          "url": "https://t.co/8enC8XnGnI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834228352716083627",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "109抽出玛露西尔，迷宫饭小队齐活了 https://t.co/8enC8XnGnI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5780,
+        "height": 576,
+        "media_key": "7_1834228329609609217",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1834228329609609217/pu/img/WWvLSBBVAy4V2ChS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834228329609609217/pu/vid/avc1/600x270/cGTxgU6_davTSNqE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834228329609609217/pu/vid/avc1/800x360/E2HMwY3J_o5C4ac_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834228329609609217/pu/vid/avc1/1280x576/I1tTm4O-CvanYov4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1834228329609609217/pu/pl/HQrgu_YaVYVs4RZ5.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834228329609609217"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "1834228352716083627",
+        "created_at": "2024-09-12T13:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T14:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834228352716083627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8enc8xngni",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Dandelion6238/status/1834228352716083627/video/1",
+              "media_key": "7_1834228329609609217",
+              "start": 19,
+              "url": "https://t.co/8enC8XnGnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834228352716083627",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "109抽出玛露西尔，迷宫饭小队齐活了 https://t.co/8enC8XnGnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 976,
+          "like_count": 7250,
+          "listed_count": 2,
+          "tweet_count": 1233
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

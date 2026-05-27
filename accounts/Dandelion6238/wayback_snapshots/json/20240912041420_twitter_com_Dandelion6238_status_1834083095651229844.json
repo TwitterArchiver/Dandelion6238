@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833852395681444235",
+    "created_at": "2024-09-12T04:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T05:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834083095651229844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804416392885866498",
+          "start": 0,
+          "username": "spasmodingg111C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834083095651229844",
+    "in_reply_to_user_id": "1804416392885866498",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833852395681444235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spasmodingg111C 那必然是动视啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833852395681444235",
+        "created_at": "2024-09-12T04:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T05:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834083095651229844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804416392885866498",
+              "start": 0,
+              "username": "spasmodingg111C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834083095651229844",
+        "in_reply_to_user_id": "1804416392885866498",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833852395681444235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spasmodingg111C 那必然是动视啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804416392885866498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          }
+        ],
+        "conversation_id": "1833852395681444235",
+        "created_at": "2024-09-11T12:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T13:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833852395681444235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kevin10053266/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/kevin10053266/status/1833356008976162968",
+              "start": 32,
+              "url": "https://t.co/R6O3pcg627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833852395681444235",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833356008976162968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好奇哈！如果EA .inc解体了，派奴战地奴们又会是谁的狗？ https://t.co/R6O3pcg627"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 973,
+          "like_count": 7235,
+          "listed_count": 2,
+          "tweet_count": 1220
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T07:29:37.000Z",
+        "description": "Cantonese. #cantonia eng/粤/普 @spasmmmm0d1c    Anytime,I love u.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 11,
+                "tag": "cantonia"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "spasmmmm0d1c"
+              }
+            ]
+          }
+        },
+        "id": "1804416392885866498",
+        "location": "cantonia",
+        "name": "Spasmod1c💚🧡💙",
+        "pinned_tweet_id": "1804469594683248935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804419766586613760/bumuzqc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 493,
+          "like_count": 7466,
+          "listed_count": 1,
+          "tweet_count": 10023
+        },
+        "username": "spasmodingg111C",
+        "verified": false
+      }
+    ]
+  }
+}

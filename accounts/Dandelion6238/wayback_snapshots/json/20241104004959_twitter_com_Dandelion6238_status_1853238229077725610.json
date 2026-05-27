@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1852488432397979956",
+    "created_at": "2024-11-04T00:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T01:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853238229077725610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703053794089533440",
+          "start": 0,
+          "username": "arvincao688"
+        },
+        {
+          "end": 21,
+          "id": "2191548894",
+          "start": 13,
+          "username": "Dushuji"
+        },
+        {
+          "end": 33,
+          "id": "8149482",
+          "start": 22,
+          "username": "VOAChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853238229077725610",
+    "in_reply_to_user_id": "1703053794089533440",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853147313599820288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arvincao688 @Dushuji @VOAChinese 落后，指打得俄军嗷嗷叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1852488432397979956",
+        "created_at": "2024-11-04T00:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T01:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853238229077725610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703053794089533440",
+              "start": 0,
+              "username": "arvincao688"
+            },
+            {
+              "end": 21,
+              "id": "2191548894",
+              "start": 13,
+              "username": "Dushuji"
+            },
+            {
+              "end": 33,
+              "id": "8149482",
+              "start": 22,
+              "username": "VOAChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853238229077725610",
+        "in_reply_to_user_id": "1703053794089533440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853147313599820288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arvincao688 @Dushuji @VOAChinese 落后，指打得俄军嗷嗷叫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853147310378844160"
+          ]
+        },
+        "author_id": "1703053794089533440",
+        "conversation_id": "1852488432397979956",
+        "created_at": "2024-11-03T18:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T19:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853147313599820288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2191548894",
+              "start": 0,
+              "username": "Dushuji"
+            },
+            {
+              "end": 20,
+              "id": "8149482",
+              "start": 9,
+              "username": "VOAChinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBZ0Jrpuzs",
+              "end": 95,
+              "expanded_url": "https://x.com/arvincao688/status/1853147313599820288/photo/1",
+              "media_key": "3_1853147310378844160",
+              "start": 72,
+              "url": "https://t.co/qBZ0Jrpuzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853147313599820288",
+        "in_reply_to_user_id": "2191548894",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852490090083471361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dushuji @VOAChinese 是的，这落后的小短腿火箭炮，没啥保密的，去年在菲律宾推销演示的时候，六发全脱靶，没想到最后塞给台湾了 https://t.co/qBZ0Jrpuzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 987,
+          "like_count": 7583,
+          "listed_count": 1,
+          "tweet_count": 1376
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T14:31:16.000Z",
+        "description": "",
+        "id": "1703053794089533440",
+        "name": "arvin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703053945482985472/kaTfx3U4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 48,
+          "listed_count": 0,
+          "tweet_count": 241
+        },
+        "username": "arvincao688",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-13T03:17:53.000Z",
+        "description": "加拿大经商，曾做过多年律师。中国人民值得一个更好的未来，团结就不会怕，团结就一定赢。",
+        "id": "2191548894",
+        "location": "Victoria, British Columbia",
+        "name": "李强",
+        "pinned_tweet_id": "1678821098576838661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666149750226452481/g6DFyEe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 44,
+          "like_count": 2418,
+          "listed_count": 10,
+          "tweet_count": 8114
+        },
+        "username": "Dushuji",
+        "verified": true
+      },
+      {
+        "created_at": "2007-08-13T01:36:54.000Z",
+        "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "voachinese"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "YouTube.com/voachinese",
+                "end": 79,
+                "expanded_url": "http://YouTube.com/voachinese",
+                "start": 56,
+                "url": "https://t.co/XzB6iSdHWx"
+              },
+              {
+                "display_url": "Facebook.com/voachinese",
+                "end": 105,
+                "expanded_url": "http://Facebook.com/voachinese",
+                "start": 82,
+                "url": "https://t.co/ua0xOdvfB2"
+              },
+              {
+                "display_url": "wa.me/message/LZMLKY…",
+                "end": 131,
+                "expanded_url": "http://wa.me/message/LZMLKY5BI2ZVN1",
+                "start": 108,
+                "url": "https://t.co/cW5eaWpefk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "voachinese.com",
+                "end": 23,
+                "expanded_url": "http://www.voachinese.com",
+                "start": 0,
+                "url": "https://t.co/Yn8buu0yRm"
+              }
+            ]
+          }
+        },
+        "id": "8149482",
+        "location": "Washington, DC",
+        "name": "美国之音中文网",
+        "pinned_tweet_id": "1853074657869709627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487366,
+          "following_count": 169,
+          "like_count": 979,
+          "listed_count": 8295,
+          "tweet_count": 262234
+        },
+        "url": "https://t.co/Yn8buu0yRm",
+        "username": "VOAChinese",
+        "verified": true
+      }
+    ]
+  }
+}

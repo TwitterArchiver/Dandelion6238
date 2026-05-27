@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1864318416276082976",
+    "created_at": "2024-12-04T14:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T15:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864318416276082976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AngffaBang/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1863906804067098867",
+          "start": 34,
+          "url": "https://t.co/RnKdIgtnve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864318416276082976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863906804067098867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚才还在b站看到od单方右美的，这已经不是露阴癖了，这是无所畏惧了 https://t.co/RnKdIgtnve"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1864318416276082976",
+        "created_at": "2024-12-04T14:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T15:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864318416276082976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngffaBang/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1863906804067098867",
+              "start": 34,
+              "url": "https://t.co/RnKdIgtnve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864318416276082976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863906804067098867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚才还在b站看到od单方右美的，这已经不是露阴癖了，这是无所畏惧了 https://t.co/RnKdIgtnve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863906789458374656"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1863906804067098867",
+        "created_at": "2024-12-03T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863906804067098867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkTY0CVYhJ",
+              "end": 73,
+              "expanded_url": "https://x.com/AngffaBang/status/1863906804067098867/photo/1",
+              "media_key": "3_1863906789458374656",
+              "start": 50,
+              "url": "https://t.co/mkTY0CVYhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863906804067098867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2767,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？你们拉个群都可以，在墙内视频平台这么讨论不怕晶哥抓你们吗？药没了那让那些不传播的人没药嗑咋办 https://t.co/mkTY0CVYhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1861973650880229609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 975,
+          "like_count": 7610,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1324
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 403,
+          "like_count": 3197,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1250
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

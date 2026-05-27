@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1993362023607099430",
+    "created_at": "2025-12-01T11:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T12:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995455191668183386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868163970051211264",
+          "start": 0,
+          "username": "XianoYue86365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995455191668183386",
+    "in_reply_to_user_id": "1868163970051211264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993362023607099430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianoYue86365 中专好像有那种走春考的班？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1993362023607099430",
+        "created_at": "2025-12-01T11:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995455191668183386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995455191668183386",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993362023607099430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 中专好像有那种走春考的班？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868163970051211264",
+        "conversation_id": "1993362023607099430",
+        "created_at": "2025-11-25T16:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993362023607099430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993362023607099430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 749,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是不是好事 我爸打算让我继续在中专待着 然后自学高中课本...?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 1034,
+          "like_count": 7316,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 798
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 65㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒 欢迎互fo～︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "kill27012"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋Yuki🏳‍⚧🍥",
+        "pinned_tweet_id": "1958032887762080208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905918810701365250/reTZSqWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 792,
+          "like_count": 3141,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 421
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      }
+    ]
+  }
+}

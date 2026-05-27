@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2038931489753321899",
+    "created_at": "2026-03-31T13:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038964800055812453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692075579850563584",
+          "start": 0,
+          "username": "10Lystra"
+        },
+        {
+          "end": 17,
+          "id": "1545277694325116928",
+          "start": 10,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 32,
+          "id": "1759598042704207872",
+          "start": 18,
+          "username": "Oyama_Tsuimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038964800055812453",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038964583264882852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10Lystra @BI3BXI @Oyama_Tsuimei 难说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2038931489753321899",
+        "created_at": "2026-03-31T13:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038964800055812453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 17,
+              "id": "1545277694325116928",
+              "start": 10,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 32,
+              "id": "1759598042704207872",
+              "start": 18,
+              "username": "Oyama_Tsuimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038964800055812453",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038964583264882852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @BI3BXI @Oyama_Tsuimei 难说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038931489753321899",
+        "created_at": "2026-03-31T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038964583264882852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 22,
+              "id": "1759598042704207872",
+              "start": 8,
+              "username": "Oyama_Tsuimei"
+            },
+            {
+              "end": 37,
+              "id": "1739437517772926976",
+              "start": 23,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038964583264882852",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038964388565262733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @Oyama_Tsuimei @Dandelion6238 第一我现在不住姚村了，第二如果你找多了就可以天天来找我了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 1003,
+          "like_count": 7150,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 886
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 887,
+          "like_count": 2297,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6799
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Enby🏳️‍⚧️｜（？）@Show5560｜本垢@yqua_｜Sister @Tennoujinyano｜@BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Show5560"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "username": "yqua_"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 3844,
+          "like_count": 38167,
+          "listed_count": 21,
+          "media_count": 2273,
+          "tweet_count": 8875
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "有象斯有对 对必反其为 有反斯有仇 仇必和而解\ni'bo ac'oac神教教主兼先知\n名字是坠明，物种未知，性别未知\n没有米线，不吃压力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrRUi"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "location": "旅行者的苍白之心",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036032927172280320/YJ3zUoFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1077,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3130
+        },
+        "url": "https://t.co/AghfCSrRUi",
+        "username": "Oyama_Tsuimei",
+        "verified": false
+      }
+    ]
+  }
+}

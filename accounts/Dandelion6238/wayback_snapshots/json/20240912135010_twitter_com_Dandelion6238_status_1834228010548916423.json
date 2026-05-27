@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1834227984548388864"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "1834228010548916423",
+    "created_at": "2024-09-12T13:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T14:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834228010548916423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/stritwcgvo",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1834228010548916423/video/1",
+          "media_key": "7_1834227984548388864",
+          "start": 19,
+          "url": "https://t.co/strITWcGvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834228010548916423",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "32抽出ELA🥳，二期彩六小队齐活了 https://t.co/strITWcGvO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6717,
+        "height": 576,
+        "media_key": "7_1834227984548388864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1834227984548388864/pu/img/4Y82GYzqKvVHFzKQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834227984548388864/pu/vid/avc1/600x270/pAuHlaKFBADqCXKW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834227984548388864/pu/vid/avc1/800x360/HJk79Bts8Fda4f58.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834227984548388864/pu/vid/avc1/1280x576/V1CW-iHBvQ9tyl1I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1834227984548388864/pu/pl/wtH_SHr7LuylF-kV.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834227984548388864"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "1834228010548916423",
+        "created_at": "2024-09-12T13:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T14:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834228010548916423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/stritwcgvo",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Dandelion6238/status/1834228010548916423/video/1",
+              "media_key": "7_1834227984548388864",
+              "start": 19,
+              "url": "https://t.co/strITWcGvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834228010548916423",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "32抽出ELA🥳，二期彩六小队齐活了 https://t.co/strITWcGvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 976,
+          "like_count": 7250,
+          "listed_count": 2,
+          "tweet_count": 1232
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

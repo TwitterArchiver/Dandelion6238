@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1862815364213789136",
+    "created_at": "2024-11-30T13:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T14:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862849892152119335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "TheSoutaLynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862849892152119335",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862815364213789136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSoutaLynn 英国不是鲁K？不是鲁K？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1862815364213789136",
+        "created_at": "2024-11-30T13:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T14:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862849892152119335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "TheSoutaLynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862849892152119335",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862815364213789136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSoutaLynn 英国不是鲁K？不是鲁K？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1862815364213789136",
+        "created_at": "2024-11-30T11:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T12:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862815364213789136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anastasia19511…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/anastasia195113/status/1862704090574364993",
+              "start": 119,
+              "url": "https://t.co/foiUiz8SZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862815364213789136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 626,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862704090574364993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🇹🇼 : 鲁 A\n🇺🇸 : 鲁 B\n🇨🇦 : 鲁 C\n🇷🇺 : 鲁 D\n🇺🇦 : 鲁 E\n🇵🇸 : 鲁 F\n🇨🇳 :鲁 D\n🇰🇵 :鲁 G\n🇰🇷 :鲁 H\n🇯🇵 :鲁 I\n🇬🇧 :鲁 J\n🇻🇦 :鲁 K\n🇮🇳 :鲁 L\n🇩🇪 : 鲁 M https://t.co/foiUiz8SZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1861973650880229609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 981,
+          "like_count": 7604,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1301
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈/🍥2024.4.20/ADHDer/178cm57kg/A-Level/birth:2008.5.6/minority/Apex Legand 22 Season Diamond Controller/maimai/VOCALOID Sis: @beijieyoufengle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 132,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "https://b23.tv/jzX4Sbm",
+        "name": ".翎Souta🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860287229563928577/sw3uvLPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 1416,
+          "like_count": 67189,
+          "listed_count": 8,
+          "media_count": 1983,
+          "tweet_count": 16265
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSoutaLynn",
+        "verified": false
+      }
+    ]
+  }
+}

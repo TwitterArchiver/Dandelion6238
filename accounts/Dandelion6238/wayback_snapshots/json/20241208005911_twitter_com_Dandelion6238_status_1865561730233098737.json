@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "1865561730233098737",
+    "created_at": "2024-12-08T00:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T01:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865561730233098737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Marionette_Sa/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Marionette_Sa/status/1865425740743037058",
+          "start": 32,
+          "url": "https://t.co/tDiGbHlaaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865561730233098737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865425740743037058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个简单，Xbox有些游戏没有帧率画质选项，就算有也是帧率第一 https://t.co/tDiGbHlaaO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1865561730233098737",
+        "created_at": "2024-12-08T00:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T01:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865561730233098737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Marionette_Sa/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Marionette_Sa/status/1865425740743037058",
+              "start": 32,
+              "url": "https://t.co/tDiGbHlaaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865561730233098737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865425740743037058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个简单，Xbox有些游戏没有帧率画质选项，就算有也是帧率第一 https://t.co/tDiGbHlaaO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1865425738167705602"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1865425740743037058",
+        "created_at": "2024-12-07T15:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T16:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865425740743037058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865425740743037058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3150,
+          "like_count": 52,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你认为玩游戏的时候哪个更重要？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1864465117498511560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 975,
+          "like_count": 7606,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1332
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌🌠|🍍|🏳️‍🌈🏳️‍⚧️友好|加点东西：@huahuojiang_ |欢迎匿名给我发消息📦https://t.co/OJCInz4IdU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "huahuojiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 70,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 47,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 0,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "至冬宫",
+        "name": "木偶酱～🌠",
+        "pinned_tweet_id": "1843225828160860234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865421858121883649/mxOskiaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15177,
+          "following_count": 9653,
+          "like_count": 59173,
+          "listed_count": 56,
+          "media_count": 2353,
+          "tweet_count": 10033
+        },
+        "url": "https://t.co/OJCInz4IdU",
+        "username": "Marionette_Sa",
+        "verified": false
+      }
+    ]
+  }
+}

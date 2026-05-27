@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1842057180050293152",
+    "created_at": "2024-10-04T04:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T05:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842057180050293152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dandelion6238/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1817239414919037354",
+          "start": 19,
+          "url": "https://t.co/MHg2hXlASx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842057180050293152",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817239414919037354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊我要回去我要回去啊啊啊啊啊 https://t.co/MHg2hXlASx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1842057180050293152",
+        "created_at": "2024-10-04T04:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T05:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842057180050293152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dandelion6238/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Dandelion6238/status/1817239414919037354",
+              "start": 19,
+              "url": "https://t.co/MHg2hXlASx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842057180050293152",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817239414919037354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊我要回去我要回去啊啊啊啊啊 https://t.co/MHg2hXlASx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1817239414919037354",
+        "created_at": "2024-07-27T16:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T17:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817239414919037354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817239414919037354",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回到了完全无性欲的状态，感觉真好😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 989,
+          "like_count": 7584,
+          "listed_count": 2,
+          "tweet_count": 1326
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

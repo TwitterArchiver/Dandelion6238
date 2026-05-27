@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1857344119997337648",
+    "created_at": "2024-11-15T08:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T09:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857344119997337648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShotaR4p1st/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ShotaR4p1st/status/1856941623696863401",
+          "start": 16,
+          "url": "https://t.co/8mbjkk39XH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857344119997337648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856941623696863401",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大部分中推自杀be like： https://t.co/8mbjkk39XH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1857344119997337648",
+        "created_at": "2024-11-15T08:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T09:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857344119997337648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShotaR4p1st/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ShotaR4p1st/status/1856941623696863401",
+              "start": 16,
+              "url": "https://t.co/8mbjkk39XH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857344119997337648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856941623696863401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大部分中推自杀be like： https://t.co/8mbjkk39XH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856941602704400384"
+          ]
+        },
+        "author_id": "1792658016795602944",
+        "conversation_id": "1856920774923239871",
+        "created_at": "2024-11-14T06:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T07:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856941623696863401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576758763385765890",
+              "start": 0,
+              "username": "poopoo_diarrhea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiU3Du85x4",
+              "end": 40,
+              "expanded_url": "https://x.com/ShotaR4p1st/status/1856941623696863401/video/1",
+              "media_key": "7_1856941602704400384",
+              "start": 17,
+              "url": "https://t.co/iiU3Du85x4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856941623696863401",
+        "in_reply_to_user_id": "1576758763385765890",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2872,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856920774923239871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poopoo_diarrhea https://t.co/iiU3Du85x4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 984,
+          "like_count": 7574,
+          "listed_count": 1,
+          "tweet_count": 1281
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T20:46:01.000Z",
+        "description": "wow angels have dark hair!! I had no idea.. @angelicpxr_n  | sugar free caramel #1 hate|🇨🇳🇲🇽 | priv: @rapingshotas",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "angelicpxr_n"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "rapingshotas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anaverageloser.straw.page",
+                "end": 23,
+                "expanded_url": "https://anaverageloser.straw.page",
+                "start": 0,
+                "url": "https://t.co/hAMUMHtV5L"
+              }
+            ]
+          }
+        },
+        "id": "1792658016795602944",
+        "name": "david🦇🎈/🍋🌈/☁️🖤",
+        "pinned_tweet_id": "1842715127419650476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841855658443919360/3sqmkpEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 708,
+          "like_count": 9870,
+          "listed_count": 23,
+          "tweet_count": 5607
+        },
+        "url": "https://t.co/hAMUMHtV5L",
+        "username": "ShotaR4p1st",
+        "verified": false
+      }
+    ]
+  }
+}

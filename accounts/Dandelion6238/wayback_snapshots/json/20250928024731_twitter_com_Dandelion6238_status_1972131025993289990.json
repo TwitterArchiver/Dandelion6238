@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1971655870158459388",
+    "created_at": "2025-09-28T02:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T03:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972131025993289990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903706539724275712",
+          "start": 0,
+          "username": "Koiren_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972131025993289990",
+    "in_reply_to_user_id": "1903706539724275712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971655870158459388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koiren_ 桐生患癌的罪魁祸首（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971655855780384773",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1y6jfcb0AUyPMr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1971655870158459388",
+        "created_at": "2025-09-28T02:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T03:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972131025993289990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903706539724275712",
+              "start": 0,
+              "username": "Koiren_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972131025993289990",
+        "in_reply_to_user_id": "1903706539724275712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971655870158459388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koiren_ 桐生患癌的罪魁祸首（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971655855780384773"
+          ]
+        },
+        "author_id": "1903706539724275712",
+        "conversation_id": "1971655870158459388",
+        "created_at": "2025-09-26T19:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T20:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971655870158459388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2Tniv3hRb",
+              "end": 33,
+              "expanded_url": "https://x.com/Koiren_/status/1971655870158459388/photo/1",
+              "media_key": "3_1971655855780384773",
+              "start": 10,
+              "url": "https://t.co/r2Tniv3hRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971655870158459388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 68998,
+          "like_count": 416,
+          "quote_count": 1,
+          "reply_count": 61,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这一款好好抽啊啊！ https://t.co/r2Tniv3hRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 1064,
+          "like_count": 7534,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 686
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T07:13:27.000Z",
+        "description": "匿名https://t.co/U90M7IckZH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koiren_",
+                "end": 25,
+                "expanded_url": "https://ngl.link/koiren_",
+                "start": 2,
+                "url": "https://t.co/U90M7IckZH"
+              }
+            ]
+          }
+        },
+        "id": "1903706539724275712",
+        "name": "金鱼",
+        "pinned_tweet_id": "1962805469388693845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962343722651181057/UEz8eykZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7818,
+          "following_count": 1,
+          "like_count": 109,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 120
+        },
+        "username": "Koiren_",
+        "verified": false
+      }
+    ]
+  }
+}

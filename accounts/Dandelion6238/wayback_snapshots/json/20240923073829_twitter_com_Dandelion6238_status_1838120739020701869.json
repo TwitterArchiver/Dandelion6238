@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1838004705014030598",
+    "created_at": "2024-09-23T07:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T08:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838120739020701869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609875052841033729",
+          "start": 0,
+          "username": "igakdailyunwell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838120739020701869",
+    "in_reply_to_user_id": "1609875052841033729",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838114180316209290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igakdailyunwell 富哥😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1838004705014030598",
+        "created_at": "2024-09-23T07:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T08:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838120739020701869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609875052841033729",
+              "start": 0,
+              "username": "igakdailyunwell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838120739020701869",
+        "in_reply_to_user_id": "1609875052841033729",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838114180316209290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igakdailyunwell 富哥😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609875052841033729",
+        "conversation_id": "1838004705014030598",
+        "created_at": "2024-09-23T07:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T08:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838114180316209290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838114180316209290",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838004705014030598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 😁📃📕🎫🛃🇨🇳👌👉🛫🛬🇯🇵🫳📃📕🛃👌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/Xbox/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 992,
+          "like_count": 7501,
+          "listed_count": 2,
+          "tweet_count": 1325
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T11:31:51.000Z",
+        "description": "INAGI AKIRA/17yr/MTFTM 性転換経手術女身男子　性別はMXY-7『桜花』爆撃機　双極性とアスペルガー患っている 支那鬼畜断固消滅🇷🇺🇯🇵 僕に歴史は無い、僕の歴史は今此処から始まる",
+        "id": "1609875052841033729",
+        "location": "タイ バンコク",
+        "name": "稲城昭羅（Avalanche还我血汗钱！）",
+        "pinned_tweet_id": "1815285799006642251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773519366568685568/OPxLYXF9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 142,
+          "like_count": 1188,
+          "listed_count": 5,
+          "tweet_count": 1718
+        },
+        "username": "igakdailyunwell",
+        "verified": false
+      }
+    ]
+  }
+}

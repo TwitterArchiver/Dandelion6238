@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1866375048833237174",
+    "created_at": "2024-12-10T06:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T07:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866375048833237174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bakajinping/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/bakajinping/status/1866344296959602831",
+          "start": 80,
+          "url": "https://t.co/bihOhdbEtG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866375048833237174",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866344296959602831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的電話號碼：+86\n我的郵箱：QQ信箱\n我的輸入法：小艺输入法\n我的電話：HUAWEI nova 13\n我的VPN：老王VPN\n我的言論：习猪头今天下台了吗 https://t.co/bihOhdbEtG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1866375048833237174",
+        "created_at": "2024-12-10T06:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T07:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866375048833237174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bakajinping/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/bakajinping/status/1866344296959602831",
+              "start": 80,
+              "url": "https://t.co/bihOhdbEtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866375048833237174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866344296959602831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的電話號碼：+86\n我的郵箱：QQ信箱\n我的輸入法：小艺输入法\n我的電話：HUAWEI nova 13\n我的VPN：老王VPN\n我的言論：习猪头今天下台了吗 https://t.co/bihOhdbEtG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699298317392580608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "OnePlus 7",
+              "id": "1113800952606117888",
+              "name": "OnePlus 7"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          }
+        ],
+        "conversation_id": "1866344296959602831",
+        "created_at": "2024-12-10T04:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T05:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866344296959602831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IrohadaisukiUw…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/IrohadaisukiUwU/status/1800961769772625935",
+              "start": 54,
+              "url": "https://t.co/lNKL5KHfrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866344296959602831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800961769772625935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的電話號碼：+852\n我的郵箱：Gmail\n我的輸入法：Gboard\n我的言論：抱抱哦，共產黨怎麼還沒涼 https://t.co/lNKL5KHfrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "Dandelion",
+        "pinned_tweet_id": "1866064863916879989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 978,
+          "like_count": 7617,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1326
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "我最ㄞ的主席@xi_jinping_2952",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "xi_jinping_2952"
+              }
+            ]
+          }
+        },
+        "id": "1699298317392580608",
+        "name": "任秉慧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864482873438556165/_DbV0Ren_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 651,
+          "like_count": 53893,
+          "listed_count": 3,
+          "media_count": 2913,
+          "tweet_count": 17127
+        },
+        "username": "bakajinping",
+        "verified": false
+      }
+    ]
+  }
+}

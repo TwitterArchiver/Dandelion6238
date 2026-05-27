@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1862145580744806640",
+    "created_at": "2024-11-28T14:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T15:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862149110213873808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636086302541242369",
+          "start": 0,
+          "username": "jjf20031022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862149110213873808",
+    "in_reply_to_user_id": "1636086302541242369",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862145580744806640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjf20031022 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1862145580744806640",
+        "created_at": "2024-11-28T14:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T15:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862149110213873808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636086302541242369",
+              "start": 0,
+              "username": "jjf20031022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862149110213873808",
+        "in_reply_to_user_id": "1636086302541242369",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862145580744806640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjf20031022 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862145576411828224"
+          ]
+        },
+        "author_id": "1636086302541242369",
+        "conversation_id": "1862145580744806640",
+        "created_at": "2024-11-28T14:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T15:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862145580744806640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qay3NR42zK",
+              "end": 107,
+              "expanded_url": "https://x.com/jjf20031022/status/1862145580744806640/photo/1",
+              "media_key": "3_1862145576411828224",
+              "start": 84,
+              "url": "https://t.co/qay3NR42zK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862145580744806640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又被抛弃了捏，玩塔科夫太菜了试试△粥，找了个新手一起玩，猛攻我打不过其他人，我给他找了个大佬一起玩，但他现在已经和大佬玩去了把我撇一边了都不喊我玩了，老是遇到这样的😭 https://t.co/qay3NR42zK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1861973650880229609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 980,
+          "like_count": 7609,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1294
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T19:25:58.000Z",
+        "description": "cn久芳/会互fo/丑郭楠/没有鱼鱼蒸/不会割手手/不o💊/一众MOBA游戏绝缘体/fps超级爱好者 175cm 98g/瓦罗兰特/Apex纯净手柄初学者/爱COS/友跨❤️/无证含糖/🈲政治/",
+        "id": "1636086302541242369",
+        "location": "阴暗角落的阳光里",
+        "name": "雾野咲奈🏳️‍⚧️",
+        "pinned_tweet_id": "1827523946511790224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777019301809283072/7HBI9G4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 308,
+          "like_count": 9753,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1288
+        },
+        "username": "jjf20031022",
+        "verified": false
+      }
+    ]
+  }
+}

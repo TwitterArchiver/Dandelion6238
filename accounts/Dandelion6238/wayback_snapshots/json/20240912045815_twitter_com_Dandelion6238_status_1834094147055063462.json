@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833847272284753957",
+    "created_at": "2024-09-12T04:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T05:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834094147055063462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580045844090220544",
+          "start": 0,
+          "username": "tenet95539682"
+        },
+        {
+          "end": 27,
+          "id": "1608872873665654784",
+          "start": 15,
+          "username": "yhu37052536"
+        },
+        {
+          "end": 44,
+          "id": "1313383273079345152",
+          "start": 28,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834094147055063462",
+    "in_reply_to_user_id": "1580045844090220544",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833926424740397284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tenet95539682 @yhu37052536 @ValeriaEulabeia 🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833847272284753957",
+        "created_at": "2024-09-12T04:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T05:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834094147055063462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580045844090220544",
+              "start": 0,
+              "username": "tenet95539682"
+            },
+            {
+              "end": 27,
+              "id": "1608872873665654784",
+              "start": 15,
+              "username": "yhu37052536"
+            },
+            {
+              "end": 44,
+              "id": "1313383273079345152",
+              "start": 28,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834094147055063462",
+        "in_reply_to_user_id": "1580045844090220544",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833926424740397284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenet95539682 @yhu37052536 @ValeriaEulabeia 🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580045844090220544",
+        "conversation_id": "1833847272284753957",
+        "created_at": "2024-09-11T17:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T18:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833926424740397284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608872873665654784",
+              "start": 0,
+              "username": "yhu37052536"
+            },
+            {
+              "end": 29,
+              "id": "1313383273079345152",
+              "start": 13,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833926424740397284",
+        "in_reply_to_user_id": "1608872873665654784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833874581855359410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhu37052536 @ValeriaEulabeia 没事，阿拉伯人不准让女性开飞机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 975,
+          "like_count": 7238,
+          "listed_count": 2,
+          "tweet_count": 1222
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T04:01:11.000Z",
+        "description": "不要键政，心平气和，不要键政，心平气和，不要键政，心平气和。\n8964是防挂墙内，帮各位查成分的省点时间，来查就是支黑喵。点击右上角屏蔽永雏塔菲喵谢谢喵。",
+        "id": "1580045844090220544",
+        "name": "tenet8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597853000025767936/M-v1egh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 121,
+          "like_count": 1364,
+          "listed_count": 2,
+          "tweet_count": 1860
+        },
+        "username": "tenet95539682",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T17:09:35.000Z",
+        "description": "靡不有初，鲜克有终。",
+        "id": "1608872873665654784",
+        "location": "愿与你同在",
+        "name": "殘美",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823517214592655360/3jc5RWe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 1439,
+          "like_count": 42316,
+          "listed_count": 1,
+          "tweet_count": 2515
+        },
+        "username": "yhu37052536",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "feijiyun38.xyz/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://feijiyun38.xyz/auth/register?code=ECn1",
+                "start": 0,
+                "url": "https://t.co/JRYrTUtOwa"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1828842256457200123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746515536283140096/-tyRLvuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 2913,
+          "like_count": 107620,
+          "listed_count": 13,
+          "tweet_count": 15275
+        },
+        "url": "https://t.co/JRYrTUtOwa",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914078851749023745",
+        "3_1914078851803545600"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "1914079309867766062",
+    "created_at": "2025-04-20T22:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T23:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914079309867766062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3K3hdMx4O",
+          "end": 49,
+          "expanded_url": "https://x.com/Dandelion6238/status/1914079309867766062/photo/1",
+          "media_key": "3_1914078851749023745",
+          "start": 26,
+          "url": "https://t.co/I3K3hdMx4O"
+        },
+        {
+          "display_url": "pic.x.com/I3K3hdMx4O",
+          "end": 49,
+          "expanded_url": "https://x.com/Dandelion6238/status/1914079309867766062/photo/1",
+          "media_key": "3_1914078851803545600",
+          "start": 26,
+          "url": "https://t.co/I3K3hdMx4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914079309867766062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操啊，要死了\n打电话用错电话卡多出了104的话费 https://t.co/I3K3hdMx4O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1673,
+        "media_key": "3_1914078851749023745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpAskw6WkAEeE_x.jpg",
+        "width": 1080
+      },
+      {
+        "height": 681,
+        "media_key": "3_1914078851803545600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpAskxHWgAAGEZ8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914078851749023745",
+            "3_1914078851803545600"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "1914079309867766062",
+        "created_at": "2025-04-20T22:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T23:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914079309867766062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3K3hdMx4O",
+              "end": 49,
+              "expanded_url": "https://x.com/Dandelion6238/status/1914079309867766062/photo/1",
+              "media_key": "3_1914078851749023745",
+              "start": 26,
+              "url": "https://t.co/I3K3hdMx4O"
+            },
+            {
+              "display_url": "pic.x.com/I3K3hdMx4O",
+              "end": 49,
+              "expanded_url": "https://x.com/Dandelion6238/status/1914079309867766062/photo/1",
+              "media_key": "3_1914078851803545600",
+              "start": 26,
+              "url": "https://t.co/I3K3hdMx4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914079309867766062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操啊，要死了\n打电话用错电话卡多出了104的话费 https://t.co/I3K3hdMx4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/ISFP也可能是ISTP/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 37,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 1100,
+          "like_count": 7798,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 791
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

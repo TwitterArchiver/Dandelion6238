@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1838821364687573337",
+    "created_at": "2024-09-26T05:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T06:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839172895773438374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754665643046281216",
+          "start": 0,
+          "username": "qiyigaoxia2635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839172895773438374",
+    "in_reply_to_user_id": "1754665643046281216",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838821364687573337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiyigaoxia2635 破防了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1838821364687573337",
+        "created_at": "2024-09-26T05:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T06:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839172895773438374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754665643046281216",
+              "start": 0,
+              "username": "qiyigaoxia2635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839172895773438374",
+        "in_reply_to_user_id": "1754665643046281216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838821364687573337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiyigaoxia2635 破防了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838821357544771584"
+          ]
+        },
+        "author_id": "1754665643046281216",
+        "conversation_id": "1838821364687573337",
+        "created_at": "2024-09-25T06:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T07:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838821364687573337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kv46ny4gjc",
+              "end": 113,
+              "expanded_url": "https://twitter.com/qiyigaoxia2635/status/1838821364687573337/photo/1",
+              "media_key": "3_1838821357544771584",
+              "start": 90,
+              "url": "https://t.co/Kv46NY4Gjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838821364687573337",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6046,
+          "like_count": 55,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "统一回复一下各位来找骂的大陆仔\n\n首先说我淫乱的是因为你是丑陋老中而且衣品不如我一根，导致你出去和想泡的人吃饭还要AA萨莉亚，二十多岁还是处男，天天对着黄推玩你7cm长的牙签。… https://t.co/Kv46NY4Gjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 989,
+          "like_count": 7536,
+          "listed_count": 2,
+          "tweet_count": 1349
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T00:37:53.000Z",
+        "description": "國語 Mandarin/粵語 Cantonese/英語English         Jewish猶太教徒🕎\nHongKonger香港人🇭🇰\nZionist錫安主義者\nHakka客家\nMarket-liberalism市場自由主義\nMTX🏳️‍⚧️",
+        "id": "1754665643046281216",
+        "location": "Hong Kong/Vancouver",
+        "name": "Friedrich🇮🇱",
+        "pinned_tweet_id": "1838821364687573337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783093724916170753/QQA5WgdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 2782,
+          "like_count": 5034,
+          "listed_count": 4,
+          "tweet_count": 1523
+        },
+        "username": "qiyigaoxia2635",
+        "verified": true
+      }
+    ]
+  }
+}

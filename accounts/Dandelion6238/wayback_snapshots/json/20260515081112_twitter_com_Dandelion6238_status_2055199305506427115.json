@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2055048378988601442",
+    "created_at": "2026-05-15T08:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055199305506427115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1942218142010552320",
+          "start": 0,
+          "username": "utc_08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055199305506427115",
+    "in_reply_to_user_id": "1942218142010552320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055048378988601442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utc_08 并非第一次"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055048292371980288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIT_iKca4AAJVz1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2055048378988601442",
+        "created_at": "2026-05-15T08:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055199305506427115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1942218142010552320",
+              "start": 0,
+              "username": "utc_08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055199305506427115",
+        "in_reply_to_user_id": "1942218142010552320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055048378988601442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utc_08 并非第一次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055048292371980288"
+          ]
+        },
+        "author_id": "1942218142010552320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055048378988601442",
+        "created_at": "2026-05-14T22:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055048378988601442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPGoOwTu2o",
+              "end": 42,
+              "expanded_url": "https://x.com/utc_08/status/2055048378988601442/photo/1",
+              "media_key": "3_2055048292371980288",
+              "start": 19,
+              "url": "https://t.co/HPGoOwTu2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055048378988601442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 97,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "音游人第一次穿上裙子后一定会做的事: https://t.co/HPGoOwTu2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1004,
+          "like_count": 7158,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 975
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:44:37.000Z",
+        "description": "ptt --",
+        "id": "1942218142010552320",
+        "name": "timezone!()",
+        "pinned_tweet_id": "2018316346011070845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039915804284829696/PKQjGnCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 315,
+          "like_count": 2596,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1223
+        },
+        "username": "utc_08",
+        "verified": false
+      }
+    ]
+  }
+}

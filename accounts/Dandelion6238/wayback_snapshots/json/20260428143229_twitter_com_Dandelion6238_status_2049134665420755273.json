@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2049100309629386963",
+    "created_at": "2026-04-28T14:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049134665420755273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1527652153392701442",
+          "start": 0,
+          "username": "ctf7zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049134665420755273",
+    "in_reply_to_user_id": "1527652153392701442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049100309629386963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctf7zi 我也想食用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2049100309629386963",
+        "created_at": "2026-04-28T14:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049134665420755273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1527652153392701442",
+              "start": 0,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049134665420755273",
+        "in_reply_to_user_id": "1527652153392701442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049100309629386963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctf7zi 我也想食用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527652153392701442",
+        "conversation_id": "2049100309629386963",
+        "created_at": "2026-04-28T12:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049100309629386963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049100309629386963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与男的出来食用烤制串形食物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1004,
+          "like_count": 7164,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 962
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T14:07:21.000Z",
+        "description": "自伤/od/跨女/一些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ctf7zi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ctf7zi",
+                "start": 0,
+                "url": "https://t.co/N1lw2XkF1m"
+              }
+            ]
+          }
+        },
+        "id": "1527652153392701442",
+        "name": "玔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 508,
+          "like_count": 24837,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 8032
+        },
+        "url": "https://t.co/N1lw2XkF1m",
+        "username": "ctf7zi",
+        "verified": false
+      }
+    ]
+  }
+}

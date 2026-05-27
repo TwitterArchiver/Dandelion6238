@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1834514927601823778",
+    "created_at": "2024-09-13T09:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T10:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834517373568598477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "SusieBetelgeuse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834517373568598477",
+    "in_reply_to_user_id": "1739437517772926976",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834516736692916349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SusieBetelgeuse 发starfield肯定看😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1834514927601823778",
+        "created_at": "2024-09-13T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834517373568598477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "SusieBetelgeuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834517373568598477",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834516736692916349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SusieBetelgeuse 发starfield肯定看😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1834514927601823778",
+        "created_at": "2024-09-13T08:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T09:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834516736692916349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "SusieBetelgeuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834516736692916349",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834514927601823778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SusieBetelgeuse 因为没玩过🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 977,
+          "like_count": 7256,
+          "listed_count": 2,
+          "tweet_count": 1241
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "🎮",
+        "id": "1688233455363219456",
+        "location": "◂Ⓘ▸",
+        "name": "◂Ⓘ▸スージー・グリッター#ベテルギウス",
+        "pinned_tweet_id": "1831372862344888683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831363375093157888/6mdkzYyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 665,
+          "like_count": 114904,
+          "listed_count": 5,
+          "tweet_count": 21240
+        },
+        "username": "SusieBetelgeuse",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1912711090728755424",
+    "created_at": "2025-04-17T08:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T09:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912786544085061772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897976047779360768",
+          "start": 0,
+          "username": "Wuying333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912786544085061772",
+    "in_reply_to_user_id": "1897976047779360768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912711090728755424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuying333 👍🏻👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1912711090728755424",
+        "created_at": "2025-04-17T08:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T09:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912786544085061772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897976047779360768",
+              "start": 0,
+              "username": "Wuying333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912786544085061772",
+        "in_reply_to_user_id": "1897976047779360768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912711090728755424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuying333 👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897976047779360768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1912711090728755424",
+        "created_at": "2025-04-17T03:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912711090728755424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912711090728755424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在某国上大学真是个性价比极低的事情\n\n小学基础教育不算的话，过6年戒网瘾学校一样的地狱生活，拿最宝贵的青春塑造出一个极其扭曲的人格，各种隐性心理病\n\n最后去大学混4年，混完啥也不会，去打工一脸懵，最后挤破头和其他本硕学历的人去抢一个小学生都能干的工作\n\n还尼玛找不到\n\n当然啦只针对00后👍🏻👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/ISFP也可能是ISTP/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 37,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1089,
+          "like_count": 7776,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 772
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T11:42:23.000Z",
+        "description": "MTF｜跨圈文字型情感类专家与对应哲学思想抒发博主（人话：碎碎念推）",
+        "id": "1897976047779360768",
+        "name": "吴Y",
+        "pinned_tweet_id": "1907314595267477908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908010815141380096/Xu2sGXEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 242,
+          "like_count": 3205,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 976
+        },
+        "username": "Wuying333",
+        "verified": false
+      }
+    ]
+  }
+}

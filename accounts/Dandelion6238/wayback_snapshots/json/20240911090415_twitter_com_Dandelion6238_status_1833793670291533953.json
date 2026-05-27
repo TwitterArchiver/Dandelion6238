@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833793670291533953",
+    "created_at": "2024-09-11T09:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T10:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833793670291533953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inXile/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/inXile/status/1833557186120978478",
+          "start": 24,
+          "url": "https://t.co/Xz2QRYMxiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833793670291533953",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833557186120978478",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是真的受不了ZYN，用了一小会就非常非常的晕 https://t.co/Xz2QRYMxiO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833793670291533953",
+        "created_at": "2024-09-11T09:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T10:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833793670291533953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inXile/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/inXile/status/1833557186120978478",
+              "start": 24,
+              "url": "https://t.co/Xz2QRYMxiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833793670291533953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833557186120978478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真的受不了ZYN，用了一小会就非常非常的晕 https://t.co/Xz2QRYMxiO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833557119519625220"
+          ]
+        },
+        "author_id": "264503752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1833557186120978478",
+        "created_at": "2024-09-10T17:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T18:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833557186120978478"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "The Big 3",
+              "probability": 0.7181,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhvfj1qhud",
+              "end": 34,
+              "expanded_url": "https://twitter.com/inXile/status/1833557186120978478/photo/1",
+              "media_key": "3_1833557119519625220",
+              "start": 11,
+              "url": "https://t.co/qhvfj1QHUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833557186120978478",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11822,
+          "like_count": 368,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "The Big 3. https://t.co/qhvfj1QHUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Xbox版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833777445863878656/feED2vro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 973,
+          "like_count": 7220,
+          "listed_count": 2,
+          "tweet_count": 1321
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-12T01:00:44.000Z",
+        "description": "Est. 2002 @Xbox Game Studio. Headed by @BrianFargo. Makers of Mature RPGs like @Wasteland 3. Working on @ClockworkGame.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 10,
+                "username": "Xbox"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "BrianFargo"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Wasteland"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "ClockworkGame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/inxile",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/inxile",
+                "start": 0,
+                "url": "https://t.co/a2lW2ew6m0"
+              }
+            ]
+          }
+        },
+        "id": "264503752",
+        "location": "OC CA & New Orleans",
+        "name": "inXile entertainment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813983614092402688/KaT72YVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69511,
+          "following_count": 156,
+          "like_count": 7058,
+          "listed_count": 497,
+          "tweet_count": 8310
+        },
+        "url": "https://t.co/a2lW2ew6m0",
+        "username": "inXile",
+        "verified": true
+      }
+    ]
+  }
+}

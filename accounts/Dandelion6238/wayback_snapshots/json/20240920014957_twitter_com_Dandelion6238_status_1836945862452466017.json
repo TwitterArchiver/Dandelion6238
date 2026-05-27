@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1834861388671455477",
+    "created_at": "2024-09-20T01:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T02:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836945862452466017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800800664668569600",
+          "start": 0,
+          "username": "sora480574"
+        },
+        {
+          "end": 28,
+          "id": "115221441",
+          "start": 12,
+          "username": "worldwalker_now"
+        },
+        {
+          "end": 43,
+          "id": "1778985848618602496",
+          "start": 29,
+          "username": "Tonyliu395995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836945862452466017",
+    "in_reply_to_user_id": "1800800664668569600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836768970256654424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sora480574 @worldwalker_now @Tonyliu395995 有没有反俄教育🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1834861388671455477",
+        "created_at": "2024-09-20T01:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T02:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836945862452466017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800800664668569600",
+              "start": 0,
+              "username": "sora480574"
+            },
+            {
+              "end": 28,
+              "id": "115221441",
+              "start": 12,
+              "username": "worldwalker_now"
+            },
+            {
+              "end": 43,
+              "id": "1778985848618602496",
+              "start": 29,
+              "username": "Tonyliu395995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836945862452466017",
+        "in_reply_to_user_id": "1800800664668569600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836768970256654424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sora480574 @worldwalker_now @Tonyliu395995 有没有反俄教育🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800800664668569600",
+        "conversation_id": "1834861388671455477",
+        "created_at": "2024-09-19T14:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T15:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836768970256654424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "115221441",
+              "start": 0,
+              "username": "worldwalker_now"
+            },
+            {
+              "end": 31,
+              "id": "1778985848618602496",
+              "start": 17,
+              "username": "Tonyliu395995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836768970256654424",
+        "in_reply_to_user_id": "115221441",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836740212724023420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worldwalker_now @Tonyliu395995 反日教育的基础是日本的侵略行为 如果日本没有侵略行为 反日教育没有用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24.01.05/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 982,
+          "like_count": 7376,
+          "listed_count": 2,
+          "tweet_count": 1295
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T08:01:58.000Z",
+        "description": "",
+        "id": "1800800664668569600",
+        "name": "华夏帝国🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811148553408106497/lNXZ0qsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 25,
+          "like_count": 248,
+          "listed_count": 4,
+          "tweet_count": 2309
+        },
+        "username": "sora480574",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-18T00:37:23.000Z",
+        "description": "みんなが気になるニュースを掲載します\n日本語、英語、中国語で\n\nNews of interest to everyone will be posted.\nIn Japanese, English and Chinese.\n\n大家感兴趣的新闻。\n日语、英语和中文\n\nhttps://t.co/ZAdd5rTHhW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/4tsh2e89",
+                "end": 155,
+                "expanded_url": "https://tinyurl.com/4tsh2e89",
+                "start": 132,
+                "url": "https://t.co/ZAdd5rTHhW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/worldwalker2/",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/worldwalker2/",
+                "start": 0,
+                "url": "https://t.co/X6Ott2S70I"
+              }
+            ]
+          }
+        },
+        "id": "115221441",
+        "location": "関西地方",
+        "name": "worldwalker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820047953081581568/UnK5Abji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 60,
+          "like_count": 267,
+          "listed_count": 5,
+          "tweet_count": 19061
+        },
+        "url": "https://t.co/X6Ott2S70I",
+        "username": "worldwalker_now",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:17:57.000Z",
+        "description": "不同的认知会有不同的行为，导致天差地别的结果。人无远虑必有近忧，当今世界无疑正在步入逆全球化过程，与我们此前30年的认知及经验相去甚远，如何在过程中趋利避害，不仅关乎我们自己的前景，更关系到子孙后代之福祉。必须认真思考，容不得丝毫懈怠。",
+        "id": "1778985848618602496",
+        "location": "brisbane",
+        "name": "洼地老刘",
+        "pinned_tweet_id": "1816381055311683814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778986080643190784/MIKY_jEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12511,
+          "following_count": 2095,
+          "like_count": 30410,
+          "listed_count": 71,
+          "tweet_count": 24786
+        },
+        "username": "Tonyliu395995",
+        "verified": true
+      }
+    ]
+  }
+}

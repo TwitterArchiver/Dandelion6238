@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1862350867053334689",
+    "created_at": "2024-11-30T14:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T15:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862866645347389602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1552308324338749440",
+          "start": 0,
+          "username": "UltimateOne_Arc"
+        },
+        {
+          "end": 30,
+          "id": "1583711070098640896",
+          "start": 17,
+          "username": "PriestleyZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862866645347389602",
+    "in_reply_to_user_id": "1552308324338749440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862351353634496687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UltimateOne_Arc @PriestleyZZZ ？我们基督徒很正常的，这人不是基督徒，切割切割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1862350867053334689",
+        "created_at": "2024-11-30T14:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T15:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862866645347389602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1552308324338749440",
+              "start": 0,
+              "username": "UltimateOne_Arc"
+            },
+            {
+              "end": 30,
+              "id": "1583711070098640896",
+              "start": 17,
+              "username": "PriestleyZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862866645347389602",
+        "in_reply_to_user_id": "1552308324338749440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862351353634496687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UltimateOne_Arc @PriestleyZZZ ？我们基督徒很正常的，这人不是基督徒，切割切割"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552308324338749440",
+        "conversation_id": "1862350867053334689",
+        "created_at": "2024-11-29T04:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T05:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862351353634496687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583711070098640896",
+              "start": 0,
+              "username": "PriestleyZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862351353634496687",
+        "in_reply_to_user_id": "1583711070098640896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 852,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862351236575482018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriestleyZZZ 符合我对基督徒的想象，纯完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1861973650880229609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 980,
+          "like_count": 7605,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1306
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T15:02:10.000Z",
+        "description": "你急就是我对，蝻的别急，急了就是石砸狗叫",
+        "id": "1552308324338749440",
+        "location": "Brunestud",
+        "name": "废话做爱紫餐发癫精神病公主BOT",
+        "pinned_tweet_id": "1862350867053334689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857737935896064000/Rb-GvfqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1314,
+          "like_count": 41156,
+          "listed_count": 6,
+          "media_count": 1568,
+          "tweet_count": 18047
+        },
+        "username": "UltimateOne_Arc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T06:45:55.000Z",
+        "description": "可以叫我Pri/医学生/机会主义者/我是个各种方面直觉很准，但一切知识有所缺乏的人/想骂我的请看置顶",
+        "id": "1583711070098640896",
+        "location": "裸のラリーズ",
+        "name": "Priestley🍃",
+        "pinned_tweet_id": "1791841159259603302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791129031574003713/gDlFZ_4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 920,
+          "like_count": 30718,
+          "listed_count": 7,
+          "media_count": 1235,
+          "tweet_count": 17308
+        },
+        "username": "PriestleyZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

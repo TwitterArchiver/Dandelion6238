@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1835733889941373089",
+    "created_at": "2024-09-17T09:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T10:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835972509151150256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Susiethegamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835972509151150256",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835733889941373089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Susiethegamer 😨那也太折磨了，被远程偷袭都没法还手的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1835733889941373089",
+        "created_at": "2024-09-17T09:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T10:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835972509151150256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Susiethegamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835972509151150256",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835733889941373089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Susiethegamer 😨那也太折磨了，被远程偷袭都没法还手的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688233455363219456",
+        "conversation_id": "1835733889941373089",
+        "created_at": "2024-09-16T17:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T18:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835733889941373089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835733889941373089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩不进大逃杀\n战区、派派、绝地求生、永劫、堡垒之夜愣是一个都不感兴趣\n真正的枪战游戏就是要跟cod本体一样秒活秒死无限冲锋😈😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 980,
+          "like_count": 7333,
+          "listed_count": 2,
+          "tweet_count": 1275
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "◂Ⓘ▸/小孩@acenanami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "acenanami"
+              }
+            ]
+          }
+        },
+        "id": "1688233455363219456",
+        "location": "比彻之愿，新奥斯汀",
+        "name": "苏西·瓦莱丽（正在前往狗镇）",
+        "pinned_tweet_id": "1835544212756205672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834988815754420224/rPdr7740_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 715,
+          "like_count": 116641,
+          "listed_count": 4,
+          "tweet_count": 21602
+        },
+        "username": "Susiethegamer",
+        "verified": false
+      }
+    ]
+  }
+}

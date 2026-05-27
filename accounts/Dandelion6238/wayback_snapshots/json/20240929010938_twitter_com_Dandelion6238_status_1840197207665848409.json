@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1839563438345080924",
+    "created_at": "2024-09-29T01:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T02:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840197207665848409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667676850938855424",
+          "start": 0,
+          "username": "tup0lev_IRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840197207665848409",
+    "in_reply_to_user_id": "1667676850938855424",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839563438345080924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tup0lev_IRL 额换香肠？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1839563438345080924",
+        "created_at": "2024-09-29T01:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T02:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840197207665848409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667676850938855424",
+              "start": 0,
+              "username": "tup0lev_IRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840197207665848409",
+        "in_reply_to_user_id": "1667676850938855424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839563438345080924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tup0lev_IRL 额换香肠？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839563407911170048"
+          ]
+        },
+        "author_id": "1667676850938855424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1839563438345080924",
+        "created_at": "2024-09-27T07:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T08:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839563438345080924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blcjzwpmxf",
+              "end": 49,
+              "expanded_url": "https://twitter.com/tup0lev_IRL/status/1839563438345080924/photo/1",
+              "media_key": "3_1839563407911170048",
+              "start": 26,
+              "url": "https://t.co/blCjzWpmxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839563438345080924",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 46430,
+          "like_count": 381,
+          "quote_count": 4,
+          "reply_count": 203,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有什么让香肠不炸的方法？每次煎香肠都炸的皮开肉绽。 https://t.co/blCjzWpmxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 993,
+          "like_count": 7554,
+          "listed_count": 2,
+          "tweet_count": 1361
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T23:35:38.000Z",
+        "description": "我是小图酱 用来发癫和日常的号 IRL acc for shit posting and IRL stuff(it's my main account now!) 中/ENG\nTupolev_IRL",
+        "id": "1667676850938855424",
+        "name": "漂漂亮亮小图酱",
+        "pinned_tweet_id": "1700121251992461652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667677192120307713/HLQtiBH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 22,
+          "like_count": 41,
+          "listed_count": 0,
+          "tweet_count": 168
+        },
+        "username": "tup0lev_IRL",
+        "verified": false
+      }
+    ]
+  }
+}

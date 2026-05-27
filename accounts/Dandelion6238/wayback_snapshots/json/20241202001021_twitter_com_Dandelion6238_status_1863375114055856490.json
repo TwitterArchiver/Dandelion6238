@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1863021520991535345",
+    "created_at": "2024-12-02T00:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T01:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863375114055856490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "554800319",
+          "start": 0,
+          "username": "cndaofaziran"
+        },
+        {
+          "end": 29,
+          "id": "44186175",
+          "start": 14,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863375114055856490",
+    "in_reply_to_user_id": "554800319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863156735613214860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cndaofaziran @xiaojingcanxue 1648个患者，等你开完方子黄花菜都凉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1863021520991535345",
+        "created_at": "2024-12-02T00:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T01:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863375114055856490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "554800319",
+              "start": 0,
+              "username": "cndaofaziran"
+            },
+            {
+              "end": 29,
+              "id": "44186175",
+              "start": 14,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863375114055856490",
+        "in_reply_to_user_id": "554800319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863156735613214860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cndaofaziran @xiaojingcanxue 1648个患者，等你开完方子黄花菜都凉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "554800319",
+        "conversation_id": "1863021520991535345",
+        "created_at": "2024-12-01T09:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T10:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863156735613214860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863156735613214860",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863021520991535345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 如果两个患者是实证两个是虚证，那用药是不一样的。如果实证的患者一个是南方一个在北方用药也不一样。同一个南方人的实证在夏季和冬季用药也不用。都是夏季人的性格性别体质不同用药也会有不同。这是因时因地因人而治宜。药不同，针刺穴位配方同理。\n用一种药包一个病本身就是问题，何来双盲随机？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1861973650880229609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 976,
+          "like_count": 7606,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1313
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-16T02:26:33.000Z",
+        "description": "一名每天孜孜不倦求知进步修证中的道医。不定期科普中医知识，欢迎关注：）",
+        "id": "554800319",
+        "location": "中国江西龙虎山",
+        "name": "万法归宗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796571567478177792/Vj5ilYBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 16,
+          "like_count": 1060,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 648
+        },
+        "username": "cndaofaziran",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223416,
+          "following_count": 1840,
+          "like_count": 189,
+          "listed_count": 1177,
+          "media_count": 22787,
+          "tweet_count": 29622
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

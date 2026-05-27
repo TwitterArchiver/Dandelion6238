@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1837397201900757267",
+    "created_at": "2024-09-21T07:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T08:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837397201900757267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837397201900757267",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操你妈Sledgehammer。\nFuck you Sledgehammer.\n生命末期出这种死妈活动，时间还这么短"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1837397201900757267",
+        "created_at": "2024-09-21T07:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837397201900757267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837397201900757267",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈Sledgehammer。\nFuck you Sledgehammer.\n生命末期出这种死妈活动，时间还这么短"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24.01.05/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 987,
+          "like_count": 7414,
+          "listed_count": 2,
+          "tweet_count": 1301
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

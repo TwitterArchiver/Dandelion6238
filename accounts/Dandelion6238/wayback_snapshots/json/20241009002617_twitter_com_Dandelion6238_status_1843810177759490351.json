@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1843810177759490351",
+    "created_at": "2024-10-09T00:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T01:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843810177759490351"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "halo",
+          "probability": 0.5753,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 83,
+          "normalized_text": "halo",
+          "probability": 0.5027,
+          "start": 80,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1098998095646519299",
+          "start": 3,
+          "username": "magpieleon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843810177759490351",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843560348038902254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magpieleon: People that make these tweets don't play halo, don't care about halo, and definitely don't deserve any spot in this communi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1843810177759490351",
+        "created_at": "2024-10-09T00:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T01:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843810177759490351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "halo",
+              "probability": 0.5753,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 83,
+              "normalized_text": "halo",
+              "probability": 0.5027,
+              "start": 80,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1098998095646519299",
+              "start": 3,
+              "username": "magpieleon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843810177759490351",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843560348038902254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magpieleon: People that make these tweets don't play halo, don't care about halo, and definitely don't deserve any spot in this communi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1098998095646519299",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1843560348038902254",
+        "created_at": "2024-10-08T07:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T08:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843560348038902254"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "halo",
+              "probability": 0.5714,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "halo",
+              "probability": 0.3905,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SmashJT/status…",
+              "end": 288,
+              "expanded_url": "https://twitter.com/SmashJT/status/1843126926342492573",
+              "start": 265,
+              "url": "https://t.co/O66FGA3l28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843560348038902254",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 50873,
+          "like_count": 1804,
+          "quote_count": 2,
+          "reply_count": 80,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843126926342492573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "People that make these tweets don't play halo, don't care about halo, and definitely don't deserve any spot in this community.\n\nJudge people based on their actions, not their appearance or whether or not they have a pride flag in their bio.\n\nIgnore these grifters. https://t.co/O66FGA3l28"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 990,
+          "like_count": 7623,
+          "listed_count": 2,
+          "tweet_count": 1323
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T17:28:59.000Z",
+        "description": "Halo content creator 9000+ subs\nMaster Chief's biggest simp, occasional forger (worked on Diminished)\n\nBanner by @ManMightyFN\npfp by @teethw0rms 💚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "ManMightyFN"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "teethw0rms"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/xMAGPIELEONx",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/xMAGPIELEONx",
+                "start": 0,
+                "url": "https://t.co/RTFmxPunGm"
+              }
+            ]
+          }
+        },
+        "id": "1098998095646519299",
+        "location": "on the 6th day god made halo 2",
+        "name": "MAGPIE LEON",
+        "pinned_tweet_id": "1842980218887352815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818986396717035520/vT2P9cgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 513,
+          "like_count": 15116,
+          "listed_count": 3,
+          "tweet_count": 12586
+        },
+        "url": "https://t.co/RTFmxPunGm",
+        "username": "magpieleon",
+        "verified": false
+      }
+    ]
+  }
+}

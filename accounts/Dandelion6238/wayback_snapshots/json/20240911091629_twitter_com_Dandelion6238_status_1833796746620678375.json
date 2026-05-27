@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833553740378607952",
+    "created_at": "2024-09-11T09:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T10:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833796746620678375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1395374832187965443",
+          "start": 0,
+          "username": "enocxzlw"
+        },
+        {
+          "end": 20,
+          "id": "1495635928949616642",
+          "start": 10,
+          "username": "Meizakini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833796746620678375",
+    "in_reply_to_user_id": "1395374832187965443",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833747178852057544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enocxzlw @Meizakini 微软也会，很奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833553740378607952",
+        "created_at": "2024-09-11T09:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T10:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833796746620678375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1395374832187965443",
+              "start": 0,
+              "username": "enocxzlw"
+            },
+            {
+              "end": 20,
+              "id": "1495635928949616642",
+              "start": 10,
+              "username": "Meizakini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833796746620678375",
+        "in_reply_to_user_id": "1395374832187965443",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833747178852057544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enocxzlw @Meizakini 微软也会，很奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395374832187965443",
+        "conversation_id": "1833553740378607952",
+        "created_at": "2024-09-11T05:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T06:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833747178852057544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495635928949616642",
+              "start": 0,
+              "username": "Meizakini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833747178852057544",
+        "in_reply_to_user_id": "1495635928949616642",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833553740378607952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meizakini 谷歌翻译会喜欢把English翻成中文，不知道为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Xbox版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833777445863878656/feED2vro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 973,
+          "like_count": 7224,
+          "listed_count": 2,
+          "tweet_count": 1322
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-20T13:44:32.000Z",
+        "description": "she / her | 08 年 mtf 一只 | 无证 | 含糖自 2024 / 06 / 12 | 半出柜半炸柜 | 不会前端",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cxzlw.top",
+                "end": 23,
+                "expanded_url": "https://blog.cxzlw.top",
+                "start": 0,
+                "url": "https://t.co/lJJtkaTawP"
+              }
+            ]
+          }
+        },
+        "id": "1395374832187965443",
+        "name": "创新者老王 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661336867625893888/z_HbeING_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 773,
+          "like_count": 4661,
+          "listed_count": 0,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/lJJtkaTawP",
+        "username": "enocxzlw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T05:46:25.000Z",
+        "description": "Transfem | 铝铜&女朋友超级可爱 | SRS 7.17@PAI | 178 cm | 物理 PhD 在读 | 一般不键政 | mastodon @meizakini@o3o.ca | telegram @meizakini | 手术日记 https://t.co/NcHNk6AdML",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "meizakini"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/meizaSRS",
+                "end": 147,
+                "expanded_url": "http://t.me/meizaSRS",
+                "start": 124,
+                "url": "https://t.co/NcHNk6AdML"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meiza.cc",
+                "end": 23,
+                "expanded_url": "http://meiza.cc",
+                "start": 0,
+                "url": "https://t.co/uTDknZ8kNp"
+              }
+            ]
+          }
+        },
+        "id": "1495635928949616642",
+        "location": "0.7 km",
+        "name": "Meiza",
+        "pinned_tweet_id": "1565684642963144705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826198723694829568/ga73lAXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 1109,
+          "like_count": 15141,
+          "listed_count": 11,
+          "tweet_count": 5097
+        },
+        "url": "https://t.co/uTDknZ8kNp",
+        "username": "Meizakini",
+        "verified": true
+      }
+    ]
+  }
+}

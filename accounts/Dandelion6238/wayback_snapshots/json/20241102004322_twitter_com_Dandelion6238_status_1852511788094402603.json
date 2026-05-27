@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1852350918781436027",
+    "created_at": "2024-11-02T00:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T01:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852511788094402603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490707122291867648",
+          "start": 0,
+          "username": "ACENANAMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852511788094402603",
+    "in_reply_to_user_id": "1490707122291867648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852350918781436027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACENANAMI 电脑升不了11🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1852350918781436027",
+        "created_at": "2024-11-02T00:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T01:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852511788094402603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490707122291867648",
+              "start": 0,
+              "username": "ACENANAMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852511788094402603",
+        "in_reply_to_user_id": "1490707122291867648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852350918781436027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACENANAMI 电脑升不了11🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1852350917196300288"
+          ]
+        },
+        "author_id": "1490707122291867648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1852350918781436027",
+        "created_at": "2024-11-01T14:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T15:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852350918781436027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852350918781436027",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還有人和我一樣在用win10嗎？（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 988,
+          "like_count": 7576,
+          "listed_count": 1,
+          "tweet_count": 1369
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T15:20:56.000Z",
+        "description": "因為我想將與妳的相識，因為我想將對妳的愛戀一直對此感到驕傲，直到死亡為止\n媽媽吧：@JR_YamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "black-souls.fandom.com/wiki/Grimm",
+                "end": 23,
+                "expanded_url": "https://black-souls.fandom.com/wiki/Grimm",
+                "start": 0,
+                "url": "https://t.co/5dqeIhztJW"
+              }
+            ]
+          }
+        },
+        "id": "1490707122291867648",
+        "location": "DO YOU LOVE ME ",
+        "name": "葉米爾",
+        "pinned_tweet_id": "1842206107001131112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851776271220641792/W7luwncm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 615,
+          "like_count": 87641,
+          "listed_count": 3,
+          "tweet_count": 11046
+        },
+        "url": "https://t.co/5dqeIhztJW",
+        "username": "ACENANAMI",
+        "verified": false
+      }
+    ]
+  }
+}

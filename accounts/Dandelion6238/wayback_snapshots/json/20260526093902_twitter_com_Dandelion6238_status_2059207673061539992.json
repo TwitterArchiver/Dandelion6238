@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2059145497345167624",
+    "created_at": "2026-05-26T09:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059207673061539992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1572451103765319680",
+          "start": 0,
+          "username": "dhkcfjhvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059207673061539992",
+    "in_reply_to_user_id": "1572451103765319680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059145497345167624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhkcfjhvj 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2059145497345167624",
+        "created_at": "2026-05-26T09:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059207673061539992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1572451103765319680",
+              "start": 0,
+              "username": "dhkcfjhvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059207673061539992",
+        "in_reply_to_user_id": "1572451103765319680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059145497345167624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhkcfjhvj 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572451103765319680",
+        "conversation_id": "2059145497345167624",
+        "created_at": "2026-05-26T05:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059145497345167624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059145497345167624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1009,
+          "like_count": 7157,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1010
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T05:02:21.000Z",
+        "description": "",
+        "id": "1572451103765319680",
+        "name": "蒲田幸子",
+        "pinned_tweet_id": "1911814632190431519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030339291868807168/cNq7UxsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 339,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 151
+        },
+        "username": "dhkcfjhvj",
+        "verified": false
+      }
+    ]
+  }
+}

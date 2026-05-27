@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910605455111467008"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "1910368987084710329",
+    "created_at": "2025-04-11T08:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T09:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910605585109709145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667865236559519745",
+          "start": 0,
+          "username": "whoosh_catej"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vxcx7B0wOB",
+          "end": 39,
+          "expanded_url": "https://x.com/Dandelion6238/status/1910605585109709145/photo/1",
+          "media_key": "3_1910605455111467008",
+          "start": 16,
+          "url": "https://t.co/vxcx7B0wOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910605585109709145",
+    "in_reply_to_user_id": "1667865236559519745",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910368987084710329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whoosh_catej 🤔 https://t.co/vxcx7B0wOB"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1910368987084710329].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1910368987084710329",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1910368987084710329"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910605455111467008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoPVieHXsAAw6_V.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910605455111467008"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "1910368987084710329",
+        "created_at": "2025-04-11T08:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T09:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910605585109709145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667865236559519745",
+              "start": 0,
+              "username": "whoosh_catej"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxcx7B0wOB",
+              "end": 39,
+              "expanded_url": "https://x.com/Dandelion6238/status/1910605585109709145/photo/1",
+              "media_key": "3_1910605455111467008",
+              "start": 16,
+              "url": "https://t.co/vxcx7B0wOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910605585109709145",
+        "in_reply_to_user_id": "1667865236559519745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910368987084710329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whoosh_catej 🤔 https://t.co/vxcx7B0wOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg",
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1062,
+          "like_count": 7713,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 686
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T12:04:05.000Z",
+        "description": "When you see it。学长:@HTT_m1saka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "HTT_m1saka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/30423155",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/30423155",
+                "start": 0,
+                "url": "https://t.co/pcU4CmhYl4"
+              }
+            ]
+          }
+        },
+        "id": "1667865236559519745",
+        "location": "石头路",
+        "name": "無理🇮🇹屑人🇸🇮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909552641765679104/uAInGRqS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 1391,
+          "like_count": 146327,
+          "listed_count": 7,
+          "media_count": 1065,
+          "tweet_count": 8983
+        },
+        "url": "https://t.co/pcU4CmhYl4",
+        "username": "whoosh_catej",
+        "verified": false
+      }
+    ]
+  }
+}

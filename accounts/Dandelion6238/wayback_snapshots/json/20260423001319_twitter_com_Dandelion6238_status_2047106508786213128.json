@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046827793690832896"
+      ],
+      "media_source_tweet_id": [
+        "2046827799902564638"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "2047106508786213128",
+    "created_at": "2026-04-23T00:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047106508786213128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011798773002031104",
+          "start": 3,
+          "username": "loveepls"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8aOJl4crTU",
+          "end": 42,
+          "expanded_url": "https://x.com/loveepls/status/2046827799902564638/photo/1",
+          "media_key": "3_2046827793690832896",
+          "start": 19,
+          "url": "https://t.co/8aOJl4crTU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047106508786213128",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046827799902564638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveepls: need https://t.co/8aOJl4crTU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_2046827793690832896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfLCKdWsAA4qU4.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046827793690832896"
+          ],
+          "media_source_tweet_id": [
+            "2046827799902564638"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "2047106508786213128",
+        "created_at": "2026-04-23T00:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047106508786213128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011798773002031104",
+              "start": 3,
+              "username": "loveepls"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aOJl4crTU",
+              "end": 42,
+              "expanded_url": "https://x.com/loveepls/status/2046827799902564638/photo/1",
+              "media_key": "3_2046827793690832896",
+              "start": 19,
+              "url": "https://t.co/8aOJl4crTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047106508786213128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046827799902564638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveepls: need https://t.co/8aOJl4crTU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046827793690832896"
+          ]
+        },
+        "author_id": "2011798773002031104",
+        "conversation_id": "2046827799902564638",
+        "created_at": "2026-04-22T05:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046827799902564638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aOJl4crTU",
+              "end": 28,
+              "expanded_url": "https://x.com/loveepls/status/2046827799902564638/photo/1",
+              "media_key": "3_2046827793690832896",
+              "start": 5,
+              "url": "https://t.co/8aOJl4crTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046827799902564638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 18123,
+          "like_count": 579,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "need https://t.co/8aOJl4crTU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1001,
+          "like_count": 7157,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 939
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:53:14.000Z",
+        "description": "soft love ✨",
+        "id": "2011798773002031104",
+        "location": "New York, USA",
+        "name": "🖤",
+        "pinned_tweet_id": "2016864121371672984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011902296607854592/dPHYVRBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22828,
+          "following_count": 288,
+          "like_count": 2042,
+          "listed_count": 35,
+          "media_count": 608,
+          "tweet_count": 608
+        },
+        "username": "loveepls",
+        "verified": true
+      }
+    ]
+  }
+}

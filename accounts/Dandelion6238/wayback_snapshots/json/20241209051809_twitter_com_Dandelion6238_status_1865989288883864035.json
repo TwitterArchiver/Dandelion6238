@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1865337350060228792",
+    "created_at": "2024-12-09T05:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T06:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865989288883864035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4534268479",
+          "start": 0,
+          "username": "peterduh_ea"
+        },
+        {
+          "end": 23,
+          "id": "1589203507852152832",
+          "start": 13,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865989288883864035",
+    "in_reply_to_user_id": "4534268479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865640054237925758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peterduh_ea @JianLv117 最有用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1865337350060228792",
+        "created_at": "2024-12-09T05:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T06:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865989288883864035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4534268479",
+              "start": 0,
+              "username": "peterduh_ea"
+            },
+            {
+              "end": 23,
+              "id": "1589203507852152832",
+              "start": 13,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865989288883864035",
+        "in_reply_to_user_id": "4534268479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865640054237925758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peterduh_ea @JianLv117 最有用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4534268479",
+        "conversation_id": "1865337350060228792",
+        "created_at": "2024-12-08T06:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T07:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865640054237925758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865640054237925758",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3963,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865337350060228792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 靜靜聽，不說話。\n如果是自動撥號，\n再幾秒後會自動掛斷，\n並標記無人接聽。\n不會再打。\n\n如果已經講了話，\n就可以聽見𨍭接聲，\n立刻掛掉。\n不會再打。\n\n如果是人工撥打，\n只需要冷冷說兩個字：\n同行。\n然後掛掉。\n不會再打。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1864465117498511560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 975,
+          "like_count": 7610,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1336
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-12T03:18:23.000Z",
+        "description": "IRS Enrolled Agent (EA) and CAA, US Tax Practitioner, Estate Planning, Insurance & Annuity. 美國稅務, 信託, 遺囑, 遺產, 諮詢/規劃/申報, ITIN, EIN 申請, 保險, 年金, 理財",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dforbesley.com",
+                "end": 23,
+                "expanded_url": "https://dforbesley.com",
+                "start": 0,
+                "url": "https://t.co/Q8Kt0iBtHi"
+              }
+            ]
+          }
+        },
+        "id": "4534268479",
+        "location": "Dallas, TX",
+        "name": "𝑃𝑒𝑡𝑒𝑟 𝐷𝑢ℎ, 𝐸𝐴, 𝐶𝐴𝐴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779307652868141056/6amxH97Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 91,
+          "like_count": 7113,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 5155
+        },
+        "url": "https://t.co/Q8Kt0iBtHi",
+        "username": "peterduh_ea",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱于与大家讨论政史，菊撅对线与汴京🙅‍♀️ 华北人 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵\n可互关(私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n死党: @msmaoi\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "msmaoi"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰",
+        "name": "简律",
+        "pinned_tweet_id": "1865722872196731390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852013055800201216/ELkDR40p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9628,
+          "following_count": 745,
+          "like_count": 34715,
+          "listed_count": 41,
+          "media_count": 1632,
+          "tweet_count": 4519
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

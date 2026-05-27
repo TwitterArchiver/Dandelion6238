@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1837273361266733224",
+    "created_at": "2024-09-21T09:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T10:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837419576856137951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837419576856137951",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837417437886599444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA3 我也是🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1837273361266733224",
+        "created_at": "2024-09-21T09:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T10:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837419576856137951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837419576856137951",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837417437886599444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA3 我也是🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354545024046821376",
+        "conversation_id": "1837273361266733224",
+        "created_at": "2024-09-21T09:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T10:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837417437886599444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837417437886599444",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837273361266733224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 哎呀这个 医生让我睡醒吃 然后我吃后两三个小时就昏昏欲睡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24.01.05/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 987,
+          "like_count": 7428,
+          "listed_count": 2,
+          "tweet_count": 1305
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "好想当清纯小家碧玉美少女~2005.9.9诞/很少发色色/无证含🍥/四字母是I N/S存疑TP/被人叫酷姐但我好想当甜妹~|那就让自己永远可爱浪漫~|里号@LianLianZiNya|-底城的孩子们，团结起来。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LianLianZiNya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MiharaRei",
+                "end": 23,
+                "expanded_url": "http://t.me/MiharaRei",
+                "start": 0,
+                "url": "https://t.co/OqhadBFkIL"
+              }
+            ]
+          }
+        },
+        "id": "1354545024046821376",
+        "location": "有卖意面吃的地方",
+        "name": "甜甜怜怜子🍥🏳️‍🌈🏳️‍⚧️♪",
+        "pinned_tweet_id": "1836396555617665205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810407651722801153/26ZgX3_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 407,
+          "like_count": 2618,
+          "listed_count": 4,
+          "tweet_count": 3377
+        },
+        "url": "https://t.co/OqhadBFkIL",
+        "username": "KURANAGA3",
+        "verified": false
+      }
+    ]
+  }
+}

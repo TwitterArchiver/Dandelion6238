@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1911270878064628031",
+    "created_at": "2025-04-13T04:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T05:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911270878064628031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RanXi_MtF/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/RanXi_MtF/status/1911192666995638448",
+          "start": 7,
+          "url": "https://t.co/5bOCc0oMX8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911270878064628031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911192666995638448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我智商怎么样 https://t.co/5bOCc0oMX8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1911270878064628031",
+        "created_at": "2025-04-13T04:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T05:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911270878064628031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RanXi_MtF/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/RanXi_MtF/status/1911192666995638448",
+              "start": 7,
+              "url": "https://t.co/5bOCc0oMX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911270878064628031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911192666995638448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我智商怎么样 https://t.co/5bOCc0oMX8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615704614766260225",
+        "conversation_id": "1911192666995638448",
+        "created_at": "2025-04-12T23:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T00:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911192666995638448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911192666995638448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我智商怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 1077,
+          "like_count": 7758,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 745
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T13:36:22.000Z",
+        "description": "摄影📷｜NIKON｜24.8.18｜日常｜@Fly0001985｜@kikoxts｜@lonebef88012｜@RanXi_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Fly0001985"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "kikoxts"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "lonebef88012"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "RanXi_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikon.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.nikon.com.cn",
+                "start": 0,
+                "url": "https://t.co/0YOLczz4oq"
+              }
+            ]
+          }
+        },
+        "id": "1615704614766260225",
+        "location": "日本国东京都港区港南2-15-3 品川城际",
+        "name": "RanXi｜OS",
+        "pinned_tweet_id": "1865343341266890803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876199238557933568/oyF7OKX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 772,
+          "like_count": 18442,
+          "listed_count": 8,
+          "media_count": 758,
+          "tweet_count": 5087
+        },
+        "url": "https://t.co/0YOLczz4oq",
+        "username": "RanXi_MtF",
+        "verified": false
+      }
+    ]
+  }
+}

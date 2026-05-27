@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1835768193841012742",
+    "created_at": "2024-09-17T09:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T10:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835969408461599075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795137310935408640",
+          "start": 0,
+          "username": "saksamalah2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835969408461599075",
+    "in_reply_to_user_id": "1795137310935408640",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835768193841012742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saksamalah2nd 🤬🤬🤬🤬🤬🤬🤬🤬"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1835768193841012742].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1835768193841012742",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1835768193841012742"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1835768193841012742",
+        "created_at": "2024-09-17T09:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T10:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835969408461599075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795137310935408640",
+              "start": 0,
+              "username": "saksamalah2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835969408461599075",
+        "in_reply_to_user_id": "1795137310935408640",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835768193841012742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah2nd 🤬🤬🤬🤬🤬🤬🤬🤬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 980,
+          "like_count": 7330,
+          "listed_count": 2,
+          "tweet_count": 1273
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T16:57:58.000Z",
+        "description": "悼念@chuilahinata\n深刻悼念卡慈\n被我b的跨跨对不起喵宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "chuilahinata"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/g0moet-jLw8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                "start": 0,
+                "url": "https://t.co/GwUECa6oIO"
+              }
+            ]
+          }
+        },
+        "id": "1795137310935408640",
+        "location": "重庆，马来西亚/闽粤交界",
+        "name": "楽奈形态•卡濨",
+        "pinned_tweet_id": "1833197312946090268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834978771998560256/3xnVCr2__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1117,
+          "like_count": 21449,
+          "listed_count": 4,
+          "tweet_count": 7413
+        },
+        "url": "https://t.co/GwUECa6oIO",
+        "username": "saksamalah2nd",
+        "verified": false
+      }
+    ]
+  }
+}

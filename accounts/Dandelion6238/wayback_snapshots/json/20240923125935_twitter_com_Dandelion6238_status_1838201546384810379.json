@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1837872082639781926",
+    "created_at": "2024-09-23T12:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T13:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838201546384810379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838201546384810379",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837872082639781926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba 不是我威海呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1837872082639781926",
+        "created_at": "2024-09-23T12:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T13:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838201546384810379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838201546384810379",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837872082639781926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba 不是我威海呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837872079775191046"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "conversation_id": "1837872082639781926",
+        "created_at": "2024-09-22T15:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T16:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837872082639781926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccx0itlydl",
+              "end": 23,
+              "expanded_url": "https://twitter.com/KagurazakaSenba/status/1837872082639781926/photo/1",
+              "media_key": "3_1837872079775191046",
+              "start": 0,
+              "url": "https://t.co/cCX0ItlYdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837872082639781926",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3144,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cCX0ItlYdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/Xbox/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 993,
+          "like_count": 7501,
+          "listed_count": 2,
+          "tweet_count": 1326
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "爱人 @Longlinlon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Longlinlon"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "距离你 1.84km",
+        "name": "💮神楽坂　鸢羽🌸",
+        "pinned_tweet_id": "1836762137089433883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820682664430718976/34XFnAz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 4628,
+          "like_count": 69153,
+          "listed_count": 11,
+          "tweet_count": 21184
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

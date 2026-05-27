@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2053458614388732310",
+    "created_at": "2026-05-21T12:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057432655541444739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "djx00919"
+        },
+        {
+          "end": 17,
+          "id": "1942218142010552320",
+          "start": 10,
+          "username": "utc_08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057432655541444739",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053478459851346335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djx00919 @utc_08 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2053458614388732310",
+        "created_at": "2026-05-21T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057432655541444739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            },
+            {
+              "end": 17,
+              "id": "1942218142010552320",
+              "start": 10,
+              "username": "utc_08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057432655541444739",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053478459851346335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 @utc_08 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "2053458614388732310",
+        "created_at": "2026-05-10T14:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053478459851346335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1942218142010552320",
+              "start": 0,
+              "username": "utc_08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053478459851346335",
+        "in_reply_to_user_id": "1942218142010552320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053478298613956667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utc_08 喵喵喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1005,
+          "like_count": 7156,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 989
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男  记性很差很差什么都记不住喵。\n想聊天的话可以私信喵 多和我互fo~\n＿＿＿＿＿＿＿＿＿＿＿＜烟鬼 od 卖淫 有主 的这些人请远离我＞",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "pinned_tweet_id": "2053503753958162531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027707712088510464/W5dXjr5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 3063,
+          "like_count": 169182,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 12610
+        },
+        "username": "djx00919",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:44:37.000Z",
+        "description": "ptt --",
+        "id": "1942218142010552320",
+        "name": "timezone!()",
+        "pinned_tweet_id": "2018316346011070845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039915804284829696/PKQjGnCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 316,
+          "like_count": 2610,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1232
+        },
+        "username": "utc_08",
+        "verified": false
+      }
+    ]
+  }
+}

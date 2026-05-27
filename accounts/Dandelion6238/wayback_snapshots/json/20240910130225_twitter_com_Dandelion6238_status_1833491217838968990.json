@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1832942595565052030",
+    "created_at": "2024-09-10T13:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T14:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833491217838968990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705630684117610498",
+          "start": 0,
+          "username": "LemonTreeandSea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833491217838968990",
+    "in_reply_to_user_id": "1705630684117610498",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832942595565052030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonTreeandSea 把中国最好的东西给抛弃了可还行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1832942595565052030",
+        "created_at": "2024-09-10T13:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T14:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833491217838968990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705630684117610498",
+              "start": 0,
+              "username": "LemonTreeandSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833491217838968990",
+        "in_reply_to_user_id": "1705630684117610498",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832942595565052030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonTreeandSea 把中国最好的东西给抛弃了可还行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832942584294961154",
+            "3_1832942584294969344",
+            "3_1832942584315932672",
+            "3_1832942584299171840"
+          ]
+        },
+        "author_id": "1705630684117610498",
+        "conversation_id": "1832942595565052030",
+        "created_at": "2024-09-09T00:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T01:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832942595565052030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znnfq8qppx",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LemonTreeandSea/status/1832942595565052030/photo/1",
+              "media_key": "3_1832942584294961154",
+              "start": 145,
+              "url": "https://t.co/zNNfQ8qPPx"
+            },
+            {
+              "display_url": "pic.x.com/znnfq8qppx",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LemonTreeandSea/status/1832942595565052030/photo/1",
+              "media_key": "3_1832942584294969344",
+              "start": 145,
+              "url": "https://t.co/zNNfQ8qPPx"
+            },
+            {
+              "display_url": "pic.x.com/znnfq8qppx",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LemonTreeandSea/status/1832942595565052030/photo/1",
+              "media_key": "3_1832942584315932672",
+              "start": 145,
+              "url": "https://t.co/zNNfQ8qPPx"
+            },
+            {
+              "display_url": "pic.x.com/znnfq8qppx",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LemonTreeandSea/status/1832942595565052030/photo/1",
+              "media_key": "3_1832942584299171840",
+              "start": 145,
+              "url": "https://t.co/zNNfQ8qPPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832942595565052030",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 334189,
+          "like_count": 1105,
+          "quote_count": 43,
+          "reply_count": 692,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "感谢爱尔兰🇮🇪\n让我彻底戒掉了中餐\n超市里没有中餐调料，没有筷子，没有中餐食材，整个国家没有几家中餐馆\n这对于我，一个来到自由世界的中国人\n是一件最大的收获和幸福\n戒掉中餐\n就意味着同时也彻底抛弃了原来在中国的习惯和思维方式，而中国文化，在这个过程中也被我一并抛弃，再也不会出现在我的世界 https://t.co/zNNfQ8qPPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "怀旧版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833483328504098818/M_5K0sFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 977,
+          "like_count": 7187,
+          "listed_count": 2,
+          "tweet_count": 1300
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T17:10:27.000Z",
+        "description": "一个向往幸福生活的孩子😋目前在爱尔兰上学，不过以后想去美洲生活，希望能在世界上交到更多的朋友～喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com/",
+                "start": 0,
+                "url": "https://t.co/VORKWLYCbB"
+              }
+            ]
+          }
+        },
+        "id": "1705630684117610498",
+        "location": "Dublin City, Ireland",
+        "name": "神外绫华🇮🇪",
+        "pinned_tweet_id": "1767565154852479216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832564619094736896/VpVK6Xp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 146,
+          "like_count": 12810,
+          "listed_count": 9,
+          "tweet_count": 7461
+        },
+        "url": "https://t.co/VORKWLYCbB",
+        "username": "LemonTreeandSea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "1836395099879559221",
+    "created_at": "2024-09-18T13:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T14:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836395099879559221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SukanaBot/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/SukanaBot/status/1653296528717647874",
+          "start": 55,
+          "url": "https://t.co/Xdc2IHCwuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836395099879559221",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1653296528717647874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用Xbox的都是大傻逼。到时候中美打仗，美国人远程摁个按钮，Xbox主机原地爆炸就把那些用Xbox的炸死了。 https://t.co/Xdc2IHCwuN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1836395099879559221",
+        "created_at": "2024-09-18T13:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T14:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836395099879559221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SukanaBot/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/SukanaBot/status/1653296528717647874",
+              "start": 55,
+              "url": "https://t.co/Xdc2IHCwuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836395099879559221",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1653296528717647874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用Xbox的都是大傻逼。到时候中美打仗，美国人远程摁个按钮，Xbox主机原地爆炸就把那些用Xbox的炸死了。 https://t.co/Xdc2IHCwuN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410655287917285380",
+        "conversation_id": "1653296528717647874",
+        "created_at": "2023-05-02T07:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-02T07:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1653296528717647874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1653296528717647874",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 53435,
+          "like_count": 354,
+          "quote_count": 21,
+          "reply_count": 69,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "用苹果手机的都是大傻逼。到时候中美打仗，美国人远程摁个按钮，苹果手机原地爆炸就把那些用苹果手机的炸死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 979,
+          "like_count": 7355,
+          "listed_count": 2,
+          "tweet_count": 1280
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T17:43:33.000Z",
+        "description": "我好像做了一个很长的梦 从星空璀璨到黄昏落幕。@VeryKuaiGaming Win!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "VeryKuaiGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "matters.town/@sukanahere",
+                "end": 23,
+                "expanded_url": "https://matters.town/@sukanahere",
+                "start": 0,
+                "url": "https://t.co/NZlx70EKpx"
+              }
+            ]
+          }
+        },
+        "id": "1410655287917285380",
+        "name": "Sukana",
+        "pinned_tweet_id": "1779175228859621430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827045338349498370/GOKeSgMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 5413,
+          "like_count": 54590,
+          "listed_count": 8,
+          "tweet_count": 13332
+        },
+        "url": "https://t.co/NZlx70EKpx",
+        "username": "SukanaBot",
+        "verified": false
+      }
+    ]
+  }
+}

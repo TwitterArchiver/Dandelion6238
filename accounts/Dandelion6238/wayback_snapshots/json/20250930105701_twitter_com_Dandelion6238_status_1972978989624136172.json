@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1972878834753282500",
+    "created_at": "2025-09-30T10:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T11:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972978989624136172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951444346433314818",
+          "start": 0,
+          "username": "cai0000012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972978989624136172",
+    "in_reply_to_user_id": "1951444346433314818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972977349496041693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai0000012 我们也是🤕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1972878834753282500",
+        "created_at": "2025-09-30T10:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972978989624136172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951444346433314818",
+              "start": 0,
+              "username": "cai0000012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972978989624136172",
+        "in_reply_to_user_id": "1951444346433314818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972977349496041693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai0000012 我们也是🤕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951444346433314818",
+        "conversation_id": "1972878834753282500",
+        "created_at": "2025-09-30T10:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972977349496041693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972977349496041693",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972968599787807183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 但是我们是这几年里一句话都没有讲过的那种诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 1063,
+          "like_count": 7534,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 697
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T00:46:16.000Z",
+        "description": "什么都很菜的cai/无证含糖MtF/HRT 2025.02.04",
+        "id": "1951444346433314818",
+        "name": "🍥cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951445525925863424/zOv7gm1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 19,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 300
+        },
+        "username": "cai0000012",
+        "verified": false
+      }
+    ]
+  }
+}

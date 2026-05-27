@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "1834935644147126632",
+    "created_at": "2024-09-15T08:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T09:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835236515288363458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "49002560",
+          "start": 0,
+          "username": "Emeiht"
+        },
+        {
+          "end": 21,
+          "id": "1401592047035895812",
+          "start": 8,
+          "username": "Maytechummia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835236515288363458",
+    "in_reply_to_user_id": "49002560",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835045028777148420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emeiht @Maytechummia China is part of Taiwan."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1834935644147126632",
+        "created_at": "2024-09-15T08:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T09:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835236515288363458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "49002560",
+              "start": 0,
+              "username": "Emeiht"
+            },
+            {
+              "end": 21,
+              "id": "1401592047035895812",
+              "start": 8,
+              "username": "Maytechummia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835236515288363458",
+        "in_reply_to_user_id": "49002560",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835045028777148420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emeiht @Maytechummia China is part of Taiwan."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "49002560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1834935644147126632",
+        "created_at": "2024-09-14T19:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T20:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835045028777148420"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Taiwan",
+              "probability": 0.9747,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 36,
+              "normalized_text": "China",
+              "probability": 0.975,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1401592047035895812",
+              "start": 0,
+              "username": "Maytechummia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835045028777148420",
+        "in_reply_to_user_id": "1401592047035895812",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834935644147126632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maytechummia Taiwan is part of China"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 976,
+          "like_count": 7288,
+          "listed_count": 2,
+          "tweet_count": 1260
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-20T13:12:12.000Z",
+        "description": "Allles op persoonlijke titel en nooit met de intentie om anderen te schaden.",
+        "id": "49002560",
+        "name": "@THA 🇿🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800127857210822656/F4PDufkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 143,
+          "like_count": 3222,
+          "listed_count": 2,
+          "tweet_count": 12079
+        },
+        "username": "Emeiht",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T17:29:41.000Z",
+        "description": "消灭共党暴政，真相属于人民\nLove surfing and photography. \nI will go into survival mode if tickled. \n#DinastíaMilenials #SuperFriends 💛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 87,
+                "tag": "DinastíaMilenials"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "tag": "SuperFriends"
+              }
+            ]
+          }
+        },
+        "id": "1401592047035895812",
+        "name": "Mayte Chummia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834152505661329408/C76nnKjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7370,
+          "following_count": 1683,
+          "like_count": 121125,
+          "listed_count": 43,
+          "tweet_count": 82694
+        },
+        "username": "Maytechummia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1856745784554692903",
+    "created_at": "2024-11-14T05:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T06:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856939839352176924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694241748946710528",
+          "start": 0,
+          "username": "drrpalestine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856939839352176924",
+    "in_reply_to_user_id": "1694241748946710528",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856745784554692903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drrpalestine RIP🕯️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1856745784554692903",
+        "created_at": "2024-11-14T05:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T06:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856939839352176924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694241748946710528",
+              "start": 0,
+              "username": "drrpalestine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856939839352176924",
+        "in_reply_to_user_id": "1694241748946710528",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856745784554692903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drrpalestine RIP🕯️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856745781706792960"
+          ]
+        },
+        "author_id": "1694241748946710528",
+        "conversation_id": "1856745784554692903",
+        "created_at": "2024-11-13T17:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T18:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856745784554692903"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Hezbollah",
+              "probability": 0.8938,
+              "start": 67,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/avAm6Bf4o3",
+              "end": 100,
+              "expanded_url": "https://x.com/drrpalestine/status/1856745784554692903/photo/1",
+              "media_key": "3_1856745781706792960",
+              "start": 77,
+              "url": "https://t.co/avAm6Bf4o3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856745784554692903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 34384,
+          "like_count": 3904,
+          "quote_count": 50,
+          "reply_count": 245,
+          "retweet_count": 771
+        },
+        "reply_settings": "everyone",
+        "text": "This was their last photo \n\nEveryone in this Picture Eliminated by Hezbollah https://t.co/avAm6Bf4o3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 984,
+          "like_count": 7566,
+          "listed_count": 1,
+          "tweet_count": 1279
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T06:54:57.000Z",
+        "description": "Pro Humanitarian Activist | Geo Politics | Current Issues |",
+        "id": "1694241748946710528",
+        "name": "Palestinian News 🗞️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804721048119836672/k735jhdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86668,
+          "following_count": 9099,
+          "like_count": 12968,
+          "listed_count": 224,
+          "tweet_count": 14197
+        },
+        "username": "drrpalestine",
+        "verified": true
+      }
+    ]
+  }
+}

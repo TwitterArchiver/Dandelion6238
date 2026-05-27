@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1843231477422809133",
+    "created_at": "2024-10-07T10:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T11:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843232218497573202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Susiethegamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843232218497573202",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843231477422809133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Susiethegamer 剧情也是无聊透顶🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1843231477422809133",
+        "created_at": "2024-10-07T10:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T11:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843232218497573202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Susiethegamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843232218497573202",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843231477422809133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Susiethegamer 剧情也是无聊透顶🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843231426453348352"
+          ]
+        },
+        "author_id": "1688233455363219456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1843231477422809133",
+        "created_at": "2024-10-07T10:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T11:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843231477422809133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdicN9DwMX",
+              "end": 151,
+              "expanded_url": "https://x.com/Susiethegamer/status/1843231477422809133/photo/1",
+              "media_key": "3_1843231426453348352",
+              "start": 128,
+              "url": "https://t.co/WdicN9DwMX"
+            },
+            {
+              "display_url": "x.com/susiethegamer/…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/susiethegamer/status/1843229613671194794",
+              "start": 152,
+              "url": "https://t.co/R7xN4uWeEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843231477422809133",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843229613671194794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的妈呀开头五分钟就要忍不下去了，处决动画硬加迫真印度慢镜头，既没有Aiden帅又没有Marcus炫，甚至还有bug\n整体就是一幅粗糙的手感，我感觉还没有看门狗2好玩\n我等下看看是不是打完头两小时然后叫你去开地图接支线清据点后面流程纯罐头，是的话就不玩了 https://t.co/WdicN9DwMX https://t.co/R7xN4uWeEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 989,
+          "like_count": 7585,
+          "listed_count": 2,
+          "tweet_count": 1327
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "ヨルシカ◂Ⓘ▸/ゲーム🎮/カルピス🥛/可爱姐姐@lum1neko/小孩@acenanami/🏳️‍⚧️🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "lum1neko"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "acenanami"
+              }
+            ]
+          }
+        },
+        "id": "1688233455363219456",
+        "name": "“Goldenglow” Susie Glitter",
+        "pinned_tweet_id": "1837849254397977009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842483893506887680/QuvrUH1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 917,
+          "like_count": 122076,
+          "listed_count": 4,
+          "tweet_count": 23094
+        },
+        "username": "Susiethegamer",
+        "verified": false
+      }
+    ]
+  }
+}

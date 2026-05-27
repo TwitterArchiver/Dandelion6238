@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1911329656785256893",
+    "created_at": "2025-04-13T11:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T12:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911379237220516301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771924034734772224",
+          "start": 0,
+          "username": "zakoyyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911379237220516301",
+    "in_reply_to_user_id": "1771924034734772224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911329656785256893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zakoyyz 就差直接说“ATM 打钱”了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911329646693498881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoZoL9_WwAEgpi4.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1911329656785256893",
+        "created_at": "2025-04-13T11:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T12:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911379237220516301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771924034734772224",
+              "start": 0,
+              "username": "zakoyyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911379237220516301",
+        "in_reply_to_user_id": "1771924034734772224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911329656785256893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zakoyyz 就差直接说“ATM 打钱”了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911329646693498881"
+          ]
+        },
+        "author_id": "1771924034734772224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1911329656785256893",
+        "created_at": "2025-04-13T08:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T09:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911329656785256893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WGo8ypIjv",
+              "end": 29,
+              "expanded_url": "https://x.com/zakoyyz/status/1911329656785256893/photo/1",
+              "media_key": "3_1911329646693498881",
+              "start": 6,
+              "url": "https://t.co/3WGo8ypIjv"
+            },
+            {
+              "display_url": "x.com/zakoyyz/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/zakoyyz/status/1911329427830767892",
+              "start": 30,
+              "url": "https://t.co/lqccV6VDJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911329656785256893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911329427830767892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再补充一条 https://t.co/3WGo8ypIjv https://t.co/lqccV6VDJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1078,
+          "like_count": 7760,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 752
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T15:36:34.000Z",
+        "description": "男/不含糖/不歧视/把推特当朋友圈发/遵守x规则/私信请在我的任意推文下面发消息告诉我/同好贴贴扩列/加v过🚪50/私信都会回！直接发棒子的别怪我笑你太短",
+        "id": "1771924034734772224",
+        "name": "曦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771924158458277888/KtwJkZHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 732,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 302
+        },
+        "username": "zakoyyz",
+        "verified": false
+      }
+    ]
+  }
+}

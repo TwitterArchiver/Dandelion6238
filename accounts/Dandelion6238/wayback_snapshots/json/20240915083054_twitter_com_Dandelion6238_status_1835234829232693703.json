@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1835234829232693703",
+    "created_at": "2024-09-15T08:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T09:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835234829232693703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JamieMetzl/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/JamieMetzl/status/1834933343093153828",
+          "start": 6,
+          "url": "https://t.co/vgxYtiRlNi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835234829232693703",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834933343093153828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我🤓 https://t.co/vgxYtiRlNi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1835234829232693703",
+        "created_at": "2024-09-15T08:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T09:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835234829232693703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JamieMetzl/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/JamieMetzl/status/1834933343093153828",
+              "start": 6,
+              "url": "https://t.co/vgxYtiRlNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835234829232693703",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834933343093153828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我🤓 https://t.co/vgxYtiRlNi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "229195516",
+        "conversation_id": "1834933343093153828",
+        "created_at": "2024-09-14T12:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T13:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834933343093153828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834933343093153828",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 30920,
+          "like_count": 1084,
+          "quote_count": 19,
+          "reply_count": 149,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "I stand with America. 🇺🇸 \n\nI stand with Ukraine. 🇺🇦 \n\nI stand with Israel. 🇮🇱 \n\nI stand with Taiwan. 🇹🇼 \n\nI stand with the Philippines. 🇵🇭 \n\nI stand for freedom. ☮️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24/01/05",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 976,
+          "like_count": 7288,
+          "listed_count": 2,
+          "tweet_count": 1259
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-21T19:42:35.000Z",
+        "description": "https://t.co/M3eSpDEAUu Founder • Futurist  • #Superconvergence #HackingDarwin #EternalSonata author • @AtlanticCouncil • Fmr NSC, State, UN, @WHO adv committee",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 46,
+                "tag": "Superconvergence"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "tag": "HackingDarwin"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "EternalSonata"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "AtlanticCouncil"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "username": "WHO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "OneShared.World",
+                "end": 23,
+                "expanded_url": "http://OneShared.World",
+                "start": 0,
+                "url": "https://t.co/M3eSpDEAUu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jamiemetzl.com",
+                "end": 23,
+                "expanded_url": "http://www.jamiemetzl.com",
+                "start": 0,
+                "url": "https://t.co/qmSslLvZF5"
+              }
+            ]
+          }
+        },
+        "id": "229195516",
+        "location": "New York, NY USA",
+        "name": "Jamie Metzl",
+        "pinned_tweet_id": "1390827543301922816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258080453287788544/zpw6bKnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67639,
+          "following_count": 14206,
+          "like_count": 21963,
+          "listed_count": 654,
+          "tweet_count": 12628
+        },
+        "url": "https://t.co/qmSslLvZF5",
+        "username": "JamieMetzl",
+        "verified": true
+      }
+    ]
+  }
+}

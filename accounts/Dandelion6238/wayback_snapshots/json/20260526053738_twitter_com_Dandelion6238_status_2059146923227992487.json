@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058731176140120064"
+      ],
+      "media_source_tweet_id": [
+        "2058731182284800108"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "2059146923227992487",
+    "created_at": "2026-05-26T05:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059146923227992487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1453276921727528980",
+          "start": 3,
+          "username": "Leftcomfox"
+        },
+        {
+          "end": 28,
+          "id": "1741063508102627328",
+          "start": 16,
+          "username": "kitty068_ly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BwMuRKmXhj",
+          "end": 54,
+          "expanded_url": "https://x.com/Leftcomfox/status/2058731182284800108/photo/1",
+          "media_key": "3_2058731176140120064",
+          "start": 31,
+          "url": "https://t.co/BwMuRKmXhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059146923227992487",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058731182284800108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leftcomfox: @kitty068_ly 😭 https://t.co/BwMuRKmXhj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2058731176140120064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIVGNnaoAARaDN.jpg",
+        "width": 359
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058731176140120064"
+          ],
+          "media_source_tweet_id": [
+            "2058731182284800108"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "2059146923227992487",
+        "created_at": "2026-05-26T05:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059146923227992487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1453276921727528980",
+              "start": 3,
+              "username": "Leftcomfox"
+            },
+            {
+              "end": 28,
+              "id": "1741063508102627328",
+              "start": 16,
+              "username": "kitty068_ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwMuRKmXhj",
+              "end": 54,
+              "expanded_url": "https://x.com/Leftcomfox/status/2058731182284800108/photo/1",
+              "media_key": "3_2058731176140120064",
+              "start": 31,
+              "url": "https://t.co/BwMuRKmXhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059146923227992487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058731182284800108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leftcomfox: @kitty068_ly 😭 https://t.co/BwMuRKmXhj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058731176140120064"
+          ]
+        },
+        "author_id": "1453276921727528980",
+        "conversation_id": "2058720951794360729",
+        "created_at": "2026-05-25T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058731182284800108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwMuRKmXhj",
+              "end": 38,
+              "expanded_url": "https://x.com/Leftcomfox/status/2058731182284800108/photo/1",
+              "media_key": "3_2058731176140120064",
+              "start": 15,
+              "url": "https://t.co/BwMuRKmXhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058731182284800108",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 73733,
+          "like_count": 1091,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058720951794360729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 😭 https://t.co/BwMuRKmXhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1007,
+          "like_count": 7156,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1005
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-27T08:26:56.000Z",
+        "description": "左翼共产主义—无治主义🏴🚩/斯大林分子们，你安托西修爷爷来啦😡👊/支持各被压迫民族的劳动者自决，但是反对资产阶级民族主义建国论，因为我反对一切形式的资本主义国家Ⓐ/Be gay,do crime!🔥",
+        "id": "1453276921727528980",
+        "location": "南太平洋",
+        "name": "🦊☯️森崎浩文🏴🚩",
+        "pinned_tweet_id": "1993212621605179440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748373072170913792/gRKXDGXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 7501,
+          "like_count": 62118,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 3397
+        },
+        "username": "Leftcomfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia \n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 123,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 100,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 522,
+          "like_count": 7741,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 4401
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

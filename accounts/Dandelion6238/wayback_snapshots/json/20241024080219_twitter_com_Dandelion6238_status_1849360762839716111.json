@@ -1,0 +1,161 @@
+{
+  "data": {
+    "author_id": "1739437517772926976",
+    "conversation_id": "1849358691734274049",
+    "created_at": "2024-10-24T08:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-24T09:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849360762839716111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1244865662142447617",
+          "start": 0,
+          "username": "Hatsushigure_c"
+        }
+      ]
+    },
+    "id": "1849360762839716111",
+    "in_reply_to_user_id": "1244865662142447617",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 40,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849358691734274049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatsushigure_c 大陆区？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1739437517772926976",
+        "conversation_id": "1849358691734274049",
+        "created_at": "2024-10-24T08:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T09:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849360762839716111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1244865662142447617",
+              "start": 0,
+              "username": "Hatsushigure_c"
+            }
+          ]
+        },
+        "id": "1849360762839716111",
+        "in_reply_to_user_id": "1244865662142447617",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849358691734274049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsushigure_c 大陆区？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "不该存在的记忆",
+        "pinned_tweet_id": "1864465117498511560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861799971542167552/3RsWxOcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 975,
+          "like_count": 7607,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1331
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T05:54:45.000Z",
+        "description": "持证含糖 MtF | HRT 2024.3.5 | 天残党 | 家长态度模糊 | 双相 | 焦虑 | 中度抑郁 | INFP-T | 同类互 fo | 废物 | 拖延症 | 伪音学习中 | 日常发情 | 贴贴 @QED05107807 | @Hatsushigure.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "QED05107807"
+              },
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Hatsushigure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.hatsushigure.shop",
+                "end": 23,
+                "expanded_url": "https://blog.hatsushigure.shop",
+                "start": 0,
+                "url": "https://t.co/fXZJPL8mf7"
+              }
+            ]
+          }
+        },
+        "id": "1244865662142447617",
+        "location": "二次元",
+        "name": "初時雨🍥",
+        "pinned_tweet_id": "1809846871785107896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830464990702419968/ynXWslRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 543,
+          "like_count": 16129,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/fXZJPL8mf7",
+        "username": "Hatsushigure_c",
+        "verified": false
+      }
+    ]
+  }
+}

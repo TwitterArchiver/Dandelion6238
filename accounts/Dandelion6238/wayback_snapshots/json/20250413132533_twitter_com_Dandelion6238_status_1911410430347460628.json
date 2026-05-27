@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1911410430347460628",
+    "created_at": "2025-04-13T13:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T14:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911410430347460628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhjnjkoguyunmo…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1911305704842932587",
+          "start": 56,
+          "url": "https://t.co/iXVI7PAdVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911410430347460628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911305704842932587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉割手和OD完全不能相提并论，割手一般都是为了缓解压力改善情绪，危害也比OD小多了（割到脂肪层的那种不算） https://t.co/iXVI7PAdVF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1911410430347460628",
+        "created_at": "2025-04-13T13:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T14:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911410430347460628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhjnjkoguyunmo…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1911305704842932587",
+              "start": 56,
+              "url": "https://t.co/iXVI7PAdVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911410430347460628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911305704842932587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉割手和OD完全不能相提并论，割手一般都是为了缓解压力改善情绪，危害也比OD小多了（割到脂肪层的那种不算） https://t.co/iXVI7PAdVF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1911305699352870912"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1911305704842932587",
+        "created_at": "2025-04-13T06:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T07:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911305704842932587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911305704842932587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来推特之前我认为mtf仅仅只是一群想要变成女孩子的人，上了推特我才发现没我想的那么简单，原来mtf中还有很多人喜欢割手、od，这颠覆了我的三观，所以我想做个小调查，我想知道有多少mtf即不割手，又不od。🍵😋\n\n（以下投票仅限mtf参加）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1085,
+          "like_count": 7764,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 757
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "学过国学、美术、c/c++、古建筑的小学五年级辍学废物，也是一名诗人，同时还是一位心学家，热爱中国文化，逍遥自在，无为无不为。喜欢交朋友，欢迎大家找我玩。😋\n挚友@Konekoutena",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Konekoutena"
+              }
+            ]
+          }
+        },
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "pinned_tweet_id": "1908670462554738863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 223,
+          "like_count": 43784,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 7931
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

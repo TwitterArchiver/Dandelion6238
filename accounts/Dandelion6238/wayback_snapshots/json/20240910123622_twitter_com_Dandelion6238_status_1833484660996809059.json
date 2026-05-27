@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833218015220871400",
+    "created_at": "2024-09-10T12:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T13:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833484660996809059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799461123382767616",
+          "start": 0,
+          "username": "SuriDancing"
+        },
+        {
+          "end": 26,
+          "id": "1567668000064405506",
+          "start": 13,
+          "username": "NeuroContext"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833484660996809059",
+    "in_reply_to_user_id": "1799461123382767616",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833483262137860357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuriDancing @NeuroContext 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833218015220871400",
+        "created_at": "2024-09-10T12:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T13:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833484660996809059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799461123382767616",
+              "start": 0,
+              "username": "SuriDancing"
+            },
+            {
+              "end": 26,
+              "id": "1567668000064405506",
+              "start": 13,
+              "username": "NeuroContext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833484660996809059",
+        "in_reply_to_user_id": "1799461123382767616",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833483262137860357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuriDancing @NeuroContext 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799461123382767616",
+        "conversation_id": "1833218015220871400",
+        "created_at": "2024-09-10T12:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T13:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833483262137860357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567668000064405506",
+              "start": 0,
+              "username": "NeuroContext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833483262137860357",
+        "in_reply_to_user_id": "1567668000064405506",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833218015220871400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroContext that's true."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "怀旧版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833483328504098818/M_5K0sFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 977,
+          "like_count": 7183,
+          "listed_count": 2,
+          "tweet_count": 1298
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T15:19:09.000Z",
+        "description": "是多意識體。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tulpa.cn",
+                "end": 23,
+                "expanded_url": "http://tulpa.cn",
+                "start": 0,
+                "url": "https://t.co/myy6MWKP5N"
+              }
+            ]
+          }
+        },
+        "id": "1799461123382767616",
+        "name": "untitle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828297851182686210/FX0P2bJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 2,
+          "like_count": 105,
+          "listed_count": 0,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/myy6MWKP5N",
+        "username": "SuriDancing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T00:15:56.000Z",
+        "description": "Out of Context Neuro-Sama Moments and Community Memes.\nNeuro's Twitch Stream: https://t.co/QB1rSdIbwn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/vedal987",
+                "end": 101,
+                "expanded_url": "https://www.twitch.tv/vedal987",
+                "start": 78,
+                "url": "https://t.co/QB1rSdIbwn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/neurosama",
+                "end": 23,
+                "expanded_url": "https://discord.gg/neurosama",
+                "start": 0,
+                "url": "https://t.co/4BWFTqruEn"
+              }
+            ]
+          }
+        },
+        "id": "1567668000064405506",
+        "name": "NeuroContext 💜",
+        "pinned_tweet_id": "1740546631169343864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688534648383541248/EpHcUmCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6622,
+          "following_count": 53,
+          "like_count": 1674,
+          "listed_count": 10,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/4BWFTqruEn",
+        "username": "NeuroContext",
+        "verified": false
+      }
+    ]
+  }
+}

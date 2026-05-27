@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1914662230185971835",
+    "created_at": "2025-04-22T12:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T13:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914662230185971835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1843518394056015872",
+          "start": 3,
+          "username": "xxxx123yyy545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914662230185971835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914572925098733911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxx123yyy545: 为什么恶堕会开心呢\n滥交，od，割手，吃人妖药雌堕\n可是，晕晕的向天花板伸手的时候\n看到血从胳膊上流下来的时候\n被摸着乳头淫叫一直到高潮的时候\n好开心啊\n可以忘掉很多很多的痛苦\n假装自己有很多很多的幸福\n没有道德感的话\n不去管他们怎么想的话…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1914662230185971835",
+        "created_at": "2025-04-22T12:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T13:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914662230185971835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1843518394056015872",
+              "start": 3,
+              "username": "xxxx123yyy545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914662230185971835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914572925098733911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxx123yyy545: 为什么恶堕会开心呢\n滥交，od，割手，吃人妖药雌堕\n可是，晕晕的向天花板伸手的时候\n看到血从胳膊上流下来的时候\n被摸着乳头淫叫一直到高潮的时候\n好开心啊\n可以忘掉很多很多的痛苦\n假装自己有很多很多的幸福\n没有道德感的话\n不去管他们怎么想的话…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843518394056015872",
+        "conversation_id": "1914572925098733911",
+        "created_at": "2025-04-22T06:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914572925098733911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914572925098733911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2229,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么恶堕会开心呢\n滥交，od，割手，吃人妖药雌堕\n可是，晕晕的向天花板伸手的时候\n看到血从胳膊上流下来的时候\n被摸着乳头淫叫一直到高潮的时候\n好开心啊\n可以忘掉很多很多的痛苦\n假装自己有很多很多的幸福\n没有道德感的话\n不去管他们怎么想的话\n即使流下眼泪，也不会悲伤的吧\n为何。。如此坚定呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "09.04/初四生/ISFP也可能是ISTP/171公分/57kg/男朋友@khdrd4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 37,
+                "username": "khdrd4"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "XXX今天也被PUA",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902145501790613504/Nw41VSPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 1102,
+          "like_count": 7796,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 800
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T05:06:59.000Z",
+        "description": "百合无限好！持证含糖xyn / 日常发疯 / 偶尔鉴证自残 / 喜提双相 / 热爱猎奇gal血图 / 高考政治满分者 / 天依南北 / 喜欢被调教\n\n知识拥有：文学 电影 戏剧 生化竞赛 欢迎交流 另接初高中语历政家教150/h 同类100\n求灌注，同类回fo！\n爱人&小狗 @l93374231",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "l93374231"
+              }
+            ]
+          }
+        },
+        "id": "1843518394056015872",
+        "location": "后海旁边地道老北京人",
+        "name": "纪~伊~🏳️‍⚧️",
+        "pinned_tweet_id": "1912862146104598779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843519143460646915/nykInaID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 941,
+          "like_count": 4762,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1492
+        },
+        "username": "xxxx123yyy545",
+        "verified": false
+      }
+    ]
+  }
+}

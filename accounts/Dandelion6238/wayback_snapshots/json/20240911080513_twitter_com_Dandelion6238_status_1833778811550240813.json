@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833778811550240813",
+    "created_at": "2024-09-11T08:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T09:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833778811550240813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CODWarfareForu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/CODWarfareForum/status/1833523250413895825",
+          "start": 5,
+          "url": "https://t.co/0jYXDpdPRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833778811550240813",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833523250413895825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好阴间😳 https://t.co/0jYXDpdPRh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833778811550240813",
+        "created_at": "2024-09-11T08:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T09:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833778811550240813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CODWarfareForu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/CODWarfareForum/status/1833523250413895825",
+              "start": 5,
+              "url": "https://t.co/0jYXDpdPRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833778811550240813",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833523250413895825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好阴间😳 https://t.co/0jYXDpdPRh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833523227156463616"
+          ]
+        },
+        "author_id": "224505467",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1833523250413895825",
+        "created_at": "2024-09-10T15:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T16:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833523250413895825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mabwhswlqe",
+              "end": 27,
+              "expanded_url": "https://twitter.com/CODWarfareForum/status/1833523250413895825/photo/1",
+              "media_key": "3_1833523227156463616",
+              "start": 4,
+              "url": "https://t.co/mAbWhSwlqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833523250413895825",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 671,
+          "impression_count": 214607,
+          "like_count": 9013,
+          "quote_count": 104,
+          "reply_count": 93,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "wtf https://t.co/mAbWhSwlqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "Xbox版",
+        "id": "1739437517772926976",
+        "name": "极恶尽",
+        "pinned_tweet_id": "1833478492802937193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833777445863878656/feED2vro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 972,
+          "like_count": 7213,
+          "listed_count": 2,
+          "tweet_count": 1319
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-09T05:20:46.000Z",
+        "description": "@callofduty #MWIII #BO6 #CODzombies #Warzone #blackops6  news, video clips, leaks & more.\n\nGraphics - goatmilk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "MWIII"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "BO6"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "tag": "CODzombies"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "Warzone"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "tag": "blackops6"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "callofduty"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rumble.com/c/TaskForceLea…",
+                "end": 23,
+                "expanded_url": "https://rumble.com/c/TaskForceLeaks",
+                "start": 0,
+                "url": "https://t.co/oPcvs8FELt"
+              }
+            ]
+          }
+        },
+        "id": "224505467",
+        "location": "Vorkuta",
+        "name": "COD Warfare",
+        "pinned_tweet_id": "1820860091777880421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793734098139123713/RsCVsAa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27208,
+          "following_count": 938,
+          "like_count": 13859,
+          "listed_count": 97,
+          "tweet_count": 87298
+        },
+        "url": "https://t.co/oPcvs8FELt",
+        "username": "CODWarfareForum",
+        "verified": true
+      }
+    ]
+  }
+}

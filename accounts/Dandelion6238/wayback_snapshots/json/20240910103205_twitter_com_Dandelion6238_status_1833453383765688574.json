@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1833444283443032249",
+    "created_at": "2024-09-10T10:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T11:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833453383765688574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1074448466",
+          "start": 0,
+          "username": "PAYDAYGame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833453383765688574",
+    "in_reply_to_user_id": "1074448466",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833444283443032249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PAYDAYGame Can't play PAYDAY anymore.😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1833444283443032249",
+        "created_at": "2024-09-10T10:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T11:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833453383765688574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1074448466",
+              "start": 0,
+              "username": "PAYDAYGame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833453383765688574",
+        "in_reply_to_user_id": "1074448466",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833444283443032249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PAYDAYGame Can't play PAYDAY anymore.😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833444278850199552"
+          ]
+        },
+        "author_id": "1074448466",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1425921713150201858",
+              "name": "Xbox Game Pass"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1833444283443032249",
+        "created_at": "2024-09-10T09:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T10:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833444283443032249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ow3ovgjqav",
+              "end": 285,
+              "expanded_url": "https://twitter.com/PAYDAYGame/status/1833444283443032249/photo/1",
+              "media_key": "3_1833444278850199552",
+              "start": 262,
+              "url": "https://t.co/Ow3OvGJQAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833444283443032249",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2204,
+          "like_count": 66,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Hey heisters, PAYDAY 3 will be leaving Xbox Game Pass on the 15th of September. We just wanted to say thank you to each and everyone of you who have been playing using Xbox Game Pass! We salute you! Thank you to Xbox for always being cool partners to work with. https://t.co/Ow3OvGJQAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "你我相遇\n是一场奇遇 一次延续 一份大爱\n你以爱的名义呼唤\n我必以爱的声音作答\n爱出者爱返\n福往者福来\n生命接力 · 大爱传递",
+        "id": "1739437517772926976",
+        "name": "中国人体器官捐献管理中心",
+        "pinned_tweet_id": "1828799762784772391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833323592920272899/NW0Uqomi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 977,
+          "like_count": 7175,
+          "listed_count": 2,
+          "tweet_count": 1293
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-09T17:55:13.000Z",
+        "description": "It’s PAYDAY! Buy #PAYDAY3🗽#PAYDAY2 by @starbreezeAB Rob banks on PC/VR/PS/Xbox/Switch 💰 ESRB: Mature, Blood and Gore, Drugs, Intense Violence.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 17,
+                "tag": "PAYDAY3"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "tag": "PAYDAY2"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "starbreezeAB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pd3.link/tree",
+                "end": 23,
+                "expanded_url": "http://pd3.link/tree",
+                "start": 0,
+                "url": "https://t.co/g2CXq7konb"
+              }
+            ]
+          }
+        },
+        "id": "1074448466",
+        "location": "Crimenet",
+        "name": "PAYDAY 3",
+        "pinned_tweet_id": "1831678921080803398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831611128473899008/l1iq_GsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340676,
+          "following_count": 9266,
+          "like_count": 28803,
+          "listed_count": 359,
+          "tweet_count": 32633
+        },
+        "url": "https://t.co/g2CXq7konb",
+        "username": "PAYDAYGame",
+        "verified": true
+      }
+    ]
+  }
+}

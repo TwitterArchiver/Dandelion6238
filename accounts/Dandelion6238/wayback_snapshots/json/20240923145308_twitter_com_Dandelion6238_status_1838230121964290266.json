@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838230091282923520",
+        "3_1838230118189477888",
+        "3_1838230100523069440"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "conversation_id": "1838230121964290266",
+    "created_at": "2024-09-23T14:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T15:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838230121964290266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8mgcbcwwas",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1838230121964290266/photo/1",
+          "media_key": "3_1838230091282923520",
+          "start": 19,
+          "url": "https://t.co/8MGcbcWwaS"
+        },
+        {
+          "display_url": "pic.x.com/8mgcbcwwas",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1838230121964290266/photo/1",
+          "media_key": "3_1838230118189477888",
+          "start": 19,
+          "url": "https://t.co/8MGcbcWwaS"
+        },
+        {
+          "display_url": "pic.x.com/8mgcbcwwas",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Dandelion6238/status/1838230121964290266/photo/1",
+          "media_key": "3_1838230100523069440",
+          "start": 19,
+          "url": "https://t.co/8MGcbcWwaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838230121964290266",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来当天晚上拿水果刀使劲划也划不深 https://t.co/8MGcbcWwaS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838230121964290266].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838230121964290266",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838230121964290266"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1838230091282923520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYK0h1ZaQAAnXfr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1838230118189477888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYK0jZobsAAEkxt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1838230100523069440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYK0iX0bsAAjRxa.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/Xbox/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 993,
+          "like_count": 7502,
+          "listed_count": 2,
+          "tweet_count": 1333
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

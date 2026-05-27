@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2045487762879742180",
+    "created_at": "2026-04-19T00:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T01:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045666947388342292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555456695983382528",
+          "start": 0,
+          "username": "fushengyimiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045666947388342292",
+    "in_reply_to_user_id": "1555456695983382528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045487762879742180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fushengyimiao 想打乳钉了，但是一想到我的乳头就想笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34405,
+        "height": 1280,
+        "media_key": "13_2045487586588893184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045487586588893184/img/reanUwQY0bB7sIn1.jpg",
+        "public_metrics": {
+          "view_count": 688
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045487586588893184/vid/avc1/320x568/O5uHSLYT-1Yg-hEY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045487586588893184/vid/avc1/480x852/nsC9eKCYlnjQOgHp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045487586588893184/vid/avc1/720x1280/N8dhNw-R22mn68qu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045487586588893184/pl/fdgmpOA3JDQR1rOL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2045487762879742180",
+        "created_at": "2026-04-19T00:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045666947388342292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555456695983382528",
+              "start": 0,
+              "username": "fushengyimiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045666947388342292",
+        "in_reply_to_user_id": "1555456695983382528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045487762879742180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fushengyimiao 想打乳钉了，但是一想到我的乳头就想笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045487586588893184"
+          ]
+        },
+        "author_id": "1555456695983382528",
+        "conversation_id": "2045487762879742180",
+        "created_at": "2026-04-18T13:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045487762879742180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vw50fwCtKw",
+              "end": 71,
+              "expanded_url": "https://x.com/fushengyimiao/status/2045487762879742180/video/1",
+              "media_key": "13_2045487586588893184",
+              "start": 48,
+              "url": "https://t.co/vw50fwCtKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045487762879742180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 8269,
+          "like_count": 322,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "如何让喜欢的人全身软软的窝进你怀里\n1：挑断他的脚筋，\n2：挑断他的手筋，\n3：打断他的肋骨， https://t.co/vw50fwCtKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1002,
+          "like_count": 7150,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 912
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T07:33:04.000Z",
+        "description": "喜欢发关于自己的涩涩~ 男娘~ mtf~ 暂时无营业计划~ 长期在线（太闲了）~欢迎找咱私信~超温柔的~闲聊什么的都欢迎~@nanniangsuki最爱的主人～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "nanniangsuki"
+              }
+            ]
+          }
+        },
+        "id": "1555456695983382528",
+        "name": "苏苏",
+        "pinned_tweet_id": "1866846648883982349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555456843488657408/1Rte2IDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3233,
+          "following_count": 159,
+          "like_count": 1903,
+          "listed_count": 24,
+          "media_count": 52,
+          "tweet_count": 274
+        },
+        "username": "fushengyimiao",
+        "verified": false
+      }
+    ]
+  }
+}

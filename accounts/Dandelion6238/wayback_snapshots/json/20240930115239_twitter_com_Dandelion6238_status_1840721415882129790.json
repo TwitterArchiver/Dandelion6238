@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1840721415882129790",
+    "created_at": "2024-09-30T11:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T12:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840721415882129790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684241711080574976",
+          "start": 3,
+          "username": "KY_SNWAZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840721415882129790",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840445246855074092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KY_SNWAZ: 海信公司机器人怎么个事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1840721415882129790",
+        "created_at": "2024-09-30T11:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T12:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840721415882129790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684241711080574976",
+              "start": 3,
+              "username": "KY_SNWAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840721415882129790",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840445246855074092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KY_SNWAZ: 海信公司机器人怎么个事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684241711080574976",
+        "conversation_id": "1840445246855074092",
+        "created_at": "2024-09-29T17:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T18:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840445246855074092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840445246855074092",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "海信公司机器人怎么个事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "15/HRT：24-01-05（yyyy-mm-dd）/负能量/Xbox/Supra et Ultra!/🏳️‍⚧️🇺🇲🇹🇼🇨🇳🇮🇱🇺🇦",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1840555213855526980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 989,
+          "like_count": 7576,
+          "listed_count": 2,
+          "tweet_count": 1364
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T16:38:20.000Z",
+        "description": "09.01.29十五岁小学生🤓/mtx/青春阻断剂使用中/没有天赋的家长党/INFP/精神病患",
+        "id": "1684241711080574976",
+        "location": "Palma, Spain",
+        "name": "KY丶SNWAZ",
+        "pinned_tweet_id": "1723753179148423506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780256438344089600/3ceStlfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 70,
+          "like_count": 1381,
+          "listed_count": 1,
+          "tweet_count": 2074
+        },
+        "username": "KY_SNWAZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "1836617443436851533",
+    "created_at": "2024-09-19T04:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T05:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836617443436851533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CaribbeanRythm…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/CaribbeanRythms/status/1836291403187445828",
+          "start": 15,
+          "url": "https://t.co/77S5XlrSon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836617443436851533",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836291403187445828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种种族主义还是屠一屠比较好 https://t.co/77S5XlrSon"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1836617443436851533",
+        "created_at": "2024-09-19T04:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T05:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836617443436851533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CaribbeanRythm…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/CaribbeanRythms/status/1836291403187445828",
+              "start": 15,
+              "url": "https://t.co/77S5XlrSon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836617443436851533",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836291403187445828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种种族主义还是屠一屠比较好 https://t.co/77S5XlrSon"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "987349034850451457",
+        "conversation_id": "1836290410215248010",
+        "created_at": "2024-09-18T06:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T07:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836291403187445828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836291403187445828",
+        "in_reply_to_user_id": "987349034850451457",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 27616,
+          "like_count": 1855,
+          "quote_count": 13,
+          "reply_count": 34,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836290410215248010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The Japanese were warriors, heroic samurai on a divine mission to cleanse Nanking of the bugs. The real mistake wasn’t what they did, it was the fact we stopped them before they could finish the job God handed them."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "24.01.05/Supra et Ultra!",
+        "id": "1739437517772926976",
+        "name": "极恶尽今天也被PUA",
+        "pinned_tweet_id": "1836245414648893677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 978,
+          "like_count": 7351,
+          "listed_count": 2,
+          "tweet_count": 1285
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-20T15:15:28.000Z",
+        "description": "you are not alone in this abyssal darkness. i am here and we shall face the chasm as brothers.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "felineguardians.org",
+                "end": 23,
+                "expanded_url": "https://www.felineguardians.org/",
+                "start": 0,
+                "url": "https://t.co/vDDGfcVvEi"
+              }
+            ]
+          }
+        },
+        "id": "987349034850451457",
+        "location": "The Gauntlet",
+        "name": "◉⃤Prometheus (DARK MAGA)",
+        "pinned_tweet_id": "1510403646898511876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835511580756172800/7KQT4pEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45163,
+          "following_count": 808,
+          "like_count": 41173,
+          "listed_count": 203,
+          "tweet_count": 20373
+        },
+        "url": "https://t.co/vDDGfcVvEi",
+        "username": "CaribbeanRythms",
+        "verified": true
+      }
+    ]
+  }
+}
