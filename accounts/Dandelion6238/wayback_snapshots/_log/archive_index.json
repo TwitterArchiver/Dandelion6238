@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-28T00:03:04",
+  "last_updated": "2026-05-28T00:03:34",
   "html": {
     "https://web.archive.org/web/20240910103205if_/https://twitter.com/Dandelion6238/status/1833453383765688574": {
       "status": "done",
@@ -3894,31 +3894,31 @@
   },
   "videos": {
     "https://video.twimg.com/ext_tw_video/1834227984548388864/pu/vid/avc1/1280x576/V1CW-iHBvQ9tyl1I.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240912135010_twitter_com_Dandelion6238_status_1834228010548916423.json"
       ],
-      "last_updated": "2026-05-27T18:18:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240912135010/https://video.twimg.com/ext_tw_video/1834227984548388864/pu/vid/avc1/1280x576/V1CW-iHBvQ9tyl1I.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2e5ef399a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-28T00:03:19",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240912135010/https://video.twimg.com/ext_tw_video/1834227984548388864/pu/vid/avc1/1280x576/V1CW-iHBvQ9tyl1I.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1834228329609609217/pu/vid/avc1/1280x576/I1tTm4O-CvanYov4.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20240912135132_twitter_com_Dandelion6238_status_1834228352716083627.json"
       ],
-      "last_updated": "2026-05-27T18:17:56",
+      "last_updated": "2026-05-28T00:03:22",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240912135132/https://video.twimg.com/ext_tw_video/1834228329609609217/pu/vid/avc1/1280x576/I1tTm4O-CvanYov4.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1834552006448451584/pu/vid/avc1/1280x720/rxTCnLRoBLlqytyi.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20240913111757_twitter_com_Dandelion6238_status_1834552090632274005.json"
       ],
-      "last_updated": "2026-05-27T18:17:56",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240913111757/https://video.twimg.com/ext_tw_video/1834552006448451584/pu/vid/avc1/1280x720/rxTCnLRoBLlqytyi.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-05-28T00:03:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240913111757/https://video.twimg.com/ext_tw_video/1834552006448451584/pu/vid/avc1/1280x720/rxTCnLRoBLlqytyi.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f9b1cdc0230>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2045537579513344000/pu/vid/avc1/720x1280/GfMjTqivVaJQJtk9.mp4?tag=12": {
       "status": "done",
@@ -9038,7 +9038,7 @@
       "miss_count": 2
     },
     "20240912135010_twitter_com_Dandelion6238_status_1834228010548916423.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -9048,7 +9048,7 @@
           "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-27T18:18:14",
+      "last_updated": "2026-05-28T00:03:19",
       "miss_count": 2
     },
     "20240912135132_twitter_com_Dandelion6238_status_1834228352716083627.json": {
@@ -9170,7 +9170,7 @@
       "miss_count": 2
     },
     "20240913111757_twitter_com_Dandelion6238_status_1834552090632274005.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -9180,7 +9180,7 @@
           "https://pbs.twimg.com/profile_images/1833840544797085697/AGbHCMYu_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-27T18:18:43",
+      "last_updated": "2026-05-28T00:03:34",
       "miss_count": 2
     },
     "20240913122130_twitter_com_Dandelion6238_status_1834568082838237314.json": {
