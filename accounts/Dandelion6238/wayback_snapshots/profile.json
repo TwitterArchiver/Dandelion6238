@@ -6,5 +6,14 @@
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "pinned": "1921504892352336027"
+  "pinned": "1921504892352336027",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 31,
+        "start": 24,
+        "username": "khdrd4"
+      }
+    ]
+  }
 }
