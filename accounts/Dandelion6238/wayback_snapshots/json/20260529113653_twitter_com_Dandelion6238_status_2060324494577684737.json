@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060324473589444615"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060324494577684737",
+    "created_at": "2026-05-29T11:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:35:06.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060324046693171226",
+      "2060324100019458516",
+      "2060324494577684737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FKZjYPclzT",
+          "end": 30,
+          "expanded_url": "https://x.com/Dandelion6238/status/2060324494577684737/photo/1",
+          "media_key": "3_2060324473589444615",
+          "start": 7,
+          "url": "https://t.co/FKZjYPclzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060324494577684737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点击输入文本 https://t.co/FKZjYPclzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060324473589444615",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe-MVJXsAc1xpv.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060324029064474629"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060324046693171226",
+        "created_at": "2026-05-29T11:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:35:06.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060324046693171226",
+          "2060324100019458516",
+          "2060324494577684737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TyK0Q9stj",
+              "end": 26,
+              "expanded_url": "https://x.com/Dandelion6238/status/2060324046693171226/photo/1",
+              "media_key": "3_2060324029064474629",
+              "start": 3,
+              "url": "https://t.co/2TyK0Q9stj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324046693171226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哭哭 https://t.co/2TyK0Q9stj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060324084378902532"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060324100019458516",
+        "created_at": "2026-05-29T11:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:35:06.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060324046693171226",
+          "2060324100019458516",
+          "2060324494577684737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkx9U0XZSD",
+              "end": 23,
+              "expanded_url": "https://x.com/Dandelion6238/status/2060324100019458516/photo/1",
+              "media_key": "3_2060324084378902532",
+              "start": 0,
+              "url": "https://t.co/gkx9U0XZSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324100019458516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gkx9U0XZSD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060324473589444615"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060324494577684737",
+        "created_at": "2026-05-29T11:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:35:06.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060324046693171226",
+          "2060324100019458516",
+          "2060324494577684737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKZjYPclzT",
+              "end": 30,
+              "expanded_url": "https://x.com/Dandelion6238/status/2060324494577684737/photo/1",
+              "media_key": "3_2060324473589444615",
+              "start": 7,
+              "url": "https://t.co/FKZjYPclzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324494577684737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点击输入文本 https://t.co/FKZjYPclzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1010,
+          "like_count": 7152,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1014
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      }
+    ]
+  }
+}
