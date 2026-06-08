@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063229962430124032",
+        "3_2063229988208287744"
+      ]
+    },
+    "author_id": "1739437517772926976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063230010614268282",
+    "created_at": "2026-06-06T12:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063230010614268282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gXbD4Jdi3g",
+          "end": 29,
+          "expanded_url": "https://x.com/Dandelion6238/status/2063230010614268282/photo/1",
+          "media_key": "3_2063229962430124032",
+          "start": 6,
+          "url": "https://t.co/gXbD4Jdi3g"
+        },
+        {
+          "display_url": "pic.x.com/gXbD4Jdi3g",
+          "end": 29,
+          "expanded_url": "https://x.com/Dandelion6238/status/2063230010614268282/photo/1",
+          "media_key": "3_2063229988208287744",
+          "start": 6,
+          "url": "https://t.co/gXbD4Jdi3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063230010614268282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在同一局！ https://t.co/gXbD4Jdi3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2063229962430124032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIQuCiXEAAZpQp.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2063229988208287744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIQvikWoAAYjy2.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063229962430124032",
+            "3_2063229988208287744"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063230010614268282",
+        "created_at": "2026-06-06T12:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063230010614268282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXbD4Jdi3g",
+              "end": 29,
+              "expanded_url": "https://x.com/Dandelion6238/status/2063230010614268282/photo/1",
+              "media_key": "3_2063229962430124032",
+              "start": 6,
+              "url": "https://t.co/gXbD4Jdi3g"
+            },
+            {
+              "display_url": "pic.x.com/gXbD4Jdi3g",
+              "end": 29,
+              "expanded_url": "https://x.com/Dandelion6238/status/2063230010614268282/photo/1",
+              "media_key": "3_2063229988208287744",
+              "start": 6,
+              "url": "https://t.co/gXbD4Jdi3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063230010614268282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在同一局！ https://t.co/gXbD4Jdi3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1010,
+          "like_count": 7152,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1026
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      }
+    ]
+  }
+}
