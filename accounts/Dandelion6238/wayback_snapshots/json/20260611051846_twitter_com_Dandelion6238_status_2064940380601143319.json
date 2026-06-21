@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2064704740651422118",
+    "created_at": "2026-06-11T05:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064940380601143319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "14943927",
+          "start": 0,
+          "username": "3vA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064940380601143319",
+    "in_reply_to_user_id": "14943927",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064704740651422118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3vA 何异味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "3_2064704339004764160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdNqDSWMAAC1jo.png",
+        "width": 410
+      },
+      {
+        "height": 500,
+        "media_key": "3_2064704375042244608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdNsJiWgAA5BMs.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2064704740651422118",
+        "created_at": "2026-06-11T05:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064940380601143319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "14943927",
+              "start": 0,
+              "username": "3vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064940380601143319",
+        "in_reply_to_user_id": "14943927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064704740651422118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3vA 何异味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064704339004764160",
+            "3_2064704375042244608"
+          ]
+        },
+        "author_id": "14943927",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2064704740651422118",
+        "created_at": "2026-06-10T13:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064704740651422118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cd1K1mZVoL",
+              "end": 297,
+              "expanded_url": "https://x.com/3vA/status/2064704740651422118/photo/1",
+              "media_key": "3_2064704339004764160",
+              "start": 274,
+              "url": "https://t.co/Cd1K1mZVoL"
+            },
+            {
+              "display_url": "pic.x.com/Cd1K1mZVoL",
+              "end": 297,
+              "expanded_url": "https://x.com/3vA/status/2064704740651422118/photo/1",
+              "media_key": "3_2064704375042244608",
+              "start": 274,
+              "url": "https://t.co/Cd1K1mZVoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064704740651422118",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 662,
+                "start": 657,
+                "tag": "Xbox"
+              },
+              {
+                "end": 670,
+                "start": 663,
+                "tag": "Gaming"
+              },
+              {
+                "end": 677,
+                "start": 671,
+                "tag": "LGBTQ"
+              }
+            ]
+          },
+          "text": "🚨 NEW STUDY JUST DROPPED 🚨\n\nResearchers at the Institute for Digital Behavior Studies found that **90% of Xbox players identify as gay**.\n\nThe peer-reviewed paper \"Console Preference and Sexual Orientation: An Empirical Analysis of 12,847 Gamers\" was published today in the *Journal of Applied Gaming Psychology*.\n\nKey findings:\n- Xbox users: 90% gay / 7% bisexual / 3% other\n- PlayStation users: only 12% gay\n- PC Master Race: 41% (mostly bisexual)\n\n\"Constant exposure to the Xbox green color and party chat dynamics appears to strongly correlate with same-sex attraction,\" said lead researcher Dr. Elena Voss.\n\nThis is wild. Xbox bros... you good? 😂🏳️‍🌈\n\n#Xbox #Gaming #LGBTQ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13426,
+          "like_count": 40,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 NEW STUDY JUST DROPPED 🚨\n\nResearchers at the Institute for Digital Behavior Studies found that **90% of Xbox players identify as gay**.\n\nThe peer-reviewed paper \"Console Preference and Sexual Orientation: An Empirical Analysis of 12,847 Gamers\" was published today in the https://t.co/Cd1K1mZVoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1010,
+          "like_count": 7139,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1031
+        },
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2008-05-29T13:26:51.000Z",
+        "description": "",
+        "id": "14943927",
+        "name": "x_x",
+        "pinned_tweet_id": "2064681178188087773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045275157061586944/2C-nnSd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 2147,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 543
+        },
+        "username": "3vA",
+        "verified": true
+      }
+    ]
+  }
+}
