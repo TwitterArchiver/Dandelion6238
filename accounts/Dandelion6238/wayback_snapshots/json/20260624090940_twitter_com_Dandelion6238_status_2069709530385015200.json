@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2069591667225788915",
+    "created_at": "2026-06-24T09:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069709530385015200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692075579850563584",
+          "start": 0,
+          "username": "10Lystra"
+        },
+        {
+          "end": 20,
+          "id": "1593884908195401728",
+          "start": 10,
+          "username": "uugbfbnkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069709530385015200",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069708600432279623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10Lystra @uugbfbnkk 🫩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2069591667225788915",
+        "created_at": "2026-06-24T09:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069709530385015200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 20,
+              "id": "1593884908195401728",
+              "start": 10,
+              "username": "uugbfbnkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069709530385015200",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069708600432279623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @uugbfbnkk 🫩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2069591667225788915",
+        "created_at": "2026-06-24T09:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069708600432279623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1593884908195401728",
+              "start": 0,
+              "username": "uugbfbnkk"
+            },
+            {
+              "end": 25,
+              "id": "1739437517772926976",
+              "start": 11,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069708600432279623",
+        "in_reply_to_user_id": "1593884908195401728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069591667225788915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uugbfbnkk @Dandelion6238 😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 1004,
+          "like_count": 7136,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1038
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1049,
+          "like_count": 2630,
+          "listed_count": 5,
+          "media_count": 332,
+          "tweet_count": 8777
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T08:32:38.000Z",
+        "description": "一个女疯子，不建议关注",
+        "id": "1593884908195401728",
+        "name": "晚安淼",
+        "pinned_tweet_id": "2058599047477567613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156806077472769/dIauj5Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41545,
+          "following_count": 115,
+          "like_count": 306,
+          "listed_count": 124,
+          "media_count": 86,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "uugbfbnkk",
+        "verified": false
+      }
+    ]
+  }
+}
