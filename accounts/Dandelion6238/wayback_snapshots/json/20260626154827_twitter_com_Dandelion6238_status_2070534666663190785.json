@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2070390537677361225",
+    "created_at": "2026-06-26T15:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070534666663190785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1009792348786692096",
+          "start": 0,
+          "username": "microondas39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070534666663190785",
+    "in_reply_to_user_id": "1009792348786692096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070390537677361225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@microondas39 没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2070390533873176576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuBOJ3XkAAULbj.jpg",
+        "width": 479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2070390537677361225",
+        "created_at": "2026-06-26T15:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070534666663190785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1009792348786692096",
+              "start": 0,
+              "username": "microondas39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070534666663190785",
+        "in_reply_to_user_id": "1009792348786692096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070390537677361225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@microondas39 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070390533873176576"
+          ]
+        },
+        "author_id": "1009792348786692096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070390537677361225",
+        "created_at": "2026-06-26T06:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070390537677361225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7fNhULLDQ",
+              "end": 103,
+              "expanded_url": "https://x.com/microondas39/status/2070390537677361225/photo/1",
+              "media_key": "3_2070390533873176576",
+              "start": 80,
+              "url": "https://t.co/S7fNhULLDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070390537677361225",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 331441,
+          "like_count": 5267,
+          "quote_count": 18,
+          "reply_count": 76,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "A mi esto de mediamarkt me lo tienen que explicar,que forma de vacilar es esta? https://t.co/S7fNhULLDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1001,
+          "like_count": 7135,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-21T13:37:11.000Z",
+        "description": "Cromos como tetas,tetas como cromos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/microondas39",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/microondas39",
+                "start": 0,
+                "url": "https://t.co/1gnBydfYOl"
+              }
+            ]
+          }
+        },
+        "id": "1009792348786692096",
+        "location": "España",
+        "name": "Microondas39",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031142231269412864/ShKssmlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994,
+          "following_count": 1108,
+          "like_count": 24295,
+          "listed_count": 7,
+          "media_count": 2133,
+          "tweet_count": 16238
+        },
+        "url": "https://t.co/1gnBydfYOl",
+        "username": "microondas39",
+        "verified": true
+      }
+    ]
+  }
+}

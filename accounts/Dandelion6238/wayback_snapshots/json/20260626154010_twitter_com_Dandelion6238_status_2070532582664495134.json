@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2070472888860160123",
+    "created_at": "2026-06-26T15:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070532582664495134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631886937890930688",
+          "start": 0,
+          "username": "siegfried124"
+        },
+        {
+          "end": 27,
+          "id": "1677462611930251264",
+          "start": 14,
+          "username": "NorwindSkies"
+        },
+        {
+          "end": 36,
+          "id": "1239457591417171973",
+          "start": 28,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070532582664495134",
+    "in_reply_to_user_id": "1631886937890930688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070522168144736440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siegfried124 @NorwindSkies @GFWfrog 911之前不行，911之后无视战机警告是可以直接击落的。不管怎么说至少得有拦截战机吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2070472888860160123",
+        "created_at": "2026-06-26T15:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070532582664495134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631886937890930688",
+              "start": 0,
+              "username": "siegfried124"
+            },
+            {
+              "end": 27,
+              "id": "1677462611930251264",
+              "start": 14,
+              "username": "NorwindSkies"
+            },
+            {
+              "end": 36,
+              "id": "1239457591417171973",
+              "start": 28,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070532582664495134",
+        "in_reply_to_user_id": "1631886937890930688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070522168144736440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siegfried124 @NorwindSkies @GFWfrog 911之前不行，911之后无视战机警告是可以直接击落的。不管怎么说至少得有拦截战机吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631886937890930688",
+        "conversation_id": "2070472888860160123",
+        "created_at": "2026-06-26T14:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070522168144736440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677462611930251264",
+              "start": 0,
+              "username": "NorwindSkies"
+            },
+            {
+              "end": 22,
+              "id": "1239457591417171973",
+              "start": 14,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070522168144736440",
+        "in_reply_to_user_id": "1677462611930251264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070495659417833741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NorwindSkies @GFWfrog 你也是神人，911美国人看到航路异常还不答复的飞机是不是要直接打下来？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1001,
+          "like_count": 7135,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-04T05:19:20.000Z",
+        "description": "",
+        "id": "1631886937890930688",
+        "name": "刀客塔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014698024325316608/vLz0Hj4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 32,
+          "like_count": 2225,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "siegfried124",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T23:42:27.000Z",
+        "description": "It's me norwind❄️",
+        "id": "1677462611930251264",
+        "location": "Unknown",
+        "name": "It's Norwind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936391728656711680/BjZjRjJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 216,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "NorwindSkies",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大躺平运动 #不正确记忆\n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "大躺平运动"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "不正确记忆"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 74,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 51,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 103,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 80,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2068280742103154785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265128,
+          "following_count": 2554,
+          "like_count": 129208,
+          "listed_count": 915,
+          "media_count": 7574,
+          "tweet_count": 14324
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}
