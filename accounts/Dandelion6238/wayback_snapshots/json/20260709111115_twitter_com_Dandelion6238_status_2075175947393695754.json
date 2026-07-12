@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2075110438883529058",
+    "created_at": "2026-07-09T11:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075175947393695754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        },
+        {
+          "end": 29,
+          "id": "1918274202580467713",
+          "start": 14,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 39,
+          "id": "1692075579850563584",
+          "start": 30,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075175947393695754",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075166857020256577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd @CyberKanjousen @10Lystra 啧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2075110438883529058",
+        "created_at": "2026-07-09T11:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075175947393695754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            },
+            {
+              "end": 29,
+              "id": "1918274202580467713",
+              "start": 14,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 39,
+              "id": "1692075579850563584",
+              "start": 30,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075175947393695754",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075166857020256577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd @CyberKanjousen @10Lystra 啧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678117449508753408",
+        "conversation_id": "2075110438883529058",
+        "created_at": "2026-07-09T10:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075166857020256577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 25,
+              "id": "1692075579850563584",
+              "start": 16,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075166857020256577",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075110438883529058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @10Lystra 山东乳交。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 1003,
+          "like_count": 7122,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1048
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS Bipolar Chaos-Evil 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android Doubao-8b 退役HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 144,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "乡北茶舍",
+        "name": "虚拟粘同学会梦到一般通过赛博溺水态李颖吗☆",
+        "pinned_tweet_id": "2009209330239983965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1879,
+          "like_count": 26927,
+          "listed_count": 11,
+          "media_count": 1132,
+          "tweet_count": 27021
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9434,
+          "following_count": 879,
+          "like_count": 30156,
+          "listed_count": 12,
+          "media_count": 1962,
+          "tweet_count": 9966
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 1075,
+          "like_count": 2670,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 9157
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      }
+    ]
+  }
+}

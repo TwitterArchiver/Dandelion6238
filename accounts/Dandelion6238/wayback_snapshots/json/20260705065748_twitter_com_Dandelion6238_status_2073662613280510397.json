@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2073282311588852212",
+    "created_at": "2026-07-05T06:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073662613280510397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692075579850563584",
+          "start": 0,
+          "username": "10Lystra"
+        },
+        {
+          "end": 22,
+          "id": "1705499676953497600",
+          "start": 10,
+          "username": "liwanmiaohy"
+        },
+        {
+          "end": 39,
+          "id": "2030261557087854592",
+          "start": 23,
+          "username": "Xianyufanfan215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073662613280510397",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073629939937538389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10Lystra @liwanmiaohy @Xianyufanfan215 家死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2073282311588852212",
+        "created_at": "2026-07-05T06:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073662613280510397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 22,
+              "id": "1705499676953497600",
+              "start": 10,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 39,
+              "id": "2030261557087854592",
+              "start": 23,
+              "username": "Xianyufanfan215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073662613280510397",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073629939937538389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @liwanmiaohy @Xianyufanfan215 家死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2073282311588852212",
+        "created_at": "2026-07-05T04:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073629939937538389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 29,
+              "id": "2030261557087854592",
+              "start": 13,
+              "username": "Xianyufanfan215"
+            },
+            {
+              "end": 44,
+              "id": "1739437517772926976",
+              "start": 30,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073629939937538389",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073282311588852212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @Xianyufanfan215 @Dandelion6238 妈妈我们家呢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 1004,
+          "like_count": 7125,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1045
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 1065,
+          "like_count": 2654,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 9018
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 652,
+          "like_count": 3831,
+          "listed_count": 7,
+          "media_count": 170,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T12:38:04.000Z",
+        "description": "甜腻的梦像纱裙般缠绕舌尖，如果许愿足够虔诚，月光会不会把我变成童话里转着裙摆的女孩  恋人@liwanmiaohy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "liwanmiaohy"
+              }
+            ]
+          }
+        },
+        "id": "2030261557087854592",
+        "name": "Xianyufanfan🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031191943724814336/jCOh5CcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 33,
+          "like_count": 20,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "Xianyufanfan215",
+        "verified": false
+      }
+    ]
+  }
+}
