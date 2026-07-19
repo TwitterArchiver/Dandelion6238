@@ -10,10 +10,11 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 31,
-        "start": 24,
-        "username": "khdrd4"
+        "end": 11,
+        "start": 2,
+        "username": "10Lystra"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg"
 }
