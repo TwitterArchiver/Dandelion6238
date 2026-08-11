@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2083525505341681946",
+    "created_at": "2026-08-02T22:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084046248324260025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692075579850563584",
+          "start": 0,
+          "username": "10Lystra"
+        },
+        {
+          "end": 26,
+          "id": "1805486587666644992",
+          "start": 10,
+          "username": "Akebono__Yohira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084046248324260025",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083924613575123354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10Lystra @Akebono__Yohira ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2083525505341681946",
+        "created_at": "2026-08-02T22:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084046248324260025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 26,
+              "id": "1805486587666644992",
+              "start": 10,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084046248324260025",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083924613575123354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @Akebono__Yohira ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083525505341681946",
+        "created_at": "2026-08-02T14:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083924613575123354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805486587666644992",
+              "start": 0,
+              "username": "Akebono__Yohira"
+            },
+            {
+              "end": 31,
+              "id": "1739437517772926976",
+              "start": 17,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083924613575123354",
+        "in_reply_to_user_id": "1805486587666644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083525505341681946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akebono__Yohira @Dandelion6238 你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1000,
+          "like_count": 7097,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1114,
+          "like_count": 2847,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 10026
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "又做了，相同的梦。\n避难舱：@Akebono6sqrt249\n里账号：@KamomeCasiopeia 看情况通过验证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Akebono6sqrt249"
+              },
+              {
+                "end": 51,
+                "start": 35,
+                "username": "KamomeCasiopeia"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "location": "千島列島",
+        "name": "✱ YOHIRA ✿",
+        "pinned_tweet_id": "2071043134495375663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077414982162243584/1h-fqQpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 3293,
+          "like_count": 24361,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 4355
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2080226150941438083",
+    "created_at": "2026-07-23T11:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080260852326740378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3187629390",
+          "start": 0,
+          "username": "Bc3660S"
+        },
+        {
+          "end": 18,
+          "id": "1692075579850563584",
+          "start": 9,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080260852326740378",
+    "in_reply_to_user_id": "3187629390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080226503824933137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bc3660S @10Lystra 论AI对AI的异化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2080226150941438083",
+        "created_at": "2026-07-23T11:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080260852326740378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3187629390",
+              "start": 0,
+              "username": "Bc3660S"
+            },
+            {
+              "end": 18,
+              "id": "1692075579850563584",
+              "start": 9,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080260852326740378",
+        "in_reply_to_user_id": "3187629390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080226503824933137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bc3660S @10Lystra 论AI对AI的异化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3187629390",
+        "conversation_id": "2080226150941438083",
+        "created_at": "2026-07-23T09:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080226503824933137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080226503824933137",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080226150941438083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 蹲一下，同想了解回龙观加号流程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1003,
+          "like_count": 7098,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-07T12:47:27.000Z",
+        "description": "银狐VPN，高速稳定，下载送2天，邀请送3天，提前安装更省心。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/9X7NwurX9c"
+              }
+            ]
+          }
+        },
+        "id": "3187629390",
+        "name": "银狐VPN智能快连",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077460012125827072/zEr5VXKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/9X7NwurX9c",
+        "username": "Bc3660S",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1088,
+          "like_count": 2740,
+          "listed_count": 5,
+          "media_count": 364,
+          "tweet_count": 9632
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      }
+    ]
+  }
+}

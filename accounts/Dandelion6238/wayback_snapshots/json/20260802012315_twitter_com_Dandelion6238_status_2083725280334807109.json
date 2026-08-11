@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2083722365486424453",
+    "created_at": "2026-08-02T01:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083725280334807109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1727922494391353344",
+          "start": 0,
+          "username": "agteshdesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083725280334807109",
+    "in_reply_to_user_id": "1727922494391353344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083722365486424453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agteshdesu 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2083722365486424453",
+        "created_at": "2026-08-02T01:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083725280334807109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1727922494391353344",
+              "start": 0,
+              "username": "agteshdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083725280334807109",
+        "in_reply_to_user_id": "1727922494391353344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083722365486424453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agteshdesu 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727922494391353344",
+        "conversation_id": "2083722365486424453",
+        "created_at": "2026-08-02T01:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083722365486424453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion6238"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kdl0kxjc7ezmpx…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/kdl0kxjc7ezmpxy/status/1919690168384041170",
+              "start": 21,
+              "url": "https://t.co/7Cmn5GNVCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083722365486424453",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919690168384041170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion6238 omg。。 https://t.co/7Cmn5GNVCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1000,
+          "like_count": 7097,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1055
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T05:30:15.000Z",
+        "description": "🏳️‍⚧️ Otherkin Tgirl hrt2017/🏳️‍🌈wlw/Goth⚰/ My wife @HLlingbo and my loving mommy @Dandelion6238 @10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "HLlingbo"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Dandelion6238"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1727922494391353344",
+        "name": "Aggtesh🧠",
+        "pinned_tweet_id": "1878346642740683223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727922924550840320/_nU-Oh5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 372,
+          "like_count": 2099,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "agteshdesu",
+        "verified": false
+      }
+    ]
+  }
+}
