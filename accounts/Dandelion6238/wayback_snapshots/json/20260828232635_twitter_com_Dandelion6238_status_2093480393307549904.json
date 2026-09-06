@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739437517772926976",
+    "conversation_id": "2093388911217373274",
+    "created_at": "2026-08-28T23:26:35.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093480393307549904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819234386824646656",
+          "start": 0,
+          "username": "Chihiro_cicada"
+        },
+        {
+          "end": 25,
+          "id": "1692075579850563584",
+          "start": 16,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093480393307549904",
+    "in_reply_to_user_id": "1819234386824646656",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093388911217373274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihiro_cicada @10Lystra wtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19110,
+        "height": 720,
+        "media_key": "13_2093388881702047744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093388881702047744/img/DFmZNzrUXlPvwRQO.jpg",
+        "public_metrics": {
+          "view_count": 278228
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093388881702047744/vid/avc1/480x270/h5UPMWBZdvEiA35u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093388881702047744/vid/avc1/640x360/nq5fpJpbI_qHy2er.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093388881702047744/vid/avc1/1280x720/BGGv_CufB2ScjEaX.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093388881702047744/pl/xyYlJ_QVJ_BZ4zTx.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "2093388911217373274",
+        "created_at": "2026-08-28T23:26:35.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093480393307549904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819234386824646656",
+              "start": 0,
+              "username": "Chihiro_cicada"
+            },
+            {
+              "end": 25,
+              "id": "1692075579850563584",
+              "start": 16,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093480393307549904",
+        "in_reply_to_user_id": "1819234386824646656",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093388911217373274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihiro_cicada @10Lystra wtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093388881702047744"
+          ]
+        },
+        "author_id": "1819234386824646656",
+        "conversation_id": "2093388911217373274",
+        "created_at": "2026-08-28T17:23:04.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093388911217373274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7TyQNLZ0t",
+              "end": 23,
+              "expanded_url": "https://x.com/Chihiro_cicada/status/2093388911217373274/video/1",
+              "media_key": "13_2093388881702047744",
+              "start": 0,
+              "url": "https://t.co/k7TyQNLZ0t"
+            },
+            {
+              "display_url": "x.com/y_ganman3/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/y_ganman3/status/2093170891408773368",
+              "start": 24,
+              "url": "https://t.co/KDAuPp2gJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093388911217373274",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093388881702047744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4073,
+          "impression_count": 590193,
+          "like_count": 9485,
+          "quote_count": 63,
+          "reply_count": 48,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093170891408773368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/k7TyQNLZ0t https://t.co/KDAuPp2gJC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093480393307549904",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739437517772926976/1758723557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 990,
+          "like_count": 7061,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T04:51:12.000Z",
+        "description": "BlueArchive/Military/Gun\n\n🔑@supiki__\n@yabeyache←乗っ取られたかつてのあーし",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "supiki__"
+              },
+              {
+                "end": 47,
+                "start": 37,
+                "username": "yabeyache"
+              }
+            ]
+          }
+        },
+        "id": "1819234386824646656",
+        "is_identity_verified": false,
+        "location": "梅花園",
+        "most_recent_tweet_id": "2093389760807248044",
+        "name": "𝙁𝙚𝙣𝙘𝙚𝙧",
+        "pinned_tweet_id": "2091177579344703873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819234386824646656/1786956008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091762605228748800/MbrTJ1bZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 3699,
+          "like_count": 215170,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 20791
+        },
+        "url": "",
+        "username": "Chihiro_cicada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2093375273278259642",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 1210,
+          "like_count": 3014,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 11480
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
